@@ -17,6 +17,14 @@ jobs:
       - name: 取り先ごとに試す
         run: python3 probe.py
 
+      - name: Claude の API が通るか（短い 1 回）
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ARS_MODEL: ${{ vars.ARS_MODEL }}
+        run: |
+          pip install -q anthropic
+          python3 -c "import sys; sys.path.insert(0, '_道具'); import arsfetch as a; print('モデル', a.CLAUDE_MODEL); print('返事', a.claude_json('次の英語の見出しを自然な日本語に訳し、JSON だけを返してください。形式: {\"h\": \"訳\"}。見出し: Arsenal prepare for Hull City trip'))"
+
       - name: 取り込みを 1 回通す
         run: |
           mkdir -p 見本_20261030
