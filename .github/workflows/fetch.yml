@@ -1,0 +1,83 @@
+# 本番の取り込み：5 分ごとに ESPN・YouTube・ニュースを取り込んで data.js を作り、公開先（clockend.jp）へ送る
+# 控え（state.json＝初めて見た時刻・名前と訳／summary＝試合ごとの ESPN の詳細）は actions/cache で次の回へ渡す
+name: fetch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      UPDATE_KEY: ${{ secrets.UPDATE_KEY }}
+      ARS_SKIP_RSS: "1"
+      ARS_MODEL: ${{ vars.ARS_MODEL }}  # 空なら claude-opus-5-5（Settings → Variables で替えられる）
+      TZ: Asia/Tokyo
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 前回の控えを戻す
+        uses: actions/cache/restore@v4
+        with:
+          path: _データ_自動/state.json
+          key: state-${{ github.run_id }}
+          restore-keys: state-
+
+      - name: 試合の詳細の控えを戻す
+        uses: actions/cache/restore@v4
+        with:
+          path: _データ_自動/summary
+          key: summary-none
+          restore-keys: summary-
+
+      - name: 取り込み
+        run: |
+          mkdir -p 見本_20261030
+          python _道具/arsfetch.py
+
+      - name: 公開先へ送る
+        run: python _道具/upload.py
+
+      - name: 控えを次の回へ
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: _データ_自動/state.json
+          key: state-${{ github.run_id }}
+
+      - name: 試合の詳細の控えを次の回へ（中身が変わった時だけ）
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: _データ_自動/summary
+          key: summary-${{ hashFiles('_データ_自動/summary/*.json') }}
+
+      # 1 日 1 回、控えをリポジトリにも残す（cache が消えた時の戻り先・60 日動きが無いと定期実行が止まる決まりの対策）
+      - name: 控えをコミット（1 日 1 回）
+        run: |
+          last=$(git log -1 --format=%ct -- _データ_自動/state.json)
+          if [ $(( $(date +%s) - last )) -gt 86400 ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _データ_自動/state.json
+            git commit -m "控え: state.json" && git push || true
+          fi

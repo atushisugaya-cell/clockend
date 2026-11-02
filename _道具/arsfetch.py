@@ -283,7 +283,37 @@ def aliases(key):
 
 
 # ---------------------------------------------------------------- claude（名前と訳）
+# GitHub Actions では ANTHROPIC_API_KEY（リポジトリの Secrets）で API に頼む。手元の PC は claude（Claude Code）に頼む
+CLAUDE_MODEL = os.environ.get("ARS_MODEL") or "claude-opus-5-5"
+
+
+def claude_api_text(prompt):
+    import anthropic
+    r = anthropic.Anthropic().beta.messages.create(
+        model=CLAUDE_MODEL,
+        max_tokens=16000,
+        output_config={"effort": "low"},
+        betas=["server-side-fallback-2026-07-01"],
+        fallbacks="default",
+        messages=[{"role": "user", "content": prompt}],
+    )
+    if r.stop_reason == "refusal":
+        raise RuntimeError(f"断られた: {getattr(r.stop_details, 'category', None)}")
+    return "".join(b.text for b in r.content if b.type == "text")
+
+
 def claude_json(prompt, timeout=240):
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        try:
+            out = claude_api_text(prompt).strip()
+            m = re.search(r"\{.*\}", out, re.S)
+            if not m:
+                log(f"API の返事に JSON が無い: {out[:120]}")
+                return None
+            return json.loads(m.group(0))
+        except Exception as e:
+            log(f"API に頼めなかった: {type(e).__name__}: {str(e)[:200]}")
+            return None
     exe = shutil.which("claude")
     if not exe:
         log("claude が見つからないので、訳は英語のままにします")
@@ -318,8 +348,9 @@ def ensure_names(st, names):
             if k in need and isinstance(v, list) and len(v) >= 2:
                 st["names"][k] = [str(v[0]), str(v[1])]
                 ok += 1
-    for n in need:
-        st["names"].setdefault(n, [n, n])
+    if isinstance(res, dict):  # 頼めなかった時（鍵が無い・claude が無い）は控えず、次の回に聞き直す
+        for n in need:
+            st["names"].setdefault(n, [n, n])
     log(f"名前の表記: {ok}/{len(need)} 人分を受け取った")
 
 
@@ -653,7 +684,13 @@ def espn_round(e, ars_events):
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015", "media": "http://search.yahoo.com/mrss/"}
 
 
+# GitHub のサーバーからは YouTube の RSS が 404 になる（11/2 の試し）＝ARS_SKIP_RSS=1 で取りに行かず、チャンネルのページだけで拾う
+SKIP_RSS = os.environ.get("ARS_SKIP_RSS") == "1"
+
+
 def yt_feed(cid):
+    if SKIP_RSS:
+        raise RuntimeError("RSS は使わない設定")
     data = fetch(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
     root = ET.fromstring(data)
     out = []
@@ -824,7 +861,8 @@ def collect_videos(st):
         try:
             items = yt_feed(cid)
         except Exception as ex:
-            log(f"{nm} の RSS が取れない: {ex}")
+            if not SKIP_RSS:
+                log(f"{nm} の RSS が取れない: {ex}")
         extra = yt_channel_scrape(cid)
         seen = {x["v"] for x in items}
         for x in extra:
@@ -925,7 +963,8 @@ def collect_shorts(st):
     try:
         items = yt_feed(ARSENAL_CH)
     except Exception as ex:
-        log(f"アーセナル公式の RSS が取れない: {ex}（ショートのタブから拾う）")
+        if not SKIP_RSS:
+            log(f"アーセナル公式の RSS が取れない: {ex}（ショートのタブから拾う）")
         items = yt_channel_shorts(ARSENAL_CH)[:15]  # RSS が 404 の時の代わり（11/1 に全チャンネル 404 になった）
         for x in items:
             st["shorts"][x["v"]] = True  # ショートのタブにある物は縦動画と分かっている
@@ -1065,7 +1104,7 @@ def collect_news(st, matches):
             v = (res or {}).get(str(i)) if isinstance(res, dict) else None
             if isinstance(v, dict) and v.get("h"):
                 st["tr"][n["link"]] = {"h": v["h"], "sum": v.get("sum", "")}
-            else:  # 訳が来なかった物は英語のまま載せ、毎回聞き直さない
+            elif isinstance(res, dict):  # 返事はあったのに訳が無い物は英語のまま載せ、毎回聞き直さない（頼めなかった時は次の回に聞き直す）
                 st["tr"][n["link"]] = {"h": n["_en"], "sum": "", "fail": 1}
     for n in out:
         if n.get("ov"):
