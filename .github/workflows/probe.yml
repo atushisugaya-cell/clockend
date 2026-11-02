@@ -1,0 +1,32 @@
+# 試し：GitHub のサーバーから取り先が取れるか・取り込みが 1 回通るか（公開先へは送らない・訳はしない）
+name: probe
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 取り先ごとに試す
+        run: python3 probe.py
+
+      - name: 取り込みを 1 回通す
+        run: |
+          mkdir -p 見本_20261030
+          python3 _道具/arsfetch.py
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: probe-result
+          path: |
+            見本_20261030/data.js
+            _ログ/

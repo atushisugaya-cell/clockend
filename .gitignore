@@ -1,0 +1,7 @@
+__pycache__/
+_ログ/
+_データ_自動/raw/
+_データ_自動/summary/
+_データ_自動/upload.json
+_データ_自動/runner.lock
+見本_20261030/
