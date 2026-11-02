@@ -48,10 +48,35 @@ jobs:
           key: summary-none
           restore-keys: summary-
 
+      - name: 選手タブの控えを戻す
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            _データ_自動/squad.js
+            _データ_自動/yoso_sum.json
+            _データ_自動/yoso_items.json
+          key: players-${{ github.run_id }}
+          restore-keys: players-
+
       - name: 取り込み
         run: |
           mkdir -p 見本_20261030
           python _道具/arsfetch.py
+
+      # 「選手」タブ（11/2）＝名鑑は 3 時間ごと・大会ごとの数字と記者の予想は毎回 → data.js の後ろに足す。失敗しても送るのは止めない
+      - name: 選手タブのデータ
+        continue-on-error: true
+        env:
+          ARS_DATA_JS: 見本_20261030/data.js
+          ARS_SQUAD_JS: _データ_自動/squad.js
+          ARS_COMPS_OUT: _データ_自動/comps.js
+          ARS_SQUAD_MAX_AGE_MIN: "180"
+        run: |
+          python _道具/squad.py _データ_自動/squad.js || echo "名鑑の取り込みに失敗（前の物で続ける）"
+          python _道具/comps_mock.py || echo "大会ごとの数字に失敗"
+          python _道具/yoso.py || echo "記者の予想に失敗"
+          for f in yoso_sum.json yoso_items.json; do [ -f "_データ_自動/$f" ] || echo '{}' > "_データ_自動/$f"; done
+          python _道具/players_pack.py 見本_20261030/data.js
 
       - name: 公開先へ送る
         run: python _道具/upload.py
@@ -62,6 +87,17 @@ jobs:
         with:
           path: _データ_自動/state.json
           key: state-${{ github.run_id }}
+
+      - name: 選手タブの控えを次の回へ
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            _データ_自動/squad.js
+            _データ_自動/yoso_sum.json
+            _データ_自動/yoso_items.json
+          key: players-${{ github.run_id }}
 
       - name: 試合の詳細の控えを次の回へ（中身が変わった時だけ）
         if: always()
