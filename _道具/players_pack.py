@@ -31,16 +31,29 @@ def main():
     except Exception as ex:
         print(f"YOSO が読めない（空で足す）: {ex}")
         yoso = {"opp": {}, "items": []}
+    # 11/3＝ケガ・出場停止（injuries.py）とメディアの採点（ratings.py）。無ければ空
+    try:
+        inj = json.load(open(os.path.join(AUTO, "injuries.json"), encoding="utf-8"))
+    except Exception as ex:
+        print(f"INJ が読めない（空で足す）: {ex}")
+        inj = {"updated": None, "src": "", "list": []}
+    try:
+        mr = json.load(open(os.path.join(AUTO, "ratings.json"), encoding="utf-8"))
+        for rec in mr.values():  # 記事の題と Google の住所は載せない（題に結果が入る）
+            rec["outlets"] = [{k: o[k] for k in ("src", "url", "r", "mgr") if k in o} for o in rec.get("outlets", [])]
+    except Exception as ex:
+        print(f"MRATE が読めない（空で足す）: {ex}")
+        mr = {}
     src = open(DATA_JS, encoding="utf-8").read()
     if MARK in src:  # 前に足した分は外してから足し直す
         src = src[:src.index(MARK)]
     add = MARK
-    for k, v in (("SQUAD", squad), ("SQUAD_META", squad_meta), ("COMPS", comps), ("YOSO", yoso)):
+    for k, v in (("SQUAD", squad), ("SQUAD_META", squad_meta), ("COMPS", comps), ("YOSO", yoso), ("INJ", inj), ("MRATE", mr)):
         add += f"const {k} = {json.dumps(v, ensure_ascii=False)};\n"
     tmp = DATA_JS + ".tmp"
     open(tmp, "w", encoding="utf-8", newline="\n").write(src + add)
     os.replace(tmp, DATA_JS)
-    print(f"data.js に足した：選手 {len(squad)}・試合 {len(comps.get('matches', []))}・予想 {len(yoso.get('items', []))}（{len(add) // 1024} KB）")
+    print(f"data.js に足した：選手 {len(squad)}・試合 {len(comps.get('matches', []))}・予想 {len(yoso.get('items', []))}・ケガ {len(inj.get('list', []))}・採点 {sum(v.get('n', 0) for v in mr.values())} 本（{len(add) // 1024} KB）")
 
 
 if __name__ == "__main__":

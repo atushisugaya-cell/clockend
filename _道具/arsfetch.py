@@ -58,7 +58,7 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 
 # ESPN の表示名 → (記号, 日本語, 略, 色, 題に出る呼び方, しま模様)
 TEAMS = {
-    "Arsenal": ("arsenal", "アーセナル", "ARS", "#DB0007", ["アーセナル"]),
+    "Arsenal": ("arsenal", "アーセナル", "ARS", "#EF0107", ["アーセナル"]),
     "Everton": ("everton", "エヴァートン", "EVE", "#1B3C8C", ["エヴァートン", "エバートン"]),
     "Nottingham Forest": ("forest", "フォレスト", "NFO", "#8E1220", ["フォレスト"]),
     "Leeds United": ("leeds", "リーズ", "LEE", "#1D428A", ["リーズ"]),
@@ -1092,20 +1092,37 @@ def collect_news(st, matches):
     ja = [n for n in out if not n.get("ov")][:22]
     ov = [n for n in out if n.get("ov")][:8]
     out = sorted(ja + ov, key=lambda n: n["t"], reverse=True)
-    # 英語の見出しの訳と要点（控えがある物はそのまま）
-    need = [n for n in out if n.get("ov") and n["link"] not in st["tr"]]
+    # 英語の見出しの訳と要点（控えがある物はそのまま）。11/3＝記事の冒頭（gnews.py で住所を復号して本文を取る）から要点を書く・v2
+    #   古い控え（v2 でない・fail でない）は 1 回だけ作り直す＝「新加入選手」のようにぼかした要約を、本文の名前で言い直すため
+    need = [n for n in out if n.get("ov") and (n["link"] not in st["tr"] or (st["tr"][n["link"]].get("v") != 2 and not st["tr"][n["link"]].get("fail")))][:8]
     if need:
-        log(f"英語の見出し {len(need)} 本の訳と要点を claude に頼む")
-        lines = "\n".join(f"[{i}] 見出し: {n['_en']}\n    本文の冒頭: {n['_desc'][:300] or '（なし）'}" for i, n in enumerate(need))
-        prompt = ("次はアーセナル（サッカー）に関する英語の記事の見出しと本文の冒頭です。それぞれについて、(1) 見出しの自然な日本語訳、(2) 見出しと冒頭から分かることだけを使った 1〜2 文の要点（ですます調・推測で事実を足さない・選手名は日本の報道の表記）を書いてください。"
+        log(f"英語の見出し {len(need)} 本の訳と要点を claude に頼む（本文の冒頭つき）")
+        try:
+            import gnews
+        except Exception:
+            gnews = None
+        for n in need:
+            body = ""
+            if gnews:
+                try:
+                    u = gnews.resolve(n["link"])
+                    body = gnews.article_text(u, 6000) if u else ""
+                except Exception as ex:
+                    log(f"本文が取れない: {type(ex).__name__}: {str(ex)[:100]}")
+            n["_body"] = re.sub(r"\s+", " ", body)[:1500] or n["_desc"][:300]
+        lines = "\n".join(f"[{i}] 見出し: {n['_en']}\n    本文の冒頭: {n['_body'] or '（なし）'}" for i, n in enumerate(need))
+        prompt = ("次はアーセナル（サッカー）に関する英語の記事の見出しと本文の冒頭です。それぞれについて、(1) 見出しの自然な日本語訳、"
+                  "(2) 見出しと本文から分かることだけを使った 1〜2 文の要点（ですます調・推測で事実を足さない・選手名は日本の報道の表記）を書いてください。"
+                  "見出しが『新加入選手』『あのスター』のようにぼかしている時は、本文にある名前・金額・日付で、読んだ人の『誰？いくら？いつ？』に答えてください。"
+                  "要点の中で一番大事な語（選手名・金額・日付など）を 1 つだけ ⟪ ⟫ で囲んでください。試合の結果（スコア・勝ち負け）は書かないでください。"
                   "JSON だけを返し、説明やコードブロックは不要です。形式: {\"0\": {\"h\": \"訳\", \"sum\": \"要点\"}, \"1\": ...}\n\n" + lines)
         res = claude_json(prompt)
         for i, n in enumerate(need):
             v = (res or {}).get(str(i)) if isinstance(res, dict) else None
             if isinstance(v, dict) and v.get("h"):
-                st["tr"][n["link"]] = {"h": v["h"], "sum": v.get("sum", "")}
+                st["tr"][n["link"]] = {"h": v["h"], "sum": v.get("sum", ""), "v": 2}
             elif isinstance(res, dict):  # 返事はあったのに訳が無い物は英語のまま載せ、毎回聞き直さない（頼めなかった時は次の回に聞き直す）
-                st["tr"][n["link"]] = {"h": n["_en"], "sum": "", "fail": 1}
+                st["tr"][n["link"]] = {"h": n["_en"], "sum": "", "fail": 1, "v": 2}
     for n in out:
         if n.get("ov"):
             tr = st["tr"].get(n["link"])
@@ -1113,7 +1130,7 @@ def collect_news(st, matches):
                 n["h"], n["sum"] = tr["h"], tr.get("sum", "")
             else:
                 n["sum"] = ""
-        for k in ("_key", "_desc", "_en"):
+        for k in ("_key", "_desc", "_en", "_body"):
             n.pop(k, None)
     return out
 
@@ -1340,7 +1357,7 @@ def run():
             "live": [{"id": e["id"], "hs": e["hs"], "as": e["as"], "detail": e["detail"]} for e in live]}
     if nxt is None:  # 予定が無い時も画面が壊れないように
         nxt = {"lab": "次の試合は未定", "d": to_iso(now() + dt.timedelta(days=30)), "h": "arsenal", "a": "arsenal", "venue": "", "id": ""}
-    ncats = [{"k": "all", "n": "すべて", "c": "#DB0007"}, {"k": "tr", "n": "移籍", "c": "#1E7BD8"}, {"k": "mt", "n": "試合", "c": "#12A150"},
+    ncats = [{"k": "all", "n": "すべて", "c": "#EF0107"}, {"k": "tr", "n": "移籍", "c": "#1E7BD8"}, {"k": "mt", "n": "試合", "c": "#12A150"},
              {"k": "inj", "n": "出場停止・ケガ", "c": "#E58A00"}, {"k": "ov", "n": "海外", "c": "#7B4BD1"}, {"k": "wm", "n": "女子", "c": "#D6337A"}]
     data = {"TEAMS": teams_js(), "CH": {k: {"n": v[0], "c": v[2]} for k, v in CHANNELS.items()}, "NCATS": ncats, "MATCHES": matches, "GOALS": goals, "NEXT": nxt, "TABLE": table,
             "ROUND_CUR": round_cur, "ROUND_PREV": round_prev, "SCORERS": leaders.get("SCORERS", []), "ASSISTS": leaders.get("ASSISTS", []),

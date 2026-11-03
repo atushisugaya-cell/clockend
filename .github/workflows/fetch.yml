@@ -55,6 +55,9 @@ jobs:
             _データ_自動/squad.js
             _データ_自動/yoso_sum.json
             _データ_自動/yoso_items.json
+            _データ_自動/injuries.json
+            _データ_自動/ratings.json
+            _データ_自動/gnews_cache.json
           key: players-${{ github.run_id }}
           restore-keys: players-
 
@@ -75,7 +78,9 @@ jobs:
           python _道具/squad.py _データ_自動/squad.js || echo "名鑑の取り込みに失敗（前の物で続ける）"
           python _道具/comps_mock.py || echo "大会ごとの数字に失敗"
           python _道具/yoso.py || echo "記者の予想に失敗"
-          for f in yoso_sum.json yoso_items.json; do [ -f "_データ_自動/$f" ] || echo '{}' > "_データ_自動/$f"; done
+          python _道具/injuries.py || echo "ケガ・出場停止に失敗（前の物で続ける）"
+          python _道具/ratings.py || echo "メディアの採点に失敗（前の物で続ける）"
+          for f in yoso_sum.json yoso_items.json gnews_cache.json; do [ -f "_データ_自動/$f" ] || echo '{}' > "_データ_自動/$f"; done
           python _道具/players_pack.py 見本_20261030/data.js
 
       - name: 公開先へ送る
@@ -97,6 +102,9 @@ jobs:
             _データ_自動/squad.js
             _データ_自動/yoso_sum.json
             _データ_自動/yoso_items.json
+            _データ_自動/injuries.json
+            _データ_自動/ratings.json
+            _データ_自動/gnews_cache.json
           key: players-${{ github.run_id }}
 
       - name: 試合の詳細の控えを次の回へ（中身が変わった時だけ）
