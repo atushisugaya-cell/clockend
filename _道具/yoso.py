@@ -107,7 +107,9 @@ def layout(groups):
     for i, g in enumerate(rows):
         k = len(g)
         for j, no in enumerate(g):
-            x = 50 if k == 1 else round(13 + (100 - 26) * j / (k - 1))
+            # 記事の並びは英国の慣例で右から左（RB, CB, CB, LB／RW, AM, LW）＝先頭を右（x 大）に置く。
+            # ESPN の座標（左 SB が x 小）と同じ向きになる（11/3 まで先頭を左に置いて鏡になっていた）
+            x = 50 if k == 1 else round(13 + (100 - 26) * (k - 1 - j) / (k - 1))
             out.append({"no": no, "x": x, "y": ys[i]})
     fm = "-".join(str(len(g)) for g in rows[1:])
     return out, fm
@@ -265,6 +267,10 @@ def main():
                 continue
             if got and cache.get(it["link"]) is not None:
                 xi, fm, pos, how, text = got["xi"], got["fm"], got["pos"], got["how"], ""
+                if got.get("v") != 2:  # 11/3 より前の控えは左右が鏡＝x を反転して控え直す（1 回だけ）
+                    pos = [dict(p, x=100 - p["x"]) for p in pos]
+                    got.update(pos=pos, v=2); icache[it["link"]] = got
+                    json.dump(icache, open(ITEM_CACHE, "w", encoding="utf-8"), ensure_ascii=False)
             else:
                 try:
                     text = text_of(it["link"], lang)
@@ -275,7 +281,7 @@ def main():
                     icache[it["link"]] = {"skip": 1}
                     json.dump(icache, open(ITEM_CACHE, "w", encoding="utf-8"), ensure_ascii=False)
                     continue  # 相手側の記事など、アーセナルの 11 人が無い物は捨てる
-                icache[it["link"]] = {"xi": xi, "fm": fm, "pos": pos, "how": how}
+                icache[it["link"]] = {"xi": xi, "fm": fm, "pos": pos, "how": how, "v": 2}
                 json.dump(icache, open(ITEM_CACHE, "w", encoding="utf-8"), ensure_ascii=False)
             summ = cache.get(it["link"])
             if summ is None:
