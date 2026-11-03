@@ -616,13 +616,14 @@ def espn_standings():
     return [r[:7] for r in rows]
 
 
-def espn_leaders(st):
-    j = jget(f"{ESPN}eng.1/statistics", "stats.json")
+def espn_leaders(st, lg="eng.1", raw="stats.json", n=9):
+    """得点王・アシスト王（ESPN の statistics）。lg＝eng.1（プレミア）／uefa.champions（CL）／eng.league_cup（カラバオ杯）（11/4 PC 版の右の欄で大会を切り替える）"""
+    j = jget(f"{ESPN}{lg}/statistics", raw)
     cats = {c["name"]: c for c in j.get("stats", [])}
     out = {}
     for key, cname in (("SCORERS", "goalsLeaders"), ("ASSISTS", "assistsLeaders")):
         rows = []
-        for L in (cats.get(cname) or {}).get("leaders", [])[:9]:
+        for L in (cats.get(cname) or {}).get("leaders", [])[:n]:
             a = L["athlete"]
             apps = 0
             for s in (a.get("statistics") or []):
@@ -1232,10 +1233,24 @@ def run():
                 names.add(r[0])
     except Exception as ex:
         log(f"得点王が取れない: {ex}")
+    leaders2 = {}   # CL・カップ戦の得点王・アシスト王（11/4・PC 版の右の欄）＝{"cl": {"s": [...], "a": [...]}, "cup": {...}}
+    for k2, lg2 in (("cl", "uefa.champions"), ("cup", "eng.league_cup")):
+        try:
+            d2 = espn_leaders(st, lg2, f"stats_{k2}.json", 10)
+            leaders2[k2] = {"s": d2["SCORERS"], "a": d2["ASSISTS"]}
+            for rows in d2.values():
+                for r in rows:
+                    names.add(r[0])
+        except Exception as ex:
+            log(f"{k2} の得点王が取れない: {ex}")
     ensure_names(st, names)
     for rows in leaders.values():
         for r in rows:
             r[0] = ja_name(st, r[0])
+    for d2 in leaders2.values():
+        for rows in d2.values():
+            for r in rows:
+                r[0] = ja_name(st, r[0])
 
     # 4. 動画
     collect_videos(st)
@@ -1360,7 +1375,7 @@ def run():
     ncats = [{"k": "all", "n": "すべて", "c": "#EF0107"}, {"k": "tr", "n": "移籍", "c": "#1E7BD8"}, {"k": "mt", "n": "試合", "c": "#12A150"},
              {"k": "inj", "n": "出場停止・ケガ", "c": "#E58A00"}, {"k": "ov", "n": "海外", "c": "#7B4BD1"}, {"k": "wm", "n": "女子", "c": "#D6337A"}]
     data = {"TEAMS": teams_js(), "CH": {k: {"n": v[0], "c": v[2]} for k, v in CHANNELS.items()}, "NCATS": ncats, "MATCHES": matches, "GOALS": goals, "NEXT": nxt, "TABLE": table,
-            "ROUND_CUR": round_cur, "ROUND_PREV": round_prev, "SCORERS": leaders.get("SCORERS", []), "ASSISTS": leaders.get("ASSISTS", []),
+            "ROUND_CUR": round_cur, "ROUND_PREV": round_prev, "SCORERS": leaders.get("SCORERS", []), "ASSISTS": leaders.get("ASSISTS", []), "LEADERS": leaders2,
             "SHORTS": shorts, "NEWS": news, "LINEUP": lineup, "LINEUPS": lineups, "META": meta}
     js = "// 自動取り込みが書いた物。手で直さない（次の取り込みで上書きされる）\n"
     for k, v in data.items():
