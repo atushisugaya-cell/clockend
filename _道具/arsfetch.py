@@ -92,6 +92,19 @@ TEAMS = {
     "Real Madrid": ("realmadrid", "レアル・マドリー", "RMA", "#1C2B6B", ["レアル・マドリー", "レアル・マドリード", "R・マドリード", "レアル"]),
     "Real Betis": ("betis", "ベティス", "BET", "#0BB363", ["ベティス"]),
     "Sabah FK": ("sabah", "サバフ", "SAB", "#1D3A8A", ["サバフ", "サバー"]),
+    # 11/4 PC 版の右の欄（CL の順位表・CL とカップ戦の得点王）に出るチーム。鍵は自動で付いていた物と同じ
+    "Paris Saint-Germain": ("parissaintge", "パリ・サンジェルマン", "PSG", "#004170", ["パリ・サンジェルマン", "PSG", "パリSG"]),
+    "Barcelona": ("barcelona", "バルセロナ", "BAR", "#A50044", ["バルセロナ", "バルサ"]),
+    "Sporting CP": ("sportingcp", "スポルティング", "SCP", "#008057", ["スポルティング"]),
+    "VfB Stuttgart": ("vfbstuttgart", "シュトゥットガルト", "VFB", "#E32219", ["シュトゥットガルト"]),
+    "Como": ("como", "コモ", "COM", "#0B3B8C", ["コモ"]),
+    "Club Brugge": ("clubbrugge", "クラブ・ブルッヘ", "CLB", "#0046AD", ["クラブ・ブルッヘ", "ブルッヘ"]),
+    "LASK Linz": ("lasklinz", "LASK", "LSK", "#1a1a1a", ["LASK", "LASKリンツ"]),
+    "AS Roma": ("asroma", "ローマ", "ROM", "#8E1F2F", ["ローマ"]),
+    "Peterborough United": ("peterborough", "ピーターバラ", "PET", "#0057B8", ["ピーターバラ"]),
+    "Barnsley": ("barnsley", "バーンズリー", "BAR", "#D71920", ["バーンズリー"]),
+    "Cardiff City": ("cardiffcity", "カーディフ", "CAR", "#0070B5", ["カーディフ"]),
+    "Bradford City": ("bradfordcity", "ブラッドフォード", "BRA", "#7B2D26", ["ブラッドフォード"]),
 }
 EXCLUDE_WORDS = ["女子", "ウィメンズ", "WSL", "U-17", "U-19", "U-21", "U-23", "U17", "U19", "U21", "U23", "全ゴール集", "プレー集", "プレビュー",
                  "見どころ", "予告", "ランキング", "ベストゴール", "スーパーゴール集", "名場面", "今週の", "振り返り", "ダイジェスト集", "ユース", "レジェンド"]
@@ -1331,7 +1344,7 @@ def run():
         nxt = {"lab": e["lab"], "d": e["d"], "h": e["h"], "a": e["a"], "venue": VENUE_JA.get(e["venue"] or "", e["venue"] or ""), "id": e["id"]}
     table = []
     try:
-        table = espn_standings()[:6]
+        table = espn_standings()   # 20 チーム全部（11/4・PC の右の欄）。スマホの画面は index.html 側で上位 6 に切る
     except Exception as ex:
         log(f"順位が取れない: {ex}")
     pl = [e for e in events if e["lg"] == "eng.1"]
