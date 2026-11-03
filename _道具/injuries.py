@@ -62,9 +62,10 @@ def to_ja(status, news):
     s = (news or "").strip()
     head, _, rest = s.partition(" - ")
     hl = head.lower()
+    jd = lambda t: re.sub(r"(\d{1,2}) ([A-Za-z]{3})\b", lambda m: f"{MON[m.group(2).lower()]}/{int(m.group(1))}" if m.group(2).lower() in MON else m.group(0), t)
     if status == "s" or hl.startswith("suspended"):
         d = re.search(r"until (\d{1,2} [A-Za-z]{3})", s)
-        return "出場停止" + (f"（{d.group(1)} まで）" if d else ""), rest
+        return "出場停止" + (f"（{jd(d.group(1))} まで）" if d else ""), jd(rest)
     part = next((PART[k] for k in PART if re.search(rf"\b{k}", hl)), None)
     if "injury" in hl or "injured" in hl:
         what = (part + "のケガ") if part else head
@@ -86,7 +87,6 @@ def to_ja(status, news):
         tail = "出場停止" + (f"（{d.group(1)} まで）" if d else "")
     else:
         tail = rest
-    jd = lambda s: re.sub(r"(\d{1,2}) ([A-Za-z]{3})\b", lambda m: f"{MON.get(m.group(2).lower(), '?')}/{int(m.group(1))}" if m.group(2).lower() in MON else m.group(0), s)
     return jd(what), jd(tail)
 
 
