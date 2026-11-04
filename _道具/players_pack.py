@@ -44,16 +44,22 @@ def main():
     except Exception as ex:
         print(f"MRATE が読めない（空で足す）: {ex}")
         mr = {}
+    # 11/4＝ポジション別の 6 角形（radar.py）。無ければ空
+    try:
+        rad = json.load(open(os.path.join(AUTO, "radar.json"), encoding="utf-8"))
+    except Exception as ex:
+        print(f"RADAR が読めない（空で足す）: {ex}")
+        rad = {"updated": None, "src": "", "league": "", "min": 0, "pool": {}, "p": {}}
     src = open(DATA_JS, encoding="utf-8").read()
     if MARK in src:  # 前に足した分は外してから足し直す
         src = src[:src.index(MARK)]
     add = MARK
-    for k, v in (("SQUAD", squad), ("SQUAD_META", squad_meta), ("COMPS", comps), ("YOSO", yoso), ("INJ", inj), ("MRATE", mr)):
+    for k, v in (("SQUAD", squad), ("SQUAD_META", squad_meta), ("COMPS", comps), ("YOSO", yoso), ("INJ", inj), ("MRATE", mr), ("RADAR", rad)):
         add += f"const {k} = {json.dumps(v, ensure_ascii=False)};\n"
     tmp = DATA_JS + ".tmp"
     open(tmp, "w", encoding="utf-8", newline="\n").write(src + add)
     os.replace(tmp, DATA_JS)
-    print(f"data.js に足した：選手 {len(squad)}・試合 {len(comps.get('matches', []))}・予想 {len(yoso.get('items', []))}・ケガ {len(inj.get('list', []))}・採点 {sum(v.get('n', 0) for v in mr.values())} 本（{len(add) // 1024} KB）")
+    print(f"data.js に足した：選手 {len(squad)}・試合 {len(comps.get('matches', []))}・予想 {len(yoso.get('items', []))}・ケガ {len(inj.get('list', []))}・採点 {sum(v.get('n', 0) for v in mr.values())} 本・6 角形 {len(rad.get('p', {}))} 人（{len(add) // 1024} KB）")
 
 
 if __name__ == "__main__":

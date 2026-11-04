@@ -56,6 +56,7 @@ jobs:
             _データ_自動/yoso_sum.json
             _データ_自動/yoso_items.json
             _データ_自動/injuries.json
+            _データ_自動/radar.json
             _データ_自動/ratings.json
             _データ_自動/gnews_cache.json
           key: players-${{ github.run_id }}
@@ -79,6 +80,7 @@ jobs:
           python _道具/comps_mock.py || echo "大会ごとの数字に失敗"
           python _道具/yoso.py || echo "記者の予想に失敗"
           python _道具/injuries.py || echo "ケガ・出場停止に失敗（前の物で続ける）"
+          python _道具/radar.py || echo "6 角形に失敗（前の物で続ける）"
           python _道具/ratings.py || echo "メディアの採点に失敗（前の物で続ける）"
           for f in yoso_sum.json yoso_items.json gnews_cache.json; do [ -f "_データ_自動/$f" ] || echo '{}' > "_データ_自動/$f"; done
           python _道具/players_pack.py 見本_20261030/data.js
@@ -103,6 +105,7 @@ jobs:
             _データ_自動/yoso_sum.json
             _データ_自動/yoso_items.json
             _データ_自動/injuries.json
+            _データ_自動/radar.json
             _データ_自動/ratings.json
             _データ_自動/gnews_cache.json
           key: players-${{ github.run_id }}
