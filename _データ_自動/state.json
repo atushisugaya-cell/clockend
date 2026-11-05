@@ -616,6 +616,170 @@
   "Mohammed Kudus": [
    "クドゥス",
    "モハメド・クドゥス"
+  ],
+  "Thierno Barry": [
+   "バリー",
+   "ティエルノ・バリー"
+  ],
+  "Amar Dedic": [
+   "デディッチ",
+   "アマル・デディッチ"
+  ],
+  "Anastasios Douvikas": [
+   "ドウビカス",
+   "アナスタシオス・ドウビカス"
+  ],
+  "Angelo Stiller": [
+   "シュティラー",
+   "アンジェロ・シュティラー"
+  ],
+  "Callum Connolly": [
+   "コノリー",
+   "カラム・コノリー"
+  ],
+  "Callum Wilson": [
+   "ウィルソン",
+   "カラム・ウィルソン"
+  ],
+  "Carlos Forbs": [
+   "フォルブス",
+   "カルロス・フォルブス"
+  ],
+  "Ched Evans": [
+   "エヴァンス",
+   "チェド・エヴァンス"
+  ],
+  "Dango Ouattara": [
+   "ワタラ",
+   "ダンゴ・ワタラ"
+  ],
+  "Danny Welbeck": [
+   "ウェルベック",
+   "ダニー・ウェルベック"
+  ],
+  "Deniz Undav": [
+   "ウンダヴ",
+   "デニス・ウンダヴ"
+  ],
+  "Donyell Malen": [
+   "マレン",
+   "ドニエル・マレン"
+  ],
+  "Ermedin Demirovic": [
+   "デミロヴィッチ",
+   "エルメディン・デミロヴィッチ"
+  ],
+  "Harley Mills": [
+   "ミルズ",
+   "ハーリー・ミルズ"
+  ],
+  "Harry Leonard": [
+   "レナード",
+   "ハリー・レナード"
+  ],
+  "Jaidon Anthony": [
+   "アンソニー",
+   "ジェイドン・アンソニー"
+  ],
+  "Kostas Tsimikas": [
+   "ツィミカス",
+   "コスタス・ツィミカス"
+  ],
+  "Kylian Mbappé": [
+   "エムバペ",
+   "キリアン・エムバペ"
+  ],
+  "Lamine Yamal": [
+   "ヤマル",
+   "ラミン・ヤマル"
+  ],
+  "Lewis Orford": [
+   "オーフォード",
+   "ルイス・オーフォード"
+  ],
+  "Luis Suárez": [
+   "スアレス",
+   "ルイス・スアレス"
+  ],
+  "Mark Helm": [
+   "ヘルム",
+   "マーク・ヘルム"
+  ],
+  "Nico Paz": [
+   "パス",
+   "ニコ・パス"
+  ],
+  "Nicolo Tresoldi": [
+   "トレゾルディ",
+   "ニコロ・トレゾルディ"
+  ],
+  "Ousmane Dembélé": [
+   "デンベレ",
+   "ウスマン・デンベレ"
+  ],
+  "Pau Torres": [
+   "トーレス",
+   "パウ・トーレス"
+  ],
+  "Reyes Cleary": [
+   "クリアリー",
+   "レイエス・クリアリー"
+  ],
+  "Ryan Christie": [
+   "クリスティー",
+   "ライアン・クリスティー"
+  ],
+  "Serhou Guirassy": [
+   "ギラシ",
+   "セール・ギラシ"
+  ],
+  "Valentín Castellanos": [
+   "カステジャノス",
+   "バレンティン・カステジャノス"
+  ],
+  "Will Swan": [
+   "スワン",
+   "ウィル・スワン"
+  ],
+  "Yousef Salech": [
+   "サレック",
+   "ユセフ・サレック"
+  ],
+  "Yvan Dibango": [
+   "ディバンゴ",
+   "イヴァン・ディバンゴ"
+  ],
+  "Óscar Mingueza": [
+   "ミンゲサ",
+   "オスカル・ミンゲサ"
+  ],
+  "Alexey Batrakov": [
+   "バトラコフ",
+   "アレクセイ・バトラコフ"
+  ],
+  "Fabián Ruiz": [
+   "ルイス",
+   "ファビアン・ルイス"
+  ],
+  "João Cancelo": [
+   "カンセロ",
+   "ジョアン・カンセロ"
+  ],
+  "Maghnes Akliouche": [
+   "アクリウシュ",
+   "マグネス・アクリウシュ"
+  ],
+  "Raphinha": [
+   "ハフィーニャ",
+   "ハフィーニャ"
+  ],
+  "David Jurásek": [
+   "ユラーセク",
+   "ダヴィド・ユラーセク"
+  ],
+  "Wiktor Nowak": [
+   "ノヴァク",
+   "ヴィクトル・ノヴァク"
   ]
  },
  "tr": {
@@ -771,8 +935,9 @@
    "sum": "リバプール戦に向けたアーセナルのスタメン案を扱う記事です。ヴィクトル・ギェケレシュに関する合意が成立し、夏に加入した選手がメンバーから外れる形になるとされています。"
   },
   "https://arseblog.com/2026/10/arteta-didnt-see-the-reaction-to-the-reaction-but-reacts-to-the-reaction-to-the-reaction/": {
-   "h": "アルテタ、「反応への反応」は見ていないが「反応への反応」に反応する",
-   "sum": "翌日のリバプール戦を前にした土曜日のまとめ記事です。アルテタ監督がマックス・ダウマンのレッドカードに対する異議申し立てについてコメントし、「非常に失望している」と述べたことが紹介されています。"
+   "h": "アルテタは『反応への反応』を見ていなかったが、『反応への反応への反応』に反応",
+   "sum": "アルテタ監督は、⟪マックス・ダウマン⟫へのレッドカードに対する異議申し立てが認められなかったことに「非常に残念だ」と述べ、彼が受けている無謀なタックルに比べれば、彼の反応はごくわずかだと語りました。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTVueEYzZ3JUZTg2NDNYVWRNY2NXMFJ5MGZVWElLRUE3LVozQXh1V0dWVGZoaUdUcTVac2o0cHJhYVZOMWRvS0NlczJOTUlGYmhyRVI0THlZZWd6c0RTb0taQkVOdE5Da0hNQU5OREZrenc4Ti01UlktR1A1bktwMTVta0JwbFVxQWVJOVQzZi1GSFYtM0xYdVh4b2xaZmhKQ09CT1ZDUmpaRGtidVFWODRyZm83NWIwNTY3YUZHa0k5RlVMSEY2eFNGanRBeGh0Y0xvVHFPd3JDanQwZURaVGlR?oc=5": {
    "h": "リバプールのアレクシス・マク・アリスター vs アリソン・ベッカー、アーセナルのエズリ・コンサ vs リッカルド・カラフィオーリ",
@@ -908,12 +1073,14 @@
    "ja": "ベジェリンの華麗なドリブルからジルーがゴール。"
   },
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVpjSjhzYVd2eWtqaXk0WnhLNG5XRHB2bUpDWVhXOVQtREhOYUI3ZndfVUcwVWU2emRNSGFJM0xlaE1Jb0FMc1ZEVVg2WThteXBQTTJYLXRrT3cxZHlTcFlhUzEtZU9VVndZSEN2Ul9iN2dJWGs1VmhPUlV3LWpvX294MUw5WmU1UHZoQTEya0VmcGxxbXlCc3JCUWhRSEt2Mmc?oc=5": {
-   "h": "アルテタ、ライスの新契約交渉について重大な最新情報を明かす",
-   "sum": "アルテタ監督が、デクラン・ライスのアーセナルとの新契約交渉に関する重要な最新情報を明かしたと報じられています。出典はロンドン・イブニング・スタンダードです。"
+   "h": "アルテタ、ライスのアーセナル新契約交渉について重大な近況を明かす",
+   "sum": "アルテタ監督は、⟪デクラン・ライス⟫が長期の新契約にサインするのは「時間の問題」だと述べました。ライスは2023年夏に1億500万ポンドで加入した際の契約が残り2年となっており、新契約で週給35万ポンドのサカに近いクラブ最高水準の給与になる見込みとされていますが、正式発表はまだです。",
+   "v": 2
   },
   "https://arseblog.com/2026/11/forward-line-must-step-up-to-help-deliver-first-anfield-win-in-14-years/": {
-   "h": "14年ぶりのアンフィールドでの勝利へ、前線の奮起が不可欠",
-   "sum": "EFLカップの遠征に続き、本日はプレミアリーグでアンフィールドのリバプールと対戦し、14年ぶりの同地での勝利には前線の奮起が求められています。記者会見ではデクラン・ライス、リッカルド・カラフィオーリ、クリストス・ツォリスがトレーニングに参加していると伝えられ、チーム状況は比較的明るいとされています。"
+   "h": "アンフィールドで14年ぶりの勝利をもたらすため、前線の奮起が必要",
+   "sum": "リバプール戦の前に、ライス、カラフィオーリ、ツォリスが練習に参加していることが伝えられ、アルテタ監督は⟪マドゥエケ⟫の状態についても比較的前向きな見方を示しました。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcm5CNHJ1eXpPaTBJX3RrdF94MUlsaEl3NFZpTzRwWEExRi1TemNnaWJGelVybkpaMTNBbHJfemxDZXFjS1NSQWNyVXJvX1FsR2hRTVRCempwME44SEVyVHRfZkdJVlU3VS1Hb2lVR1ZvbVFiTkNsLW9HZllZQkI0LS0wM3VnSDdzLTF6Qzgtd1hpOXl6eE1hbTNRcWswWTNlY3FQeGFvbE9hUm4zbDh3enVYVnFobkh4?oc=5": {
    "h": "アーセナル、リバプール戦でアンフィールド13試合連続未勝利に終止符を狙う",
@@ -974,8 +1141,9 @@
    "sum": "インディペンデント紙によるリバプール対アーセナル戦の予想記事です。ベッティングのヒントやオッズ、負傷者情報、予想スタメンを紹介しています。"
   },
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU1BhMjZScElTZXh5dFNJMmdyQ0hlRW0zWWR6alRDUDM1ZG5zY0N6SVFTR1RVYVRJaHRHMVNQVHNyaEloc2hIbVhPbmdJWHFRVi1TNkRXbXNrRWdVb2dKaWZ4ZldHNEppU3djQ3J0ZjBFel9KV3dINV80WjREQ29IT1JfVW9iY01OaXJwMjF1MUxfWjUwMTgwd1BB?oc=5": {
-   "h": "アーセナル、リバプール戦の布陣はこれか　アルテタ監督の大きな悩みを解消する一手",
-   "sum": "敵地でのリバプール戦に向けて、アルテタ監督が抱える大きな問題を解消できそうなアーセナルの布陣を考える、London Evening Standardの記事です。本文の冒頭は見出しの繰り返しのため、問題の中身や具体的な起用案は分かりません。"
+   "h": "アルテタの大きな悩みを解決するには？アーセナルのリバプール戦予想布陣",
+   "sum": "右ウイングはサカが大腿四頭筋の負傷で離脱し、ダウマンもフリートウッド戦での退場処分への異議申し立てが認められず3試合の出場停止となるため、アンフィールドでのリバプール戦に向けて人手が足りていません。アルテタ監督は足首を痛めている⟪マドゥエケ⟫の起用可否について「まだ分からない」と述べる一方、ライス、カラフィオーリ、ツォリスは金曜日の練習に参加し、出場できる見込みだとしています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXNfR2lIMDlwc1ZGbV9FWUhFWGNGcENKdHV4S0p5WGplVTNmdFk2RUpOQ0RuTmNoTmJoNkt6UkR4QUM3TEVGbXlvT1FOOUtLaVlvNkU4ZlVLS3RlMHh0aXZKN0FRdFVPN1NLcF9hTFVsLXJ2dTZXaHpHdG5yY0F0SmNYNUg2RVdF?oc=5": {
    "h": "リバプール戦のアーセナル先発メンバー：確定したチーム情報と予想スタメン",
@@ -1026,8 +1194,9 @@
    "sum": "アンフィールドで行われるリヴァプール対アーセナルのメンバーについて、アーセナルの主力選手がついに復帰すると伝えています。リヴァプール側にもサプライズがあるとしていますが、どの選手かは見出しと冒頭からは分かりません。"
   },
   "https://arseblog.com/2026/11/liverpool-v-arsenal-live-blog-19/": {
-   "h": "リヴァプール対アーセナル ライブブログ",
-   "sum": "アウェイで行われるリヴァプールとのプレミアリーグの試合（16時30分キックオフ）をライブブログで速報します。リアルタイムの文字実況や速報、ゴール映像などを伝えます。"
+   "h": "リバプール対アーセナル – ライブブログ",
+   "sum": "2026年11月1日のプレミアリーグ、アウェーでのリバプール戦（キックオフ⟪16時30分⟫）を、リアルタイムの文字実況やゴール映像などで伝えるライブブログです。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkhJbXdhQ3lqRXRhYmhhNlBWSVFOdWZWMmctWE1EamRubmxjRGZxT1B0MHZaa1F4TXBsbmstcE1vTG9uZkR3aEJRMFBmUGRGaVoxTFVqVTVXc014NnBlZ2UtQ2YtU1lmVGpyQXdHOUk5d09Ic0cyQk80Y0JvM0U2eHpYQ0NqV2NxckpwaDdUbHZDaUItOUVtdGJxdTFINnI4d2xiZDI5azdLWUU4?oc=5": {
    "h": "リヴァプール対アーセナル LIVE：最新スコア、スタメン、速報",
@@ -1088,12 +1257,14 @@
    "ja": "ハフェルツがリバプール相手にゴールを決めた。"
   },
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUhxaHpyWjlVSElvMkpvVWNMRkFuaExyOHBXdG1xNVdYUF9sYUZqcFE3dG9vRjh3aTFrZEFlYVp4ZDhDWk9wcnFVRHJqU1Z5WnN1ekUtTmd1YWpBOWZxdlhXVy12M3ZaZnlqZGxZa3duMzd5LUc2eTMyVXk5NXU4dnNIaE9PbDRBOTdqZG5FMDE0U3Nlb21NcG1B?oc=5": {
-   "h": "「忘れていない」アーセナルのスター、大勝後にファン・ダイクへ“反撃”",
-   "sum": "アーセナルの選手が大きな勝利の後、「忘れていない」と語り、ファン・ダイクに言い返したと報じられています。"
+   "h": "「忘れてないよ」 アーセナルのスター選手が大一番の勝利後にファン・ダイクへ「反撃」",
+   "sum": "リヴァプール戦の勝利後、⟪ピエロ・インカピエ⟫のSNS投稿が、以前ファン・ダイクから受けた遠回しな皮肉へのお返しだとファンの間で話題になっています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHBrNUJDX29OdWlxS2lzSEtRZkJwMXVRekttM2I5T28zbjBQcDlKQ0ozOXIyNndza2x2a3BtdGh1cnNsN2RrT0pUWkEzaFYxRnB6NkZSLTUyVThmWWIwVnhlOXhwWV84U2dFOUVTZjRsRVNVeHRiQUlEeTdCUWVQMmt0M2wtczBnWlM2T1ZmWVJFa2dYbE05LV9R?oc=5": {
-   "h": "アーセナル選手採点（対リバプール戦）：9点の“岩”が見事なパフォーマンスで存在感",
-   "sum": "リバプール戦のアーセナルの選手採点で、「岩」と形容された選手が10点中9点の高評価を受けています。見事なプレーで期待に応えたと評価されています。"
+   "h": "リバプール戦のアーセナル選手採点：「9点」の守備の要が見事な試合で躍動",
+   "sum": "英紙イブニング・スタンダードのマット・ヴェリ記者が、アンフィールドでのリバプール戦のアーセナル選手を採点した記事です。見出しの「9点」の選手の名前は本文冒頭には出てきませんが、GKの⟪ダビド・ラヤ⟫は7点で、ウーデゴールへの見事なパスでリバプールのプレスをかわした点が評価されています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRjZWekNWZV9tN0xiZ1JkaDhmdVM5bEphTnJvNUVUMXlzczdRWUwzUGpqRkUtUGtJMFNpcTk3OEFwYS1wS1pjcGFTQ2NEVW1mRzNzY1lmbEJ6bXpJa01CdWJTaUJRLWx1ZFNjalR6bDhPbElaU2NYUE1qUGpmQTVmR3lkbnhIYWx2ZmRjM3JrNzZfa1N6Y3I4eS1R?oc=5": {
    "h": "キャラガー氏、リバプール戦勝利後のアーセナル守備陣を評価",
@@ -1122,8 +1293,9 @@
    "ja": "デクラン・ライスの素早い判断が光る。"
   },
   "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTXpNckx2d2hOTmtLZEdPSGxRR3hlVjJYSHBhcUpiS2FScFA3cEJwNUZkVC1SRmEyZVpRT1U2WnNublEwTDV4emNDODdTdXZ0VHBlTWZ6Z0VFNTJKSmJNTU5HUjNRRkpkU0RKR0J5YW51UUhNNkNTTERzdlpJNkc0bTVxdHVCeU1Obmk0QXo3Z3ZjUzVVaEJWNV9SaHIyWFNiWnozbklhVDUxd19KTjdCX1lLLU5aajZZQlVhbk5fOEM0emdvUldKRzlPWjJwRWwyS20wX2d0ZllNWTA2d0J2dzdmbzFZRHA1aF92NTluY09pelhXOThB?oc=5": {
-   "h": "リバプール 0-1 アーセナル：ハヴァーツが決勝点、アーセナルが14年ぶりにアンフィールドで勝利しプレミアリーグ首位に浮上",
-   "sum": "アーセナルがアンフィールドでリバプールを1-0で下し、同地での勝利は14年ぶりです。ハヴァーツが勝利を決め、アーセナルはプレミアリーグ首位に浮上しました。"
+   "h": "リヴァプール 0-1 アーセナル：ハヴァーツの一撃でアンフィールドでは14年ぶりの白星、プレミアリーグ首位に浮上",
+   "sum": "アンフィールドでの一戦で⟪カイ・ハヴァーツ⟫がゴールを決めました。リヴァプールは17本のシュートを放ちましたが、記録上初めてホームで枠内シュートがゼロに終わり、明白なPKに見える場面も認められませんでした。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1hzZlZtb1FHUFk5RXR5bkQ4akFSc2JCeDZ1c3dMZ0tYZTJWRVJCU0thUXpWSWxvM2xjRWJqNkFIeUhHZzRUN2tDRmowUW9IcWpEcUIwS2tjcWhRRE40LUtieHBMazFMOHBiNlFBNEF0U0g0dmxpanJOeFVxWEtMWGxQVC1kSnloYjR0dmFTVmh4dWNXTWdlMW5jaw?oc=5": {
    "h": "アーセナルはいかにしてリバプールを完璧な罠に誘い込んだのか　アンフィールドの呪いが解ける",
@@ -1171,15 +1343,17 @@
   },
   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2RKSVh1OHhEZ29adVFWSWlfSVZiRXFDQXVjS1NVVnVvSWlON2ZUVGhZaHVFckpORXhVMnd6LWZsSHhfd2ZiXzc3WXFlUkRDZmtDNW5yRnBrRV8wcGtrSWFnN3hiWENGaE1iaFV3ZmVfVmNzbXZhbDNqZDFtVEVGVmF3ekY2TDF0X2FN?oc=5": {
    "h": "これは新しいアーセナルではない。同じアーセナルが、より良くなったのだ",
-   "sum": "ニューヨーク・タイムズの記事で、現在のアーセナルは新しいチームに生まれ変わったのではなく、従来と同じチームがより良くなったものだと論じています。"
+   "sum": "⟪アーセナル⟫は新しいチームに生まれ変わったのではなく、これまでと同じチームがより良くなったのだという趣旨の論評です。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVk1aVAyTnBodzBNSzd6YXVvejNXbVpybEE2SU5DU0NMTm5zdVlzSnNISE0wdTRNb3VrUlhaMnV2MG1aUkVpWTI3N0RVa0g0UXBuZk8zN2RjelRtcW9lRzllMUUtbFhsNWhkYmZvcm1KM3ctTXBoWEpkZVZyVjlfUDAwME5hV09PWEFkdlVyejdnNENJRS1lczNBeEg?oc=5": {
    "h": "アーセナルとの大一番でリヴァプールにPK判定",
    "sum": "アーセナルとリヴァプールの一戦で、リヴァプールに関するPKの判定が下されたと報じられています。PKが与えられたかどうかなど、判定の具体的な内容は見出しと冒頭からは分かりません。"
   },
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzJkb09yeU82dzNOV2plMUpsV1kxMU5mZkxGcVhTQ3AzSTNrUjV4aktzQVRtdm84Z3FtQkxsamJwZG1CVmduVlBzV2ZhaXJZcEFqT0EyVDE3LWdpM0hKY0dpcmYyX2JWWGdOTWxpdG5YNExvTk9tSzBkOHNCcEVDWFgyRDFBTlF0V01pRkJsOG1GUVpKUGdDcjFfLWZjOFR4ODZMaTBXY0lFTzhPczhHRG1BS3R3TnR5a1BJOEpB?oc=5": {
-   "h": "アーセナル負傷者情報：エベレチ・エゼ、ブカヨ・サカ、ウィリアム・サリバの最新状況と復帰時期",
-   "sum": "ロンドン・イブニング・スタンダード紙が、アーセナルのエゼ、サカ、サリバの負傷に関する最新情報と復帰見込み時期を伝えています。"
+   "h": "アーセナル負傷者情報：エゼ、サカ、サリバの最新の復帰見込み",
+   "sum": "シーズン2度目の代表ウィークを前に、アーセナルに新たな負傷の懸念が出ており、エゼ、サカ、サリバの最新状況が伝えられています。一方、⟪ライス⟫、マドゥエケ、カラフィオーリはチャンピオンズリーグのスラビア・プラハ戦に向けたプラハ遠征でアルテタ監督が起用できる状態です。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGpLMzJlelFLUy1PSklnMm9ONzZMeWJqSFBRa2dRWjFxVGFNVTNCWjgyWFJxeTdiRjlSUWJoSndwM0ZWSEtMU1RtRjhmWHpwOFNVTHlSazR4cVlnNDlvV1JnaU5PVXZPcHVXM0ttRkNHc2ZOenIyZGFGd1ZnZGg5aTRTbzg3Q0M0OVg4OQ?oc=5": {
    "h": "ハイライト｜リバプール 0-1 アーセナル｜拡大版",
@@ -1201,8 +1375,9 @@
    "ja": "アーセナルがチーム一丸となって守り抜く。"
   },
   "https://arseblog.com/2026/11/liverpool-0-1-arsenal-resolute-gunners-dig-in-for-a-big-anfield-win/": {
-   "h": "リヴァプール 0-1 アーセナル：粘り強く戦い抜いたガナーズ、アンフィールドで大きな勝利",
-   "sum": "アーセナルが敵地アンフィールドでリヴァプールを1-0で下しました。同スタジアムでの勝利は2012年以来、14年ぶりです。"
+   "h": "リバプール 0-1 アーセナル：粘り強いガナーズ、耐え抜いてアンフィールドで大きな勝利",
+   "sum": "アンフィールドで行われた⟪リバプール戦⟫のマッチレポートで、選手採点やアルテタ監督の反応、動画もあわせて掲載されています。先発メンバーではある選手の復帰がサプライズでしたが、その名前は冒頭部分では分かりません。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzNKMW5WRVlwc2RyRklGb0J2NlF5MGZDakR4QlNWSnRCbkZnUFpJaDlva1RFN2Z5ZmxxT2NPbjAtTGs2QWtjbTBQbkFSTjQ4a0U3cHY2Sy1sbkwzQ19GODB0cWlIZDkwektUclR1OS1wOU1MR280VG9NeHZJeV9oQUtOdXZ4VElqaGk5T19oOTJyVExs?oc=5": {
    "h": "「本当に恥ずかしい！」ゲーリー・ネヴィル氏、リヴァプール戦勝利の中でのアーセナルのガブリエウの「演技」を痛烈批判",
@@ -1213,12 +1388,14 @@
    "sum": "アーセナルのノニ・マドゥエケがアレクシス・マック・アリスターに対して皮肉を込めた言動を見せたと報じられています。あわせて、エズリ・コンサのメッセージが注目を集めていると伝えられています。"
   },
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVU1GMEtNbDlvZ2JfXzduMWt0ZVNXam85YS1XMDZ6Rzh3cHFOQ2xlVUxxUlJfSmtvU0kxMENUUktpYVVsajROUmRad09uTFBoLWtOZW1Bb0haRENaRDdKZ1pDeENQX1RodWgtSzlnTHQ1Qk91UHlJWmt5M180Wkw2d1NpMDYyY0N5WlA2NW1KX2FzamEyQXVRNXh2bFo?oc=5": {
-   "h": "アルテタ、アーセナル勝利の中で飛び出したリヴァプールに関する衝撃のデータに反応　イラオラへの評価も",
-   "sum": "アルテタ監督が、アーセナルの勝利に関連して注目されたリヴァプールに関する驚きのデータについて反応を示しました。あわせてイラオラ監督に関する評価にも言及があったと報じられています（ロンドン・イブニング・スタンダード）。"
+   "h": "アルテタ、リヴァプール戦での衝撃的なスタッツに反応　イラオラ監督のPK判定への主張の中で",
+   "sum": "アルテタ監督は、日曜日のアンフィールドでの一戦でリヴァプールを⟪枠内シュート0本⟫に抑えたことに反応しました。リヴァプールがホームで枠内シュートを記録できなかったのは、2003年にOptaが記録を取り始めて以来初めてで、イラオラ監督はティンバーとツォリスのプレーでPKが2本与えられるべきだったと主張しています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZzk0bXVRWFM4d0RVczJvSEFmc29lTTI4SXp2UFBNVVV2SXBfSkZseDlLbjVENXZSaHlLcS13eTE2QnJiV2lxb0RVUlpTNzlGVGxzVUd2RGhiVnZJV0ZDN0FBd01JV2U3Vl9LUndOajVoTUdaaTFnX3ZmdU5sVXhoSkpreWJtYVFLb3UxUlNyc1dVTFVxWlBnU1dCZG1NYS1BMkZWZTM3enk?oc=5": {
-   "h": "「そうしていればよかった」――ノニ・マドゥエケ、リヴァプール戦の頭突き騒動のさなかにアーセナルでのレッドカードについて認める",
-   "sum": "アーセナルのノニ・マドゥエケが、リヴァプール戦での頭突きをめぐる騒動のさなか、レッドカードに関して「そうしていればよかった」と認める発言をしました。London Evening Standard が報じています。"
+   "h": "「そうしたかった」――ノニ・マドゥエケ、リバプール戦の頭突き騒動の中でアーセナルのレッドカードについて告白",
+   "sum": "日曜日のアンフィールドでの試合で、⟪ノニ・マドゥエケ⟫はアレクシス・マック・アリスターと頭がぶつかる衝突を起こし、相手が自分を退場させようとしたと非難しました。主審のアンディ・マドリーはどちらも退場とせず、VARも「乱暴な行為はなかった」と判断しました。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFZ3NWhlRTlCekdEN1JybkllUTQ3bmRSVFJaYTZVSk5EOXoyOUk2WFdja0NRTGtzTXVKbG1CWFZoOXF4aDB6QkV0cmhrVEw3WmRCUm9CYlFXQ0I1WEZDRklWM1NpVTR1ampPTXpjVVhQaG9Ya092UU5tclAwM1hPWW9JaE0yZ2FQejBQRG5xNUNFNkUwVzMwZnVUZ3BRX1ZSaWVtddIBqgFBVV95cUxPb1d0akVHOVYtOEhMU0pjVm9tZHkzVVhOeF80Y3BmUFZTb0tpeUl1dkdPSTdMX2xpU2NyVlFKdHhpZENkTVU5MDZ6WFd4ZWxHQnhzbGUxSnI2QzNOcGY3SWhiSDhaRjhVeGgtdG1hWVFDSkI4MThCa0ZuTkRPbnZEaGNTajhCQXNjR0tiWWt4b2FpQXNlM25fbDFoQW4tVXFCMGJPSVJTLUwxdw?oc=5": {
    "h": "ヒンカピエ、アンフィールドでのアーセナル勝利後にリヴァプール主将へ皮肉",
@@ -1237,8 +1414,9 @@
    "sum": "リヴァプール専門サイトの記事で、リヴァプールの今後5試合の日程をアーセナルとマンチェスター・シティのそれと比較しています。見出しによると、アンドニ・イラオラ氏が優勝争いの現実を突きつけられたとされていますが、冒頭部分からは詳細は分かりません。"
   },
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckRKcUJEVFp1bHo1b3VUQmhPTkNHRmZ1cURURmFvN3Fsa3JmeENjamY0Ymo5dk9hZWhVU2RBcEZNM2RRNDVLUzVsemJuVldCTmxicUZ2ZVd1QWtmM2FuejBjYXp2blEtSU5wYXdITEkyaThwUDlqcV9FU1hlSE9paWhIVXdKWkRObUxIci1LYklUQ0VWSi0zSVdHX1k0OTZEZC0tMExCWnRlZ2NWcmlB?oc=5": {
-   "h": "トレイ・ニョニ、アーセナル戦の「紙一重の差」とプレミアリーグ初先発を語る",
-   "sum": "リヴァプールのトレイ・ニョニが、アーセナル戦での「紙一重の差」と自身のプレミアリーグ初先発について語りました。"
+   "h": "トレイ・ニョニ、アーセナル戦の「紙一重の差」と自身初のプレミアリーグ先発を語る",
+   "sum": "リヴァプールの⟪トレイ・ニョニ⟫がアンフィールドでのアーセナル戦でプレミアリーグ初先発を果たし、約1時間プレーしました。試合後、クラブ公式サイトに感想を語りました。",
+   "v": 2
   },
   "IlC3SoAIvPw": {
    "ja": "デクラン・ライスが見事なアシストを決めた。"
@@ -1267,12 +1445,14 @@
    "ja": "ノニ・マドゥエケが遊び心あふれる技を披露した。"
   },
   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVjlUd3hBakw4Z2UwOE5falY0Z2s4Y01tWWFEaUVOTTgxbmR3WVVBUG91dW9KaEZsVVFjWHFOclNnaWxUUUZ3b0lxUDUtRkJScDR0NWp3SlFsdndnMWM5RURQcm01ZTJ6MDhhMXJmM2xHZGlJdEo5amVrZnBnZml3WVlCNjFIZDEteDB6eG1DNEVCb2hmVFNFeXlfdm5Nb2tjZXhONnZ5enZZQ3JDMWFmQjBJekp1ck5NX1VDUEpaaDJEWVl1WnljbHlXdnVjYzNXdWRFbnd6ckd3X1ZBbmJr?oc=5": {
-   "h": "【動画】アンフィールドでスキャンダル：アーセナルの選手に向けた主審の笑顔が陰謀論を呼ぶ！",
-   "sum": "アンフィールドでの試合で、主審がアーセナルの選手に笑顔を見せた場面が動画で取り上げられ、陰謀論を呼んでいると Goal.com が報じています。選手名や試合の詳細は見出しと冒頭からは分かりません。"
+   "h": "【動画】アンフィールドでスキャンダル　主審がアーセナル選手に向けた笑顔に陰謀論が浮上",
+   "sum": "リヴァプール対アーセナルのハーフタイムに、アーセナルDF⟪ガブリエウ⟫がアンディ・マドリー主審と談笑する動画が拡散し、SNSで怒りの声が上がっています。試合では21分にティンバーがイサクのユニフォームを引っ張った場面もPKではないかと議論になっています。",
+   "v": 2
   },
   "https://arseblog.com/2026/11/arsecast-extra-episode-719-02-11-2026/": {
-   "h": "アーセキャスト・エクストラ 第719回（2026年2月11日）",
-   "sum": "アーセナルのポッドキャスト「アーセキャスト・エクストラ」の最新回で、ジェームズ氏（@gunnerblog）を迎え、日曜日にアンフィールドで挙げた大きな勝利を振り返っています。ハフェルツの前半のゴールで勝ち点3を手にした一戦について、チームの好調な立ち上がりなどを分析しています。"
+   "h": "Arsecast Extra 第719回 – 2026年11月2日",
+   "sum": "⟪2026年11月2日⟫配信のアーセナルのポッドキャスト「Arsecast Extra」第719回で、Arseblogの筆者とガナーブログのジェームズが日曜日のアンフィールドでのリバプール戦を振り返り、序盤の戦いぶりなどを分析しています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHNsSVllOXhQcUxRSklUMTN5aUpkdl9rZFNFWnd5dER0Yl9zRjFXZV9lQ0lpQkFSeGNVaUpJemd0MjZZNGhmdWY4RUdHQUNEb0lTd19hUXpTbDVGTTdmN2tGX3VaYnIzMXQ2WlJ5MUN5RFh6VjJrNU96VVdvWkhHWW5PelBCb0t1d1J2eXQyTnhUM2lCTHc?oc=5": {
    "h": "「幸運だった」：アーセナル、マドゥエケとティンバーの2つの場面で審判判定に関する見解が示される",
@@ -1301,8 +1481,9 @@
    "sum": "アーセナルがリヴァプールに勝利したことを受け、ピーター・シュマイケル氏が優勝争いに関する大胆な見解を示しました。"
   },
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFQ2dlZWOVBvLThWWnZvNzFHNWh6OXlMa2gtSEhwZWZnUWJWckxzQUhocVlaZy1xMFJad19ESEZ5Wml0MExTVHZ6ZlJtTkpwekJBZWFZV25RZFlqUzZ2SWtHZVZ0MFp1WEw5NjdMWUk5Y0x5QVBaQU8td0wydDM0ZERBdkg3dEZKNzJNTWNLMlRwUQ?oc=5": {
-   "h": "「粘り強く戦わなければならなかった」：アンフィールドでのアーセナルの勝利は王者にふさわしい戦いぶりだったとライスが語る",
-   "sum": "アーセナルのライスは、アンフィールドでの勝利について「粘り強く戦わなければならなかった」と振り返り、王者にふさわしい戦いぶりだったと語りました。"
+   "h": "「粘り強く戦う必要があった」 アンフィールドでの勝利は王者のパフォーマンスだったとライス",
+   "sum": "⟪デクラン・ライス⟫が、アンフィールドでのリヴァプール戦の勝利を「王者のパフォーマンス」と称え、チームの粘り強さを評価しました。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlEtb1d2TU4wb2RIYnpFbTFpMXlMWGs0NlFSTVU3SXVmSnBWN2VIbTRtSFN0Z0gwaURYdUpTNmUybjhfeldaVmpmUFBOQ2UybWFNaE5ud0lkSlh1RWUyM2FZVzdPMml6WFdBdVY1VjB5SnNxMDFrNTlVS3BsUG1iSVVOSl9sSEt2T3ZBMnhWR1VsRUN3dl9pbmtGd3pCcFgzOFYwS3pfTEthZw?oc=5": {
    "h": "「もっとできる！」デクラン・ライス、ミケル・アルテタ監督からの個人的な課題を明かす　リヴァプール戦勝利後、アーセナルのスターがプレミアリーグ優勝争いを後押し",
@@ -1353,24 +1534,27 @@
    "sum": "アーセナルのハフェルツが、アンフィールドで挙げた決勝ゴールをチームメイトに捧げました。本文の冒頭は見出しの繰り返しのみで、捧げた相手の名前は分かりません。"
   },
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTBBNzFZRDVfdjJnUjduVlktNXJrWFd0NkpHUkRMMDBSVkZnMzg4VzBEVTZfcW1uVF9wS1BrcjJXRWNLX3hzcjRxeHEzNW9XMzZqTkE2MnBUcy1pV0VwRUpOVC0zQnV4S0RhTV9ObExwbURBd2x0eUx3MmZhQm82Ym1kX1JTTThmTkJUS1R0T3VlWDNsZmhlUGJhM18tUkk?oc=5": {
-   "h": "アーセナル分析：アンフィールドでの勝利をもたらした5つの理由",
-   "sum": "アーセナル公式サイト（Arsenal.com）の記事で、アンフィールドでの勝利の要因を5つの観点から分析しています。冒頭部分には見出しと配信元以外の具体的な内容は含まれていません。"
+   "h": "アーセナル分析：アンフィールドでの勝利の5つの理由",
+   "sum": "クラブ公式サイトの分析記事で、アンフィールドでのリーグ戦勝利は⟪2012年⟫以来であり、堅い守備などが要因だと解説しています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlNONTJLYkN4dVhZbzd6ejlOdXFCWDliMEhXekkxMzQtcWxzUVZvUERuX2RtMzVJd3ZWTE5rZkR0M0NkdFB0X3RTbENJNjJwb2RfRmh1bVE1eVFpT0Y0UWFhSFBrOG4xUnJUUVBvNXprTW1zdnV4d0NoenBNbm1fZk1yT1dqV0kxNFJWNjZKek9iM016dTNfMHVkamtrTW1vZ0t6OEdERmtQYm5Z?oc=5": {
    "h": "アーセナルがリバプールに勝利した試合で、ノニ・マドゥエケにレッドカードが出なかった理由",
    "sum": "アーセナルがリバプールに勝利した試合で、マドゥエケにレッドカードが提示されなかった理由を解説する記事です。ロンドン・イブニング・スタンダード紙が報じています。"
   },
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFZSWjlUZDZQbmw3dUtmZjBhblBsWm5IWHZpMGdLczc0aFlTalFBUU1uRHFtWGJsWlY2czlZeVJGWXpXNlJUNmxEeDdrQm01cjhka3R3RVRXVEk2YzdTbXdwZjZPVEQwaURBYVI4RW5HUV9oczl5eE42RXctbWtvQTZHbXZqLUQ1NjQ0TEFTaERoSHRZUi1MbVotd19pS1k?oc=5": {
-   "h": "新加入選手、アーセナルへの「画期的」な移籍を前に別れのメッセージ",
-   "sum": "アーセナルへの「画期的」とされる移籍を控えた新加入選手が、別れのメッセージを送りました。ロンドン・イブニング・スタンダード紙が報じています。"
+   "h": "新加入選手が「画期的」なアーセナル移籍を前に別れのメッセージ",
+   "sum": "シャムロック・ローヴァーズの18歳を迎えるMF⟪ヴィクター・オジアンヴナ⟫が、アーセナル移籍を前にクラブへ別れのメッセージを送りました。2025年10月に合意済みの移籍で、1月に18歳になってから加入します。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUl91N1Bpd1hhM1FmVjd1Ulo1UTNYYjFkSWNONEktc0dFTnNqc0RoUEUwbFpMb1ZJSGpqTVZnUE41MExwRG9hXzB1OFRpY29Sc3ZFUlQ0NURKQWNFLTJpQXE3TkxzVlhZdXprZnE3REFKTEExLW5lTHBJbWRMdEdoSWotbkVGOF96NXRrbE1NTUVlNHBRX3oxLTR6eFVJRUE4XzBBU3pnbFhud9IBrwFBVV95cUxOdzJ0ZjNsREhfaXZpY2JyZ2NTdG1wdnJRbHBKQ0UtcU9RdjVwbVYwTk04cHF4Ry1WYjYxNEZmZXNnbHhxM0hVNDZmSUtMcFhTOWR0STNxZW5KMjBZc1kxdmd1S3YwV3Rvb0tNZ0N1aHlnWjd5NlNwMXluYjNEdGZEZ2N2UHh2LTlzTE9HM3JFWE9XTGFyM2ZEN2tEOXRRNlYyLThfVm1yUzRvRDRGTXI4?oc=5": {
    "h": "リバプール対アーセナル戦、審判が「明白な反則」でのレッドカードを見逃したとプレミアリーグに指摘",
    "sum": "リバプール対アーセナル戦で、主審が「明白な反則」に対するレッドカードを見逃したとプレミアリーグ側に伝えられたと、リバプール・エコーが報じています。"
   },
   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN0pTV2JIU2JLa1FQOGxaSTEteldwUGJUbkpXbTB0cE1iVGgwQ2hDRjAzT1hISDNTLW82XzNGVlprS0IxVXJNZTBza3dFUWVNaWxHa1c1LVh2QkQzOW94eklaR29xVl9xaWstLUJUQVVVTC1nOEtJZ09zQWxPRjBIeTZnM2N6ZWFzZXNud1gycWh4Q1ZSSVpxQnd0aHR3U01GTGNlUHFlSlVudlFZYUV4S3hzMG9MdzVsQWx2QzJiZXZBZWdvczhyX042WUJKUGxrcjdxZlNObU56UmdI?oc=5": {
-   "h": "アーセナルがアトレティコのスター選手に関心、バルセロナはクンデへのオファーを受け入れる構え ― 欧州移籍ニュース",
-   "sum": "アーセナルがアトレティコ・マドリードのスター選手に関心を示していると報じられています。また、バルセロナはクンデに対するオファーを検討する姿勢だと伝えられています。"
+   "h": "アーセナルがアトレティコのスターに関心、バルサはクンデへのオファーを受け入れる構え ― 欧州移籍ニュース",
+   "sum": "アーセナルがアトレティコ・マドリーの主力選手に関心を示し、バルセロナは⟪クンデ⟫へのオファーを受け付ける姿勢だと伝えられています（アトレティコの選手名は記事の冒頭に記載がありません）。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0pfSnFldWZ1a3prNXpvQUlmSXJtSzNSS09lNkNWYVIwVlVjYlZoQWFGQmR2c1ctLTRDUDNBREk3N2k5MjllMnVod09DRVI1NWtlZDNGeU9tTXlfTTRRQWMtMmVaMG9sSVhOR05zNWFNUmtoYmlUZFg2TXgxZFpuX01NS3k5R0w4bUFKRkxfclhvWnNlcTV4VmIyaFlQU1daaVo1a3FjOVnSAa4BQVVfeXFMTlRpZmZMZDU5MUNtVVpiSGVfT000WU1Yc1liQldQcV9nNnU0ZGJaUkpFSlRMX09aZWVuWmsybHhOMUJkSWRwY3FNY0NOcG5DdlJRQVltZWtnTHBNUFByLUptRTd4RXpBVnlfNnJfdGp3TVMza2dqNWhZZ1dUS0xlYjNpODBoUnRBNll4RDlxV21CWXRwdVlnN1oyd3Vsc2hIQVVHejJJZU5FdUxseUxn?oc=5": {
    "h": "スティーブン・ジェラード氏、プレミアリーグ優勝争いでアーセナルに対抗できるのは3チームと語る",
@@ -1385,20 +1569,24 @@
    "sum": "物議を醸したアーセナル戦の後、リヴァプールのスター選手が、チームとして「ダイブ」する用意があると認めたと報じられています。発言した選手の名前や詳しい内容は、見出しと冒頭からは分かりません。"
   },
   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFA4YTRmd29jdXhTYnRGQzNfdkJsY2hEV2l4UXJmUElQMVpPZDJNc0loV3QxdTA5VGprcnlpVUtMYUM4cUpURG5acTRkNEplZVR1NjVoT2hJc1Z3aFJacWpGc1ZYZy1KUkxORDlmZkVZMG9DRVYwLVZEamlkUXMzeTFFanAzNDZTaXRiNFBaWExKMVB4UW9TYVdCNlppOFpyZkZmcGdtSUoyV29pNkk1d1VKaw?oc=5": {
-   "h": "アーセナル戦の敗戦を受け、リヴァプールは83ゴールのスター選手を活用すべきだ",
-   "sum": "リヴァプールがアーセナルに敗れたことを受け、通算83ゴールを挙げているスター選手を起用・活用すべきだと論じる記事です。その選手が誰かは、見出しと冒頭からは分かりません。"
+   "h": "リヴァプール、アーセナル戦を受けて通算83ゴールのスターを起用すべき時に",
+   "sum": "リヴァプールはアーセナル戦で枠内シュート4本を放ちながら得点できず、合計約2億5000万ポンドを投じたバルコラとイサクの攻撃陣に批判が集まっています。ファンは、昨季負傷するまでチーム最高のアタッカーだった⟪エキティケ⟫の復帰を待ち望んでいます。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40ckkxeDdEbUdGMHNMWnB5Z0VyOGlTN05KQXAtcTRIbFBka005TXpZQ2tCOHlEVFo5cnNHcm1PVzA4QWQ3cExyVVA5cVBzbmFQWnIxWXRKeGsyQUQ3bkMw?oc=5": {
-   "h": "ハイライト｜リヴァプール 0-1 アーセナル｜ダイジェスト版",
-   "sum": "リヴァプール対アーセナルの試合はアーセナルが1-0で勝利し、その短縮版ハイライト映像がアーセナル公式サイトで公開されています。"
+   "h": "ハイライト｜リヴァプール対アーセナル｜ダイジェスト版",
+   "sum": "クラブ公式サイトによる、⟪リヴァプール戦⟫の短いハイライト動画です。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS01mamFUYi1sSzdHdXp1bDNNY3ozeVVGdGZ1Vk1wcnJaNWkwUlRWWE05Y0wwaTZJazBRMFZlZkIza1VING5Ic0V6djBKc1ZJcGJ5Yl8tN3JNWDZTWGdKLUhRSF94Mlo0YzI3Q2hfNk5sYWk4RXFNa25XdVJnamNLTlk0c25WSnVTT281YWtXSnM2a005WWhPMVF3?oc=5": {
-   "h": "アーセナル、「大型補強2人を希望」　ミケル・アルテタ監督の最優先ターゲットが明らかに",
-   "sum": "ロンドン・イブニング・スタンダード紙によると、アーセナルは大型補強を2人望んでおり、アルテタ監督の最優先ターゲットが明らかになったと報じられています。"
+   "h": "アーセナルが「大型補強2人を希望」、アルテタ監督の最優先ターゲットが判明",
+   "sum": "アーセナルは1月の移籍市場に向けて、ボーンマスのFW⟪エリ・ジュニア・クルピ⟫とケナン・ユルディズを獲得候補に挙げていると報じられています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDlGMWE4UDZ1VFJGZEFpY1RjQVlpUk5FT20tRWN5WGUzTEdBbGZIVFNGcUZnWEJCOVQ2eFNGMnNJSzVBQ3BZbzZPZEhqdEVqZXRESzVFLU93NWh0aElkSERXR0F1UkFZNjVnZWhpb0xEaWt4N09kejQyUHhjeXVlZUgxMXRIYzlJamZ1bkZuTFkzbG9pY2Jj0gGcAUFVX3lxTE1QaURGOG5adWJiM092NVMxUHFncndlTFRQZHNuZ3haUlFfZXlsNWVNOE1UTDc4VVFrUjZ6cnBMSWZDazhmUF9VemRMYTc4ZmhuRDZSWUhNb2RlekhrUmRydlpjXzJrR2s4bnZ0b1dLSFR3cGJNeWNHTFdkNF9hZEIwMndSRmYxSk96N2lsaE80OGl4RUlmYlB3aU1HeQ?oc=5": {
-   "h": "スティーブン・ジェラード、「大一番」のリヴァプール対アーセナル戦を受けてプレミアリーグ優勝争いについて見解を示す",
-   "sum": "スティーブン・ジェラード氏が、「大一番」と評されたリヴァプール対アーセナル戦を受けて、プレミアリーグの優勝争いについて見解を示しました。具体的な内容は冒頭からは分かりません。"
+   "h": "スティーヴン・ジェラード、リヴァプール対アーセナルの「大一番」を受けてプレミアリーグ優勝争いを展望",
+   "sum": "リヴァプールのレジェンド、⟪ジェラード⟫氏は、アンフィールドで行われたリヴァプール対アーセナル戦の結果が優勝争いにとって「大きい」と述べました。「リヴァプールのような場所で強さを見せ、団結することがリーグを制する方法だ」とアーセナルを称賛しています。",
+   "v": 2
   },
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEYzMmN4ckU1QWI4N0E1U3NOaGRuaWlfQnRnVDNDa0l3OFlQMjJfRVNQU1hMQ0ZyeUp3TzZ0dVJYWHktWnFJNm14Q2RScG5rblktb3pPYmRHVGVDNzI2dmlFcXRmVnBJUzVRTUVySVZDTS1WbHh4bVVYNWdlY0pTbjh5bFB1b0IwQzNPY0F3WWFSSFlmbG12WDl3TDdRbndU?oc=5": {
    "h": "アーセナルの「スクリーン・チーム」はいかにしてリヴァプールを封じたか、デクラン・ライスはプレミアリーグ最高のMFであることを証明",
@@ -1411,6 +1599,795 @@
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmpod3Y5VGFlQmFzUzhrY2s5RTkwckdYZk5mNjNCTUE3akEzUEYtOXJFSTdsY3BJRDZmVnNnRTd0cFFMdVA2cjRXNzFDT2J4N2ZTQW9VMlZtYlcya2RYQnJHMnQxVFBrXzlDdWpSMzN5RzVZSXFUY1RKYWVxcnpNTDRYWWJKenZmRl9QeGNsSVZnTVd0QWpBUFNSTk84MzlFNXZsMndlSdIBrAFBVV95cUxQQ3ZsRnhjdE5PbkU5SmNzbURRckIwd2U5aE9QT3JwNFc5VWpxR21aMm05VjRfN0gxdW03NndWLVRmcmJhU3h5cFpoYVNuMXUydWk2T0RLYi1jLWpaZG9SUDFobmZndWxCbE9tUHhJUDNZTTFHRlR0WjFFaC0zU3pzX0taU2lwbXZyY19BOGdiQlZzU1FZd2l6Mnl6eVJyeXV1eGxIZDVSV0Utd2xl?oc=5": {
    "h": "フロリアン・ヴィルツ、リバプールに関する見方を一蹴　アーセナルへの不満が爆発する中「気にしていない」",
    "sum": "フロリアン・ヴィルツがリバプールに関する見方を「気にしていない」と一蹴したと、リバプール・エコーが報じています。見出しではアーセナルへの不満が爆発している状況も伝えられていますが、詳しい経緯は冒頭部分からは分かりません。"
+  },
+  "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlhrd3RrUDFfV2RmdjJfTDJ1RFZvX2xwYW5wUlpPRjBxM2VuMzR3WXVZOUNxZC1OYXZEdm1ZdmI3MXRTV2VKNldaRG9yX0U2b281QWdkQVR6ZWhpeFBUZFkxeGc5Z1J4UE5BLV9lOWdxczZNRUR4NVBDSFVNR0YzYmlmYmNCNy0zZXgya3RhMEYwWnVKdU1hOWIyaS1YelZZMGp1UzV3djBMLUFVbDBkUVpOdy1tdExwc1ZaZG5mbUNCX1o0c0lpYzlCRHU1ek01d1ZuUXJvYWFiTEtEZHhkZnNtdWQxeHNEcl9SUlpaMDlPdk9NREE?oc=5": {
+   "h": "ファーディナンド、「非常に効率的」なアーセナルのスターは今季マンチェスター・ユナイテッドでプレーすべきだったと語る",
+   "sum": "リオ・ファーディナンドが、8月に5500万ポンドの4年契約でアストン・ヴィラからアーセナルに加入した⟪エズリ・コンサ⟫について、今季はマンチェスター・ユナイテッドのユニフォームを着る姿を見たかったと語っています。コンサは負傷で開幕から数か月離脱するサリバの穴を埋めるために獲得され、見事な活躍でチームにすんなり溶け込んでいます。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0NHUkhOOWlZeTliUFc3LXVFMVI5VjVacU1vTDUtWUxUN1ljSU1nZ1BkWEFpVDBlUmpiblpZNGpUNlNfcl94M2U4ZVRBdUxWMldnbkhqeUpJdzl5MWFqUV9URmxNUW80OFlBaUl0eEdqWlp3N0dSVi1Ob0ZFS1Q4ZmF1eTRQOC0waTUzemxhTDl2QdIBlwFBVV95cUxPTTlWeWlaT3dtZGVTUGtiTDQ5bjVBZUVLOThzWkVoUm13SXpuN1E3TmV1bjlWaUt1SW5ORUhPR1ZSSEsyZDJqR0F6RVdfenNVeDJDWXhONHNqck1uZzRxSi1JVHBEVWlKdDd1N0lFR0djUlMtSkdaYXFmd0ZnNGpLUVY4Q2NnRFJJLUhDdS1vTFBxcjBEQWhz?oc=5": {
+   "h": "アーセナルにプレミアリーグ優勝の予想、主なライバルにはシンプルかつ明確なメッセージ",
+   "sum": "アーセナルは首位に立ち、リヴァプールには⟪9ポイント差⟫をつけています。ポッドキャスト「Seeing Red」でトム・キャントンとジョン・クロスが、マンチェスター・シティに大幅な勝ち点剥奪の可能性もある中、今季どこがアーセナルに対抗できるのかを議論しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGFhdFdidWNDcmtUdmw5eVA3bUtWNFU1VkUwZ2xMMElDWjU3amZWTHprVzlHeUcwd09ia0h5WGlEYXAyTzhSQlpSdGlaZmpPdm1aN0Fqc0hMQ1d4RFUwVU5jcG1aa2FuSEYyUEhGLVVES1Z4UWROSXlFVnNQYzIxVFJnZWdUeXRTM0FEVl9UNENaOU1ZNFHSAZsBQVVfeXFMTm9IcWI2ZVk4MzNFZDJPSURJeDhqUUZkdE4tX3lTT2xQdmVQTGxrVS1ZbGlZanM5eWJyRjc2cEVFYjlWeDdhdTRCSkJMdkVzLW5Ta3VCMTRubVBqc1NvSGlmSjZrdjQtXzB6bkFWVXlxVjd4SG5HVGVvWkZ0S2l0STVVR1Fjb3Z4QUFlbncyZzVHSW9obW1wYXUtVEk?oc=5": {
+   "h": "アーセナルニュース：ミケル・アルテタの非公開の会話が明らかに、監督は怒りをあらわに",
+   "sum": "リヴァプール戦の前半21分、ティンバーがクロスの瞬間にイサクのユニフォームをつかんでいた場面が物議を醸しています。リヴァプールの⟪イラオラ⟫監督は試合後の会見で激怒しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0NHUkhOOWlZeTliUFc3LXVFMVI5VjVacU1vTDUtWUxUN1ljSU1nZ1BkWEFpVDBlUmpiblpZNGpUNlNfcl94M2U4ZVRBdUxWMldnbkhqeUpJdzl5MWFqUV9URmxNUW80OFlBaUl0eEdqWlp3N0dSVi1Ob0ZFS1Q4ZmF1eTRQOC0waTUzemxhTDl2QQ?oc=5": {
+   "h": "アーセナル、プレミアリーグ優勝候補に　主なライバルたちにシンプルかつ明確なメッセージ",
+   "sum": "連覇を目指すアーセナルは首位で2位と3ポイント差、ライバルと目されたリヴァプールとは⟪9ポイント差⟫をつけています。ポッドキャスト「Seeing Red」でトム・キャントン氏とジョン・クロス氏が、マンチェスター・シティを巡る問題がある中で、ブライトンやチェルシーも含め誰がアーセナルに本気で挑めるかを議論しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnZOSEViWkt2cEdDdE1GRnVSNUE4ZWRpaDFXUmp6cFAzSVoxbzJHbldBYS1yWm1FTm91dFhYbkU2WWhlOU5Ba1k0LTRMd1BsUjFzQjRaU3pvX3ZRcGJNdEpDNHlFZ284V1oydlRPQW93SG1zU1IxRzEwOE93RkdvM0xOUzJsZkVWU0hmZg?oc=5": {
+   "h": "UEFAの規則変更により、チャンピオンズリーグでのスラビア・プラハ対アーセナルが禁止へ",
+   "sum": "UEFAの規則では、リーグフェーズで同じホームチームと同じ対戦相手の組み合わせが3年連続で抽選されることを防いでいます。そのため、アーセナルは来季のリーグフェーズで、⟪フォルトゥナ・アレーナ⟫でのアウェーのスラビア・プラハ戦が組まれなくなります（ホームでの対戦や決勝トーナメントでの対戦は可能です）。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalpvMzlvaElUbk5FeWJlVUVzUzFuTFlsNzRncHJKTjNvTTREd0VBNEhVZzRaOFdWSDVZVmIxLVNTN0hYTGNOZGN5aUVZLTl2NzUyVWN5MFlDZkhuSGJSdUVmRm1jb0pzeHlYd0RxdVctWWtBaWRLNlhKU2tNN1Q5MmFOQ3NyNGYxSW93Z1BJelVHZ9IBlwFBVV95cUxOTVhWeVdmTmxnTWRadHFTUVFwV0xTdWJJekd6X0YtMWpRQUlibkxDaURzNGwtMTEwNDR6eHFFc2lrMmp3UUoxSTlLX09rbmpHUDFFYnhpMldpbVpWTGtsQmdaOVh2a3lwa3h3ckdaSkRWazFXRGUtZUtFZUFRQlYtZDBCOENLSDRwcmNHV3JFUUVybjNQeEZJ?oc=5": {
+   "h": "アーセナル最新情報：アンドニ・イラオラが語る、アルテタとの秘密の会話が明らかに",
+   "sum": "⟪デクラン・ライス⟫が、今季開幕時にアルテタ監督と率直な話し合いをしていたことをスカイスポーツに明かしました。監督は「このクラブでもっとやれる」と考えていたとのことで、ライスはその会話が今季の好調につながっていると語っています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM19PNWVySTAzZmVXOUxTWDV1ODhWaVJYSTlqY3RBMDBjV0RHMWdGUi1GV044ei1DWTdxXzBTNlhRREk0TEJSSUIzdGVJajlITXhKdXlDdzlsVkhNMkxabGdmb0pmTmZIa1FhcV9QMjJyQ1UzZklJdXZjZWZnc0lXUXBPQlZkYWQ4X1lza0h3?oc=5": {
+   "h": "お気づきでしたか：ロナルド・アラウホのリヴァプールでの異例の役割、そしてそれがいかにアーセナルのゴールにつながったか",
+   "sum": "⟪ロナルド・アラウホ⟫がリヴァプールで担った異例の役割と、それがアーセナルのゴールにつながった経緯を解説する、ニューヨーク・タイムズの記事です。",
+   "v": 2
+  },
+  "https://arseblog.com/2026/11/fridges-and-pigs-and-scoring-goals/": {
+   "h": "冷蔵庫と豚とゴール",
+   "sum": "アーセナルのファンブログ「Arseblog」が2026年11月3日に掲載したコラムで、ヨーロッパ各地で⟪スーパーの冷蔵庫⟫がハッキングされているという話題から書き出されています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVo4cWFXM3hmelBTdE9zXzVHUjhyM1VGMXJfN1dBTThmazRXSHRFWTY0QUFPdy1qYV9md3VZNkQ5YXlHcjBpSlpGSW9vaS1sQkxNMUtWQU9TejlGQTlrcVZwQjNUbUNVSmNTdEROMlZwSmtMNEczcUFRUDZjejY3OHJndnFjcUpIcmczTWsyaUxCbGxCM0V5UU5NYmlMZ2VNRkpwalNJcXpSWmMwMW1F?oc=5": {
+   "h": "アルテタ監督、ハヴァーツの一撃で2012年以来となるアンフィールドでの勝利を称賛",
+   "sum": "アルテタ監督が、⟪ハヴァーツ⟫の決勝点で2012年8月以来となるアンフィールドでの勝利を挙げたことを称えました。カラバオ・カップでのフリートウッド・タウン戦の敗戦から立て直したことを誇りに思うと語っています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUw2Z1h4ejc2a1Z2eVVOWWNsZEVva2V3aXNuTVRrUFd5dkF5SnlSWExtLTRubzk4WWQwY2xQVlFuMVp2YXNKVXNpLUJGUkV2WGc0V1pMVzNMb2ZUWURkTFA3Q1BVck13YVBkX1MxQnRULWZKNUJsTEhhZ25xYmxTRDhkbXpadVoxRHBIa2VnT3Uwcnhn0gGaAUFVX3lxTE5kTUhGZHpBNHk5a3gwcXZBR1k3bnJxTzh4X1JodUo2Z0RrY2VHdW5yM1dob3lOa0RSSHRXbUprTkw2YUxVOEZZUG9ERGxGVDBjRVZDdHhla2hRc2RHUFVtX3pFTzBGMzBhVGo2NDNtbVhWZ0lTMEk3M09rY0k4bVBQUl9uOGdaSmc0NnZIZEFqMVNFRGxMaG9fdWc?oc=5": {
+   "h": "アーセナル、来季はCLでスラヴィア・プラハとフォルトゥナ・アレーナで対戦できず",
+   "sum": "UEFAの規定により、同じホームチームが同じ相手とリーグフェーズで3年連続対戦することが禁じられているため、アーセナルは来季、⟪フォルトゥナ・アレーナ⟫でスラヴィア・プラハと対戦できません。エミレーツ・スタジアムでの対戦や決勝トーナメントでの対戦は可能です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHBka2NsLXVzdVBUem10ZGxKVy1KRDdITXZzVHNTUDhUV3ZHVEllSU5kajA2Q0FWOGlUc2VUaGdpVXA2d0pFWHBPYks4ZURGSFBfVlBFMGJsM2VxME1wQVJyWDA0SGE4MWlCcFg3cGZtSHhpYXN1R29YMm5qX2tsajdPdU0xMkw3MDZCQkp4TmtheVlZaDFnY2RmSdIBoAFBVV95cUxNNmtIUGFKX2JBbl9CMFk3NFJtQkhvVHdrOHl6RGtrMjdEdFFUY2l5cGZfbWdiSUZLNnRnT2xpSENQQkxBVEdPNWRyUGJ2eWFWaVRDMzhENFFJdDNTdl9Dd1p2MzdUQXZ5Zk5FQlE2ZVBqODZyRVdmY1NIRkhhVU5MV1JkWmJmc2VtM2lBVXlYc1AxbjJpUXFPSHBETkFZUjVs?oc=5": {
+   "h": "評価額8000万ポンドのプレミアリーグのスター、アーセナルが1月の移籍市場の獲得候補として注目",
+   "sum": "アーセナルは1月の移籍市場で、ボーンマスの20歳FW⟪イーライ・ジュニア・クルーピ⟫の獲得を目指しており、ボーンマスは約8000万ポンドと評価しています。バイエルン・ミュンヘンやパリ・サンジェルマンも動向を注視しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSDNGWFhhNzJZWEh6R3loSWhhTldwdFQ2V3U2clZpczVvRDh3WjZGeVpfNXZyaVE3VkRJN3AxVVItWnlqY0JmS0JXdnlMTnFyRlNnTFUxdUthWk8ybGVOY0VYTkxMT2xuVEhfaXdlRjg2cXRtQTJkNExQV1FpWllEbXZfaTBoRlNFQjRWZVYxczhpYWNqTktmc2xJQnFiN3NiQWhCOW5PeWNWS1BUbmdORHBqVU04YWVDdG1vekt1d0VpWjZQM3QzRE5B?oc=5": {
+   "h": "イラオラ監督、アーセナル戦の敗戦に「得点するには十分すぎるほどのことをした」",
+   "sum": "リバプールの⟪イラオラ⟫監督はアーセナル戦について、失点するまでの序盤の出来は試合のレベルに達していなかったと反省しました。一方で、失点後のチームの反応は「とても気に入った」と前向きに評価しました。",
+   "v": 2
+  },
+  "WyewCTSKVCk": {
+   "ja": "アーセナルの伝説イアン・ライトは誰にも止められなかった。"
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakQ1QS16Rl9vUVE4blYwSzhkdkxhcUhuU0F3Q2xQM2VnV2lPczlscFJCMjhHc1FLaGlMS01lWW5KZDdtdHJ5eWFRN0NaeU9KT2hHdndObVNrOXhKeF9PcmZNcE1jVW93dHVUWjQ4cXJxNVE1Y0Zra3VPdFo0b3M5NW9lZEpiUm1HNE9GRkgtMTFrVEc5dGlVT0hLYzY?oc=5": {
+   "h": "アーセナルの夏の新加入者、重要ポストへの就任に驚きを認め、ミケル・アルテタとの対話を明かす",
+   "sum": "今夏ストラスブールから加わったベルギー人の⟪パスカル・デ・マースシャルク⟫氏が、メルテザッカー氏の後任としてアーセナルのアカデミーダイレクターに任命されたことに驚いたと認めました。ベルギーメディア「Sporza」のインタビューで、「なぜ自分が選ばれたのか今でも分からない」と語っています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHVKSkI5OC0yaEtnaEJQSl9ZUHJGUkhXSjhKUkk2QWI0cGRYSVVaaEk4eHc1Zmo0d1laRmQ4ZjEtSW8yazlzWGxkSmxtUy1nTmtIRnhNRUNtWUZzYzZQcW5KRmZrR2R1NG01V0VQd0ZuOTVxYkJhX3cyU2pxQTFXTW43VTVxNUVJdUh1SWJJWWc1R1h1OVdZdDE0N2czZ9IBowFBVV95cUxNSDFJX0xlUzEzb0VKalF3RmprS0picHlWcEVDWVhhbEU4NUluNVZrX2RYUWx2ak1SUWhUYWpQYTY1VFRMUlBXYkF6SkhyMXdHM1phVC05RnpDdFJVOTBoWHcwbXJ0Tm9ZOWh5TnhXckswS3V2cFV3XzFWTDZpWUVId21UeTlEd1dORkY0R2hvRE1HYXBjbXNfOGVLekNwQ1g4ekJj?oc=5": {
+   "h": "リヴァプールのスター選手、アーセナル戦での騒動を受け「プレミアリーグの品位を汚している」と痛烈批判される",
+   "sum": "元PGMOL（プロ審判協会）責任者のキース・ハケット氏が、アンフィールドでのアーセナル戦でマドゥエケと睨み合った際に頭突きをされたとアピールして大げさに倒れたリヴァプールの⟪マック・アリスター⟫について、「プレミアリーグのイメージを汚している」と批判しました。ハケット氏は、リプレイでは接触はごくわずかで、レッドカードには値しないとして主審アンディ・マドリーの判定を支持しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmlJYmVicW5YX2Z5cktEUHMwZHR0bEQtSjcySnFFU3dheFBWX0lVd3VROVFtdnNtV0J1NXdiTE05Ni1UYUNxYWtsREtWcUVNVWk1dndHMXBjMk5YcHNvMHlTTTR3cWRMXzNKalRaNjZ6Uk5hQ1ZBaGE0YlM1VGpHdHlMVXg?oc=5": {
+   "h": "U19プレビュー：スラヴィア・プラハ対アーセナル",
+   "sum": "アーセナルU19はUEFAユースリーグで、チェコ遠征の⟪水曜日⟫にスラヴィア・プラハと対戦します。リーグフェーズではアーセナルが18位、スラヴィアが2位につけており、上位22チームが決勝トーナメントに進出します。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZzRvNW9TbjdoZVFVWUNTNV8yQlRwZ0lMMGsxQkFRdlVucVlibHIwREtzS1loc0x3bGExT2pjbjNjZzFzc3ZxX3BXaWdON2p3bFBlS2JuS3pBTDVSc1pwbHp1ZTR6RzBSV2RKVFhrT3FIVHkxRDB3dnRObWY4ZE9OTGpjenFXb2xRQzBMR09mMTdiUdIBlwFBVV95cUxQSF9PNW1UTTNrd05zZnNjTVFtdUdvUVBvVkpnQ2dfZHJzWlpQeHcweVBxVFcwWFJndlZWMGtqZHJRLWdJVzlRRXpaRDhIRzdxbEJoR1o4bGZFZi1YSmxsT3pWU2RrNktNNW9ieTBLUTdjN3RLMkVIUnRuZ2YxZ2pFTlpfWkRDWDg3T0puX1h1cGJ4blpCYTVN?oc=5": {
+   "h": "アルテタがギェケレシュに「出ていくことになる」と警告していた　アーセナルの後釜候補が判明",
+   "sum": "今季1得点にとどまるギェケレシュの後釜として、アーセナルはボーンマスの20歳FW⟪クルピ⟫に狙いを定めていると報じられています。アルテタ監督は1月の補強でトップクラスのFW獲得を最優先にしているとされます。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGI2LTB2OHZvY1Q2UlFiRWF1dks1aXJZU3MtSnk1VkNCZWxhWFpvMTNKa3hGeE5adDN5WGg3MEU3ZTh3WDBfTXk5dVZDQnRQSzVTNk5rdG1LcHJldGU0MkFLSHVVMmFaQ21oZDR3ZUVtaVE1WmFqb2VES3JOeTVwR0xlLU1qMHU1cy1NMklKa3RhNlR0N1HSAZsBQVVfeXFMUDZrYXpyQjFXSUQwcEhnTkRKbkl3YnU1QXMtcFk0SGVRSjhZTTFBWTZUeHdNNVY0UVVMTEFGc1RaVXBHTndtMWVLaW9Ua181SUZtQTZNWkZmanZPd0VYOU1ULUZERnUyYzlWdXNjQ19sUGVFT2UxbGRrNUVEeEdOY0E4U0kzVnFRazhNYXR6WnNyRFBHaUZvV083Q2M?oc=5": {
+   "h": "アーセナル、レアル・マドリーの「問題」で来年ついにヴィニシウスを獲得できる可能性",
+   "sum": "レアル・マドリーと2032年まで契約を延長したヴィニシウスについて、⟪2027年⟫に売却される可能性があるとの見方が出ています。スペインでは1億2500万ポンドのオファーならレアルの姿勢が揺らぐ可能性があると報じられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeEw0dzRKUTBEUWZJU0xiSUlxLTlBNlgzUjRlMW5YbzdRRWJnc2xXOUdIU0lEbzNlRGlKSkNoTmpsSTROSkFtTlRXeGpGVkc3SmR1bjBFX2JLWTNla3V1bkg0TUtUVFl1cl8taUJuZWRydE1nZjBDMk1lN3BURzVrcDZzYS10NVF0QzZBUjZBSlFUSjY5cE83Tm9BMXFfcVlYZVVfb1ZUVlpiYW82V1FFYWNYMm1JaWtjQ1FHNF93ZG5ITXBDQWdyekhtYVROWmdDTE44?oc=5": {
+   "h": "プレミアリーグ移籍最新情報：アーセナルは1月にクルピ獲得を狙い、マンチェスター・ユナイテッドはドルトムントの4選手を視察",
+   "sum": "アーセナルが1月の移籍市場で⟪クルピ⟫の獲得を望んでいると報じられています。また、マンチェスター・ユナイテッドはドルトムントの4選手をスカウトしているとのことです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbjBqUkhaR1BMMXE3YjNveEM4d0pxNWxMNGp2X2xfRFEyRTMza25iLTRicWk5Rk4weTMyMUZHYm42Qi1jc1dRTC03M1lFaW9TYXRlNnM0VlVNMlRaUzI4MWtwZkw1YTc1SUl3Q282aWp4OXNWbEJOVFY0MnZURWg5cWhTeEw3SUtReGZ0aGhpWmxNcTNZN29sSzdqajBMUkgyd2NRaTlfLUlmY1FJekxJWmxCTGpsVWIwOERKd3FkSUhYRFR6bGFNbndiYlBSb3QxTFZfZ2ZRTWtYenNpWWJEQWtUd0hjeU14ZmR0VVRFZVZzNGRrVklaX0NkRDN4QQ?oc=5": {
+   "h": "「トップ中のトップ選手だ！」リオ・ファーディナンド、マンUの深刻な問題を解決するためにアーセナルのスターを喉から手が出るほど欲しかったと認める",
+   "sum": "リオ・ファーディナンドは、今夏5500万ポンドでアストン・ヴィラからアーセナルに加入した⟪エズリ・コンサ⟫を、守備に不安を抱えるマンチェスター・ユナイテッドが獲得すべきだったと悔しさを語りました。コンサはサリバ負傷中のアーセナルでガブリエウとともにセンターバックの主力となっています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGlIS3JkV1FhNzZBZXZBWmZ5Z0Frd2tERlVLR3Vacl9QQWZrNi0xaXRwUEpFWEtkcmZGR2swNllIOGlqRnp5eUFjS1FlR1BQc1lvZ19IanhfdmV4ZnR6cGlDV09SUGNqMFppdktuMFVkN1ZxZjEzMXJ0Y1ZZRExkbEVlUkg1Ung0ZWRXVk5ZcHFEM0MxbjAtc2cxS0Znb2hzaFlIY09xYUNlYm5n?oc=5": {
+   "h": "「トップ中のトップ選手だ！」リオ・ファーディナンド、マンUの深刻な問題解決のためアーセナルのスターを喉から手が出るほど欲しかったと告白",
+   "sum": "マンチェスター・ユナイテッドOBのリオ・ファーディナンドは、今夏5500万ポンドでアストン・ヴィラからアーセナルに加入したDF⟪エズリ・コンサ⟫について、守備の問題を解決するためにユナイテッドが獲得すべきだったとの思いを明かしました。コンサはアルテタ監督のもとでガブリエウとセンターバックを組み、守備陣に欠かせない存在になっています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTZCYUxZNGU5LWhjREExWUpHUEstRXZmVHNyenR3QmVkRDVXaTlYSEtDSTBnRkNtMkZXUHRhZzAzclpuMnVwLURyX1pwRW9WSEM1dXF0Z3ZVWFNwNU92UURmNndXWkhscERkcmEyNU01TXhoRGZ2TE5nS3ZDS1JYQ0ZOUmZxTElsRVdCUEpEX05Yc0hYY1oxUEM3X01yUQ?oc=5": {
+   "h": "サリバがアーセナルの練習に復帰、アルテタ監督に大きな追い風",
+   "sum": "7月のフランス代表のワールドカップ準決勝スペイン戦で背中を負傷し、手術は回避したものの長期の休養が必要だった⟪サリバ⟫が、月曜日にトップチームの練習に復帰しました。問題なくメニューをこなし、チャンピオンズリーグのスラヴィア・プラハ戦前の最終練習にも参加しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRSR2d5SkpnaXBEbEkyelg5WmZydXAzQzZWaVc0b1dLdUUxQU9STkMxRWlvbFM4azJ6V1hyWTdackY5aC1BMUc2TkxUNll4SVZ5dXAzWG1OZmxJRFNxTE11eHRBNGhqemFSUTU3X2RXVHV3YnFlXzNYTXJrZU5SYmhZZkg3em93STJrc29CN1ZDZU1V0gGaAUFVX3lxTE5nTmduUS1XbGh6bEpMZFNKVzkwTk52U2pMa1JFbThlY2tHS0U4U0dreUhxMnowZ1h6cmI4TjJHWTZieThFbjNKOVFuTUJ4cmtjOTRrVEtLNXBuODVKVml5Ym9jUlhNcy1mR3Z6QUgxR19TaTdBUnVHTkdhdHY4TzVFMThHb2JCSmVQQnZXZFRIOEZyM3ZBU2dYeGc?oc=5": {
+   "h": "アーセナル、契約の先行きが不透明な中でバイエルン・ミュンヘンから中盤の選手について問い合わせを受ける",
+   "sum": "バイエルン・ミュンヘンとユヴェントスが、2028年6月に契約が満了するアーセナル主将の⟪マルティン・ウーデゴール⟫（27歳）の動向を注視しています。アーセナルは延長に向けた非公式協議を始めており、バイエルンは長年ウーデゴールの代理人と接触を続けていますが、現時点で最優先の補強候補ではないと報じられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFBBYzZPWnRBMkN4NXdpdkZvWlBsX3ZXa1pKYmo2dmxhUDJxeXNyU2k4Y3YxQk5oRDJZS01oM1RUaXAwVUVSV2JHaFZLZmo4QjFkZ3ZOWDBXWGJyZW9PM2k3enNKYTMtNDJQRXZDcmdVYTZFVlhfMENYM0FfcGp3c0hydDU5d1djWnNLRF96ZGN4RXNBZ0dj0gGcAUFVX3lxTE51OFY1UDF1VmpvR05jaUhhT2xtXzJKaWt3OHpHdDFzdWpDLUZGWU4tdjVieUh2TlNQVVdiZF9icUhmdGtfQmRLcFkzUmstZkFaOG1ycWpNLU1OeWRGUU9OZFpVa1BXRWY0dmZrajVtMXlNekQxZFYxTVh4M1d1ZlpRNndQV3BzVnlpNjR6MGNvNGh0WTBfZTVDX3pCNw?oc=5": {
+   "h": "サリバがアーセナルの練習に復帰、プラハ遠征を前にアルテタ監督の陣容で欠けるのは1人のみ",
+   "sum": "背中の負傷で今季未出場だった⟪サリバ⟫が、チャンピオンズリーグのスラヴィア・プラハ戦を前にチームの全体練習に復帰しました。この夏に5500万ポンドで加入したコンサも好調で、アルテタ監督は複数のセンターバックの起用法をどう配分するかという課題を抱えることになります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEFGX3hZMkM4SWRuR2ljYmtmZFdPek1UTHFUMVhndGx4aFozZ0Yza25zSXZ2UEE1eVlMZlRVMlRVbzd6a0RtQWJYVmg3UThRU1BLV3d5SnBJREwxQ0RNVmMxb3Y1N2VncVU3UXJsUmNEUF9PMGI1cWNuUmpjRFA0YkRn?oc=5": {
+   "h": "「トップ中のトップ選手だ！」――リオ・ファーディナンド、マンチェスター・ユナイテッドの深刻な課題を解決するためにアーセナルのあのスターがどうしても欲しかったと告白",
+   "sum": "リオ・ファーディナンドが、この夏に5500万ポンドでアストン・ヴィラからアーセナルへ移籍し活躍している⟪コンサ⟫について、守備に課題を抱える古巣マンチェスター・ユナイテッドが獲得すべきだったと悔しさを語りました。コンサはサリバが負傷で離脱するなか、ガブリエルとともにセンターバックの中心として定着しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0swcDMxVm1pTS1Vb29YVFJOZkNyMnpFTjhLSjBSbEhlZllpZkd6R1lqeUNJWkw2Zmt6TWpGZFJnRHZwMm1QZVBOWk13N3h4T1ZXQXBEN3pBMlBOOHdhdmRXaGx0Wi04V1k4TjliMDNUNGVLRU1wRXpJT1VjSmZuNUNGMXgwdEZFRGpQbl9sVFk5dw?oc=5": {
+   "h": "アーセナル、悲劇的な死を遂げたヘスス・デ・ミゲルに心のこもった追悼",
+   "sum": "スペイン2部テネリフェのFW⟪ヘスス・デ・ミゲル⟫（30歳）が試合中に相手GKの膝を胸に受けて心停止を起こし、亡くなりました。アーセナルは練習場で追悼の意を表しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNV9EcGJFaGc5czZFVUNoeDN3TGM3NzB4c1hXMDhGTzFRWHFjOFJyWHBQTXlnMHEtVS1jZXNBbGV0QVhKaW5xYTFQdXBYeGhNeTRCTjFRbWMwZkg2UVJkUGNuWjB0RnVhMElQbU9OTTVyU1JuUmxCM2xReHJMRk50MlVlaVROQngxbUI5ZVFkczVxRGRQU3c?oc=5": {
+   "h": "サリバ、アーセナルの練習に復帰",
+   "sum": "⟪サリバ⟫がアーセナルの練習に復帰したことを伝える、クラブ公式の動画です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGZhMnYxLVBjZVpwYUdSNjRNaENqV3lGdnRVT0d3dUNZU2FMMTNpU0pvUU1vTFEwVlB6dHFldG9tMVVaN3ZTR0lYd2x0N0N0czdiU0FmeUUwRnhqNDFNZkV6TWVScmQ1MUxNQWdQOGZTRnFwQXhJWGF6VUtwc3EyWG9RYlItaDVwbXFVdkR0Rnk?oc=5": {
+   "h": "サリバ、アーセナルの練習に復帰",
+   "sum": "⟪サリバ⟫がアーセナルの練習に戻ったことを伝える、クラブ公式の動画です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMENYMXp1V1prQmNsUnRQQVhHMEVFYzNpaHlURm5uOXhjT0VZV2J3NjgybXJ2M0wxeG9fWjhOUFotc2JpVXJXNXVwZzgzNXFoU1lBak5RVWllVVhXNGN4eFZSQjFPLXljVXpiWTc3Uk9QX1RnSDlmRTJuSXdwdWs1VFpB?oc=5": {
+   "h": "サリバがアーセナルの練習に復帰",
+   "sum": "アーセナルの⟪サリバ⟫がチームの練習に復帰したことを伝える、クラブ公式の動画です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWtibG5QLW1OekhmVWtFc1ctSEdZVEhrMlpVLXJDYi1sNEc4TmZHakxUVHRnSkt3dk5aTFRPbVBPZDJ1eThWQThjQk9fWlVETDRfSTRwYmhNWUxLdW50YXlFc0dmWTFjblN0eTI1MFNyelFJVVFVaEdzNXZLQS1QMTRR?oc=5": {
+   "h": "サリバがアーセナルの練習に復帰",
+   "sum": "アーセナルの⟪サリバ⟫がチームの練習に復帰しました。OneFootballの動画記事で、本文には練習に関するそれ以上の詳細は書かれていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmdLc0o5TXBkajV6OUhKMVRRVWNUbWZqRDdWbG1xdEUzQ3NXY1hnRU5vWkJtMjhBR01rcjliNDFRc2pNaWJQcXMzdmVWX0RMVkRNUmFyd3ZzcHZrV3R1d1lHUzNBVUFRXzVkUnVjbHN5Nm1JTVpSZXZiaFVpREpzWkZLZw?oc=5": {
+   "h": "サリバ、アーセナルの練習に復帰",
+   "sum": "アーセナルのDF⟪サリバ⟫がチームの練習に復帰したことを伝える、OneFootball掲載の動画記事です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRXo1UGcwMDhfbVRXTnprVHpLdl9uSmJRYzRMU3NyRkQ1MENMTGxrNVZUNExZZ0l4SFZSOG1FQVZkOGhfS2dZU2pkMzREQl93SmJSN2RmNmhvY1BMcHlTdGhZY1lyVjlCMWozQWZJWHNNRTFXdHlZOWx0cGprMzBoaDFPTjdhOVdYTENuTFF1dlA?oc=5": {
+   "h": "ウィリアム・サリバがアーセナルの練習に復帰、プラハ遠征を前にミケル・アルテタ監督は1人を欠く",
+   "sum": "背中の負傷で今季まだ出場のなかった⟪ウィリアム・サリバ⟫が、チャンピオンズリーグのスラビア・プラハ戦を前にアーセナルの全体練習に復帰しました（2026年11月3日の記事）。見出しにある欠く1人の名前は、本文の冒頭部分では明らかにされていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUdmRUZ4am1ud18tamZoazFqc1ZHLTBodTBZRTluR25fRTlHWllYSWZvc2lpbXp0R1dqVGxKN0RZWjNERVFvajhTN3N0eVFsSXh0bXRodWVmWF9ya2tjeTR6WmRfYnFHXzRUdkFSMy1MNGtNVUxhaGx6R3N5WGY4cmFDT1NXa3c?oc=5": {
+   "h": "サリバ、アーセナルの練習に復帰",
+   "sum": "⟪サリバ⟫がアーセナルの練習に復帰したと伝えられています。見出しと本文はイタリア語で、OneFootballの記事です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWVYd1didmFPdURJNUVFYUtnellEdWs5MXpfeXZxWGEtN09haDFYQ21ld3VZdnBxZ01pUm91VWVqVEJWVl94RHREUnVOVWxjMWhIVHRKSzU3OGRZMDA2NGt4ekloUTFOZWpmMEtjQmhjRDd5c1pYb1M3a1k4MzE3d3VvSk9HSUJPXy1NOERJVzB6dktIa2Y4ekJDVEJ3anQtMlFCamZEOHZ1QQ?oc=5": {
+   "h": "サプライズ！ミケル・アルテタ監督、チャンピオンズリーグの一戦を前に元アーセナルのストライカーと再会",
+   "sum": "元アーセナルのFW⟪ヤヤ・サノゴ⟫が、スラビア・プラハとのCL戦を控えた火曜日の朝にロンドン・コルニーの練習場を訪れ、2013〜2016年にチームメートだったアルテタ監督と再会しました。訪問の理由は明らかになっていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZW1xRDBLampXRVZUczJ0RkFwdnFrR1F3RUlkZVcyU3pWbWZfYkFsTXVBU25FaHdPY1N6VW43UTNPdjVmUnUyMF9EVUhzMU1NazM3Y3N2U3VDUENtbzVkdzYtNV9USVBUU1Q3T2tCellZZDFsemo0NjdWcEtfVzhBOThGZTJ5QUJEeUNPZ3BnaErSAZYBQVVfeXFMUE83VnFfemFiVmpsMl9DMVNjZ05IdmtYMjJtTXpMR0lMTFc5ZGF5SU1FUWxHVlA3bGFPRGsyU1VNM0VTd0ZtdFBOYTNtTzhCdWtueU04d0REb1FJcDZ3cW1hMEE2UUxmU2Q2N21mS24wUHNwMWRhUVB5c0F0czIyQWxINGVLdlhROVlVenRMeDRBUHg1YlhR?oc=5": {
+   "h": "マックス・ダウマン、負傷でCL記録ならず　アーセナルは大きな決断へ",
+   "sum": "見出しは負傷で記録を逃したと伝えていますが、本文によると⟪マックス・ダウマン⟫は水曜日のスラヴィア・プラハ戦に先発すれば16歳308日で、セスク・ファブレガスの17歳169日を破り、アーセナル史上最年少のCL先発選手になるとされています。国内リーグでの3試合出場停止中でもCLには出場可能です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZm1VMTdoY3RFRW16bGZvMTM0WDdjbnJ0UmlpS2VCRjhtb251Q1JyYVQ2eFpBODNmX2NNUzF6U0cxQlFsQjhxa3lvWHdadkZkV0NzQzRoWDFKSVMzbk1Sd0k0cUN1ckdHNFgtNXZ4RVZoYzBYdkc1T3VHTDlwNENreWxBYnItQUNSWEQ1LTJSVS1kdHowbThYTVlDTlJ6bnV1UUg1T0MyR01uc2VtMmlHOUxsNGZGUEE?oc=5": {
+   "h": "アーセナル：ウィリアム・サリバが負傷明けでトップチームの練習に参加",
+   "sum": "⟪サリバ⟫がワールドカップ中に負った負傷以来初めて、アーセナルのトップチームの練習に参加しました。2026年11月3日にSky Sportsが映像付きで伝えています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUhIVTI4S211LU05RFozOVpxNy1RdVl0YmdSM1czejlmOXFEU3Frc1lfSWNnSlNWMDI5eWpaOWxhMDBudnVaSkRpVkQySTIxSEFjV0pUcmVTdlFnOU0yVzhzMGw5eU9xdHNKWmtUaWFQU3IzTGhhZi15Wkp2d0VHWGRGd0hTTlFFQUNFYkhBVncydURhWVZ0ZElSTkNPM1dwM2tmQQ?oc=5": {
+   "h": "ウィリアム・サリバがアーセナルの練習に復帰",
+   "sum": "W杯準決勝で背中を痛めて離脱していた⟪サリバ⟫がアーセナルの練習に復帰しました。手術は不要でしたが、アルテタ監督によると来週再びMRI検査を受ける予定で、まだ実戦復帰の準備は整っていない様子です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUzByeXYzVkd4cFJtc3FQeGR6VW1wXzB0MzRrVC1mdTdYa244TEJQMFhQcTEtakNzdVVuN2l3WUpjMExqTTNKTlVCY0pLeUdId0ZzNGtOejlHNlhJN1Zla2VkajJhZXRpOEIyYXd5M0FDVktWVXlsZThhZnp6SHU1YVNqZHYzejlJTUJUOFRMaWxlZw?oc=5": {
+   "h": "ウィリアム・サリバがアーセナルの練習に復帰",
+   "sum": "背中の負傷でワールドカップ準決勝から離脱していたサリバが、⟪2026年11月3日⟫にアーセナルの練習に復帰しました。手術は不要でしたが、数か月の休養とリハビリが必要でした。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOVBETzdYcUR6cnRocktYSEs2NXpRRGN3UDdwc2RhNTc2ZmQyb2F3WmdkVnFMZmlJNE1fVlYzSjVPaG9Sd25GVjJZckxKLVlDRW1XQ0FqOGlWM1Q0TFNRVXY0NktRUEFjdEpFWjhUQmFWdTRIUEthdHM1eU00SEZUaGw5aEVYSERPYmhF?oc=5": {
+   "h": "フルマッチ映像：アーセナル・ウィメン対アストン・ヴィラ",
+   "sum": "⟪アーセナル・ウィメン⟫とアストン・ヴィラの一戦のフルマッチ映像が、アーセナル公式サイトで公開されています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE51Tl9SUnVHcElrNDBGMWt5Rm8tbm5kT3dyZ0x4bVpMUWpFUzhnZGNwQXcyRFVwR29EWVhVLXBST3NZUzY1aE1tS2t3WlZsUVU1WEFSV1IweGs2ZkpfNHFiQUFaWTVNTF9PSHFwb2pFSGZnQ3JGaGxuVjVEMkpTZHc?oc=5": {
+   "h": "31歳選手、2晩続けて飲みに出た後にアーセナル戦を欠場",
+   "sum": "エヴァートンにレンタル移籍中の⟪グリーリッシュ⟫（31歳）が、アーセナル戦前の週の月曜と火曜の夜にロンドンとウィルムズローで飲みに出ていたとThe Sunが報じました。本人は体調不良でアーセナル戦を欠場し、続くニューカッスル戦も規律上の問題で欠場しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNnBrMWRoUXpWUGE1Y01MTmg5bU8yRm02eG9ubFNGakhFdDIzSVdGZEUwWGZ6Q1p6WXFHLUgyT3pKZkdvRllYRXFGYWpMeDNFX0J5RGdoN29zWFdZaFZ0WDhuejZrOGZ0dUI0WFdoc3NnOFB5TFNPQXlzMmpoRkVBQllHZEQtWjNnV1E?oc=5": {
+   "h": "フルマッチ：アーセナル女子 対 アストン・ヴィラ",
+   "sum": "⟪アーセナル女子⟫とアストン・ヴィラの試合のフルマッチ映像が、アーセナル公式サイト（Arsenal.com）で公開されています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3QxNFBSZDJDVjhrOXBWdHo0UHBTQlNMLVc0VXNSWGRPRHhkMUVydVBnZTBSaGJlZWlla1JEYXQ4dWtpZ1daRGhPVUROemJpR1dxOGNqeFRKWXBTSlpnbENVTUJ0SVc3NW41ZlF1Mm5Wb1ZzZjZsV3dYeFd1UGF3TDNhd1k3UU5xb2ljdXI3YWJEZEx2M0E?oc=5": {
+   "h": "噂：バルセロナ、1月の移籍市場を前にアーセナルのピエロ・インカピエへの関心を再燃",
+   "sum": "スペイン紙『スポルト』によると、バルセロナが1月の移籍市場での守備陣補強に向けて、アーセナルのDF⟪ピエロ・インカピエ⟫を獲得候補リストに加えたと報じられています。インカピエはセンターバックと左サイドバックをこなせる左利きの選手で、アーセナルでは第一選択ではないものの、アルテタ監督を説得して放出させるのは簡単ではないとみられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXdNNFpVM3doQUo3U0IzQ0RrVERqNW9JUjJfaWVScHloOG1GMVBuUWduaWU3TjNJTE5CZk5zNlAxTjFxZmR0cm1GVEJwQ1U3WFZNZEU1aEx0VUtYYTBjME5ncHdUYUR3T1hRWEE2V1Myc1pSVjQ3OUh1SkNZRFdWN29raGROaFA3cGQ3YzdrdmJlM2dZOFljaF9sVUQ4eDhxNjRvUDNB?oc=5": {
+   "h": "大きな夢：アーセナル、アルジェリアの英雄の息子を注視",
+   "sum": "アーセナルが、アルジェリアの英雄ラフダール・ベルーミの息子でハル・シティに所属するアルジェリア代表ウイングの⟪モハメド・バシル・ベルーミ⟫を注視しており、冬の移籍市場での獲得の可能性を視野に入れています。同選手とハル・シティとの契約は2029年6月までです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZDJ4YVFQY2U3aHFHRExRZF9OckZ5X0EzNUppRHBzdlZTSVFuSEREMzNFVWxrTnlpTWJUdFRpd09qWEV1eXBNZTF0WmhsQVV6eWRFNno0WWJOekpTT0RfbWpBeDVBYjJMYmZWdE1FNUZhYTFxQ1FST29YSzZQcVJ5TTgzaVY4RVpmQTQzNmx3RHRFOVpXM0xES0YwbHp5R2JOTjk3dTh1M0IxMFlxbFprMlYyU2tOb3Qta0VxTl8yNzQ3d2o3WlU4R0k3Y3NJa2ZuTGtFRg?oc=5": {
+   "h": "噂：バルセロナ、1月の移籍市場を前にアーセナルのピエロ・インカピエへの関心を再燃",
+   "sum": "スペイン紙ディアリオ・スポルトによると、バルセロナがセンターバックと左サイドバックをこなせる左利きのDF⟪インカピエ⟫を、1月の移籍市場に向けた守備陣の補強候補リストに加えたと報じられています。ただし、インカピエはアーセナルで先発の第一選択ではないものの、レンタル期間を経て夏に完全移籍したばかりで、アルテタ監督が放出に応じるかは別問題とされています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1dGTE1zZDZEM2NYQlYxUHQ3S2tXbGFVMDRwVUFtTzJIclhUZWxZN2ZLLWJGTVVfU2g4V2NIdE9FRVdXRXZjR3hLbWJsd0RRZ0xiT1pnUHpjUnRsS2JOQ2lCVXRmNE1Fbmp1RU13X1ZubDh5TlNiblRhYllkeldvMzNGd3hHYVhJZlBsbnJlT1FBQdIBlwFBVV95cUxOaVVpc1lHWXVIZVJmQkZJZjZZN2dtUmpOcTBLa3Q5NEtNcGFXZkVMcHNUTktCNzFQT2RYV3hWc0VQUVJPRk5la0xZV2Q0NGlvd2g1SUY1TUctekdyQUF5ZmRGQUpGYmVTXy1QZHk1RURrZXFpS1JxUnhIZ0txNGc2NEpaUUF4dDdRRTMtdFdWdXlWOGNFMkJr?oc=5": {
+   "h": "アルテタ監督、負傷者復帰の朗報でアーセナル指揮官として最大のジレンマに直面",
+   "sum": "負傷離脱していた⟪ウィリアム・サリバ⟫がチャンピオンズリーグのスラヴィア・プラハ戦を前に全体練習へ復帰し、アルテタ監督はサリバ、エズリ・コンサ、ガブリエウ・マガリャンイスの3人を同時に起用できる状態に近づいています。今季ここまで5試合のクリーンシートに貢献しているガブリエウとコンサのコンビが好調なため、サリバは焦らず段階的に戻される見込みで、サリバ復帰後にセンターバックをどう組むかが課題になっています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDJNVFU2cjJDT2pZaGgwMEc5aWhScHBXRE1FV0ZyaEtKTnJ1VHlZQmFKRjBzd1gybWZKS0g5dk9fczRzQno3Um9taGRYNXNXX2RKa29JQjRNZU95ZkNmeUFJUEVhU0dROEFzTTNhSFdzS3ZiTjE1dHlPd1A3OHktSnVtNFQ2YkZDTHdXLWNlNVJHdnk5QlZKeV94UGMyRXdzVnp2cGk0S0xudnJwQXpJdVA2Zw?oc=5": {
+   "h": "ウィリアム・サリバ、4カ月の離脱を経てアーセナルの練習に復帰",
+   "sum": "⟪サリバ⟫が4カ月の離脱を経て、アーセナルの練習に復帰しました。本文は取得できなかったため、離脱の理由や復帰の時期などの詳細は分かりません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3RIMU9HR1Z4S0tibnl4c2N4enJDYTNIRGZaTzlqTU4yWjJfaW5PRjJBbVVBZTVMTURfUGVHYlVacjNaZFQwOTJ1VWYxQ3hNUWVzLVdOOEQxSHhUa0t3M2FwWExEUEEyaExOLWtVaEFWVEZBTFpxaEo5OU5qYjhYbUhVZXVjM3VwbXNxazF4aWJUS2lfUEcxWllySFNNTDdKV0HSAacBQVVfeXFMTlU2U3hMM3g3T3lZdHQ3U25WUTZJdHc2bWo5RkVyOUNMWWQzT0dFWHVPeEM3eVNqT2VTVUtJMWk3N3BhdkE3ZmtfYmJWU0dQODRxVlJuelFtQXdHcTJPc0Z6eE11QjE1NjBMWUkta1luNXVzMFMwQXh3UURoWEl0bnR4TV9NcXZDVmFucjh2TkIxbnJVZ1BUaFd3RDRXa25VejVfeWY5Tkk?oc=5": {
+   "h": "ダウマンとウーデゴールが先発、7人入れ替えの中でギェケレシュ起用にも判断 ― スラヴィア・プラハ戦のアーセナル予想スタメン",
+   "sum": "football.londonの記者陣が、チャンピオンズリーグのスラヴィア・プラハ戦に向けてアーセナルの先発メンバーを予想しました。7人を入れ替える中で⟪ダウマン⟫とウーデゴールの先発、ギェケレシュの起用が注目点で、サリバも全体練習に復帰しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTE55WnB2cnFRZU44czFsTFlTQnpkaTFyUjFFaVI3WnZiOVllbVBKWi11UDhuazNZNDlaTDYtYngwREhUazhycWEyRm44aXl4NldLcUZLZFBsbHJsWHo0bDBOUnFyNmJtaTF1Z0VhUkoxUTJrdUdaXzZwRA?oc=5": {
+   "h": "アーセナル、バイエルンの18歳選手について問い合わせ",
+   "sum": "バイエルンのウリ・ヘーネス名誉会長が若手の⟪レナート・カール⟫を「スーパースターには程遠い」などと批判したことを受け、アーセナルはリバプール、マンチェスター・ユナイテッドとともに獲得の可能性を探る問い合わせを行ったと報じられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd3puYi1WZnloZjNjUzhIbUlzNTk2dnUwb3U0WHZLU1R1X0VIQ1RIdHJYcVF4V0lrckx0NHA0SE91cnJBeWhaVnQ5Vzg1MTA1c1IzTnhla1NfREdTSU1ua2hJUnk2UnZ2VHJqRjFFTVM2eWJNM2dUUVhGbnp6LUdVREc4SWpRdnNnUEExbGxTd3NxSGVM?oc=5": {
+   "h": "ミケル・アルテタ、スラヴィア・プラハ戦を控えたアーセナルで元チームメイトと心温まるひとときを共有",
+   "sum": "アーセナルの⟪ミケル・アルテタ⟫監督が、スラヴィア・プラハ戦に向けた準備期間中に、アーセナル時代の元チームメイトと心温まるひとときを過ごしたと報じられています。本文は端末認証画面のみで取得できず、元チームメイトの名前や日付などの詳細は分かりません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVEVYT2xQbWJ3dEx2Q1AzQTBtWjVwdkd4T3lVWXZ1RlI3SENvSVY5X1VQeWwwMmtxV1NJUDJHVkNoRzJYMTVWOTBHN0lwV1RWRHJTeWh2dHVabE93S1J5WmVwT0wtZGpld2o1bjlBYzU1TGJ1bGVUQUNkak9RODV6SVUwOGM0b2phdWU0RUFST3dCMThUc3JOdWJkcklUOG0zaWFtTndmclE0SFpQUktrMHJ0VjFIM2ZIc3pzLXBYMXQxR25kWHVJTmpR?oc=5": {
+   "h": "アーセナルのスター選手の復帰でアルテタ監督に「うれしい悩み」、どう対処するのか",
+   "sum": "背中の負傷で今季開幕から離脱していた⟪サリバ⟫がアーセナルの練習に復帰したと「BBC」が報じました。サリバ不在の間は、アストン・ヴィラから5500万ポンドで加入したコンサがガブリエウと好連係を築いて9試合5失点の堅守を支えており、アルテタ監督はセンターバックの起用法に頭を悩ませることになります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1ZMdlEwTVh3NlliLWhJVUFTOW9XSU9FVVhzbmRWeE4yOWRkak01U1NfUzBFSFIyZjl4Wk9LSl80TXBvM3VyY1pKOGR1X0lWanprTzJFX3FSZGRtc0hvaS1LX0JUV1BJWGFlODREdXNUajJPcFVhYVBOUjVrZ2RFajNUcHZhTTJoaHNjWUNGbUhKcWRDZktsV1NkX3hpUGhaRW1RWWRHMm1xQQ?oc=5": {
+   "h": "アーセナルは最も期待以上の成績を残しているチームで、本来あるべき位置より勝ち点6上回っている",
+   "sum": "アーセナルは期待値を最も上回っているチームで、本来想定される成績より勝ち点が⟪6⟫多いと報じられています。本文は取得できず、詳しい根拠は分かりません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0TU9waDhTUVBZZXpOMmV1QkdqSGVKMy1fMEhUZmN5dUd0THg2OTcyZlZSSU1uenMxNktCOEhPc1p1cHljdDBYdDByRWxvZ0pBY1p0WUZEc1FIalBKOEF6Nzh2UmkxQjBUeUVMU3BtMHRoOXM?oc=5": {
+   "h": "アーセナルの4選手がFIFPRO男子ワールドイレブンの候補に選出",
+   "sum": "FIFPRO男子ワールドイレブンの最終候補26人にアーセナルから4選手が選ばれ、その1人であるGK⟪ダビド・ラヤ⟫はGKの候補3人に残りました。選考には73か国の選手1万9806人が投票しており、ベストイレブンは11月9日16時（GMT）に発表されます。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3RIMU9HR1Z4S0tibnl4c2N4enJDYTNIRGZaTzlqTU4yWjJfaW5PRjJBbVVBZTVMTURfUGVHYlVacjNaZFQwOTJ1VWYxQ3hNUWVzLVdOOEQxSHhUa0t3M2FwWExEUEEyaExOLWtVaEFWVEZBTFpxaEo5OU5qYjhYbUhVZXVjM3VwbXNxazF4aWJUS2lfUEcxWllySFNNTDdKV0E?oc=5": {
+   "h": "ダウマンとウーデゴールが先発、ギョケレシュの起用判断も　7人入れ替えのアーセナル予想スタメン（対スラヴィア・プラハ）",
+   "sum": "football.londonの記者が、チャンピオンズリーグのスラヴィア・プラハ戦でのアーセナルの先発メンバー案を示し、7人を入れ替えたうえで⟪ダウマン⟫とウーデゴールを先発に挙げています。チームではサリバが全体練習に復帰しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDA1S1dhMjY2eVVxcU9zUTZqRXlIb1Y5LUFZWFF3LXdoX1lwT1J5RUFGT2ttdVh5dVU4ZHQ1NlFVTk5Sc0M3dDVXbUM0QXpGeUdxY1EtVGFvbV8tTERMX19xbHBiN2UyV2ZieE1rN2RSR2NYVXBlMy1RbjJTTTYwZHNQWllkdjdhQnpJNkwtRF83SW9aNTAtNElmRzhCdw?oc=5": {
+   "h": "アーセナル、スラヴィア・プラハ戦の予想スタメン：アルテタ監督に負傷者復帰の大きな朗報",
+   "sum": "背中の負傷で今季ここまで全休していたDF⟪ウィリアム・サリバ⟫が、水曜日のチャンピオンズリーグ、スラヴィア・プラハ戦を前にトップチームの練習に復帰しました。アルテタ監督は復帰について慎重な姿勢を示しており、この試合ではサリバと今夏加入のエズリ・コンサがともに起用されない可能性もあるとしています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmo2UUczcW5rLTFFY21SOTZmUzZVXzNibjhLRXBNdml2aTRsQzA2YWk1LTFhNmRFQWxlMzhXTGdNU0dIV3ZBczlvSUgtV2VnVDZOMmNpTG5vZ0tkTGQwb3BKeldXYm9Mc2xrSWE1YmZHU0lPUDV2LVg5eUdlUl8tcFJsZXlicE13eTR2VEZGVW_SAZYBQVVfeXFMTXJ5Y05BZmloZVd1LXBocHM5UmZyRzFPMEl4aVNoMkdpU3daNElueERSYVNseEZZQUQ1ZnVoRGdfNE9TRnozTXd1WExCdHZZbk9PanJlTUNnTXd1U3poZWt0bUVjSk0yNlJKcEg3X3FKUWNQVVIzaTJ4TnZfNEFWZFllbWF5RURrdVFIdmZGVXpreUpmaFJB?oc=5": {
+   "h": "ウィリアム・サリバの負傷状況に関する最新情報、アーセナルのミケル・アルテタ監督が異例の告白",
+   "sum": "ワールドカップで背中を負傷し今季まだ出場のなかった⟪サリバ⟫が、チャンピオンズリーグのスラヴィア・プラハ戦で出場可能な状態に戻ったとアルテタ監督が明かしました。サリバは先週の非公開の練習試合で45分間プレーしており、起用するかどうかはチームの必要次第だと監督は話しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVNNM0tjZE5qVm5uOTctZ1Ywa0oxcHFLa2ZZTmRNYzQ2S1RvRVF5VzN4eS1zckZIZ1FRVVZrMlg1R09VclJOYnZIYng4U3hGWWZYVkd0TDV2NDlVVThEd1JNdFZYUVdzLXZ4d2JELVhVMEI3UktZRGRrck1MemJ5X0FtTFhyM1VVUVNTLTNRa3IzLTBrXzR1eEVQUTVtSnZRWG5TTW42NUhrV1BqZjc0ajFSR1lYSlBRdGsxQkVhTGVvV2vSAcgBQVVfeXFMTnR5VmljZ2NETUZTQUF4TGJ3c191YnBxSWNXUldaQkxGaUg1UTZpbXJPa2dSWjV1ZkhvMWJUcnhvbHJqWlp6ZTdGQ3VtZGRWWW1FOUNYZG5ZQXVZUU0wUk5DZkptWDRhaVJsQzY4cWk1cmFaNVB6OEhhYzBpTVdSWmI2eVEwNGw4WkhoX1ZpYVZvUl84TjFDQ3F2Rk56OVhnX0RlNGFoMlprR0RUNmdjZENqdW1aLXJ5dWJjekl6VldOMnN3dXJOY1g?oc=5": {
+   "h": "9試合で9ゴール：アーセナル、チェルシー、トッテナムがストライカー獲得へ三つどもえの争い",
+   "sum": "チェルシー、アーセナル、トッテナムが、モンツァに所属する21歳のポルトガル人FW⟪グスタヴォ・ヴァレラ⟫の獲得に関心を示していると報じられています。2026年7月にベンフィカから加入したヴァレラはセリエAデビューから9試合で9ゴールを挙げており、チェルシーとアーセナルは何度もスカウトを派遣したとされています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUVDSUEtazdmc2lCMWZVTkRlajNGLU5Bc2VtU1o4S0ZfX1NHTlcxN25icFFnd09NWjBlTTlrTmlrNE9INWxNQlhGY2NYb0dYRk5YRnJheklUZHdyeG8tUnBrUkNkNHpjSTVQZHU4bFFIMV9uNGxMQmZQYWxrM2ZZLUdlMFJteGNTampyN2VaX0dJUElHaDFB?oc=5": {
+   "h": "アルテタ監督、サリバの最新状況を明かす　アーセナルに負傷者面で大きな朗報",
+   "sum": "今季ここまで背中のけがで離脱していた⟪サリバ⟫について、アルテタ監督が非公開の練習試合を問題なく終えて復帰の準備が整ったと明かしました。サリバは全体練習に復帰しており、水曜日のチャンピオンズリーグ、スラビア・プラハ戦に向けてチームに帯同しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdkNHVURvbWdYTDRNNVBpRGpRQi1UNm5XeE8yNkxBT0FocGVPaDY1cDhLVUVxTVFDdTlIUjI0Tk92ZjBrekhzZ0EtNGVULTZVaURTQTlQRzNYQ3FBNXNIZFVOTU04RUZVaGw4S3hFYzhobDdaM3l4ZzN6TjVSWHRmTzQxT3BiR2wwV2ZUVm1UWlJfbGJQQVJrQWdvZVExaUVzTEM5M0RpX3l0TFQ0eE43MGRPcWd0emdpcEd2ZHlOVThlZmFaU0R5RlZhWnNQRlA0VlB3M1k0SWdGN0p3cThVRUFYNmQwWUozTzlDNG10UUkwYUpxeklLV05TLTY5ZTFLWWNOOEZsVGQwVkI1dlgw?oc=5": {
+   "h": "チャンピオンズリーグ プレビュー：アーセナル、敵地でスラビア・プラハと対戦　アウェーに強い戦士たち",
+   "sum": "アーセナルは水曜日、チャンピオンズリーグのリーグフェーズ第4節で、チェコの⟪スラビア・プラハ⟫と敵地で対戦します。今季10度目のアウェー戦で、リーグフェーズでのトップ8入りを目標にしています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0VDcExiSUZkT21mdGV2aXZRVFEzajV3WGdhb0VBOWR2YXowSXRseU5Wd29CT09TWUltWVhtWDlwbzAwQ1hUcGhfaTJ1cnpEWWYyenh0ekdlU0luTEpiTW5RdnJ2cldLUEdzMi1LeU4xbWQ0MTJsLVhGdTFiQ3hlMmttdlhJX1dWdkM2Y3J2REw?oc=5": {
+   "h": "ミケル・アルテタ監督会見ライブ：アーセナル指揮官がウィリアム・サリバ、マックス・ダウマン、スラヴィア・プラハについて語る",
+   "sum": "背中の負傷に悩まされていた⟪サリバ⟫がチェコ遠征メンバーに入り、今季初出場の可能性があります。アルテタ監督が会見で状態を説明する予定で、フリートウッド戦での退場による国内の出場停止中でもこの試合には出場可能なダウマンについても話題になりそうです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaVg1RTJqZjBtaEpxYTFyNWhyRE4zT2gxTHY3M1JGbndUY0dWVGN1TmZWRXFGYUhFbGtPd1gyMnZRZXlmZ2M0VGhyMWNJaGZfVl9XT05vZG1fQWgxZXFOSGFEajJhSHF6bTJYTTlDM2FxTjV0eHZWeXk1bjU5a2RGZXFmQm9qNk9yZTAzX3JmcHVQUGRmSkhRMFppNnVLUzlvOVlRaFljSFFTa0N4QkJQbmNOMkdNblJfZkQ3aHM1NVNZcS02NERId1NSSGNmUEhMa25zS2hIbFZtZzFWaWliem8yYUFOV2pndWc?oc=5": {
+   "h": "アーセナル対スラビア・プラハの先発予想：CLに向けた確定チーム情報、予想スタメン、最新の負傷者情報",
+   "sum": "水曜夜のチャンピオンズリーグ、スラビア・プラハとのアウェー戦で、国内大会限定の3試合出場停止中の⟪マックス・ダウマン⟫がCL初先発する可能性があります。背中の負傷で今季ここまで全休していたサリバも火曜にチームに同行して遠征しており、アルテタ監督は今季初出場となる復帰を検討しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWFKbUR3OFVmMkFHeWpUQ1VNcks4VTRyTlVmYXpZOC1tUFozR2E4WWZtdi0zd1h3MEZJdmJtRnNYbU13dmRDbEJ4Y1pLZHcteXVYMFF3UHd1M3dqLUZTSTFzSDFsOHp3dFl2N3NveEEtU1hOT2swM09IVi1QRDloZWtHNWh5T2U3WldsMkhGWDZkSU0?oc=5": {
+   "h": "バルセロナ、DF補強を模索する中でアーセナルのスターに照準",
+   "sum": "ディアリオ・スポルトの報道によると、DFの人員難に悩むバルセロナが、1月の補強候補リストにアーセナルの⟪インカピエ⟫を新たに加えたとのことです。デコ氏ら強化部門は、シーズン途中での獲得を検討していると伝えられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHZWTXRweGhZLVNkbkpSNEQyeDBEeWhFRG1fNGZleTVEd2Jpd2xqWHdBN1pGQzE2U1JsRHRaQk5sS0FFc0ZpSnhJY05mZUNPQm53LUNwUjhDLVpJM0JpS2pPOVJNdDlhc1gtRXlmS3BoRjdYMlZKNUdZaVd3SU1ueGZ3OW5hS2NvUXJ2Y0lPUlpEVkVHbFFBZnVzWE12OFhoaENMdw?oc=5": {
+   "h": "アルテタ、リヴァプール戦の判定騒動のなかアーセナルへの批判に反論",
+   "sum": "アルテタ監督は、リヴァプール戦でティンバーがペナルティーエリア内でイサクのユニフォームを引っ張ったのにPKを取られなかったのは幸運だったという声を退けました。同じように反則を取られなかった場面の⟪「膨大なライブラリー」⟫が自分の手元にあると主張しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd01QSzZMNE9qV0MwcS1vYkNpUm9SaTJrVnd6OEp0ZnFsdFprYVNNeTJaSV9objF4ZktOXzcyTGhqV25NMFd6SzN6SGE0M1pVYnowNmVKd1A4ci1pUVgzVjdoRFpabDRPRjBYdzhOLTRfYmhtREl5U05pWUs3TVYyUjN4MmJGYmtzV09nbkVnb25VZ1A5RXBNS3lUVlg0amRFdHRaQ1lB?oc=5": {
+   "h": "ウィリアム・サリバ、W杯での負傷を経てアーセナルで「いつでもいける状態」に",
+   "sum": "ワールドカップで負傷した⟪ウィリアム・サリバ⟫が、アーセナルでプレーする準備が整ったと報じられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUhGM1JPeGllek9uWTB4em81dDFBMmR0bmR6UmxYUXJWWEl0dVpCMHdyZzZoemhpeUJrS0JrbC1icGszYVdOcHdfa3dvejJ1UjVuVllKSk5mV0psTDFjVXRsQXZ0VlUwRzNXbUJSQnBIbGVtX3ZWa3BoR3liMUF6MEpNd0dveGVXQWxIdNIBkgFBVV95cUxPcmxCN2lUT0FTWjZLZzNvMzI3TGd1QzJraVJ3ZlZLczR5Tk9BZzNOTXdxQzJSTTg0bjZzZUUzTWVpdWxHazFSNW1oX2EwSmtBdmZFRlFMVkZWcDlxNFVOU2g5d29Cb2JULWdpV0M0eVh0UHNuSmlyNTV3dzdSZmtfa0twRGM4RzJROEJnNENJVllCdw?oc=5": {
+   "h": "ミケル・アルテタ全発言：サリバ起用プラン、ダウマン、そして心を打つアーセナルの追悼について",
+   "sum": "アルテタ監督はチャンピオンズリーグのスラヴィア・プラハ戦を前にプラハで会見し、急逝したテネリフェのFWヘスス・デ・ミゲルへの哀悼の意をクラブを代表して表しました。また、先週非公開の試合で45分間プレーした⟪ウィリアム・サリバ⟫について「いつでもいける状態」と語り、昨季同じスタジアムで大会の歴史を作ったマックス・ダウマンにもアピールの機会があることに触れました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNem5MNUpVNmh1bFczSzhYUHdaWTdvY1JJdnBCTHNJRzk4eWhIVVE0RFoza0tNSERSejM5NGZNYmdPeXBCYjB4QkZnbktlRlRiYjJCal9kNUZpd2JhUjhCdGRzX3QtakpPdDJVSW9ZdWxrX3pQdmJqa3lOelNhQ0JoZ19ORlZyaE1JdVFZOHE5dkU3VXJRbGZ6bkhfRXRpeWt2M041OC1FWXJQU0VBak1NSmE3eXNNY09hNnc?oc=5": {
+   "h": "アルテタ、サリバのスラヴィア・プラハ戦での復帰に太鼓判",
+   "sum": "ワールドカップで背中を負傷して長期離脱していた⟪サリバ⟫が、先週の非公開試合で45分間プレーし、11月3日にスラヴィア・プラハ戦へ向かうチームに同行しました。出場するかは未定ですが、アルテタ監督は今季初出場の準備は整っていると自信を示しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUlKdnM1NXA4aFdic19CU2wwUUJmeHdSMUZ0cFJDUlA4dHpURjR1c1NjUmp6OUp1WmhuLUZTaWlYdnpyZ1lya09RbWxiMDFCbEJkRmhLNnhkZ3FHMVdoNGdsLXpBZWd6WFN5QTVGX1JVSkFucmxmVmNQMHhtTEVqcGRWQW56b1hqc0E5blVGTFRQaFhjMmpuM1hpNnRZcTI5?oc=5": {
+   "h": "イラオラ、もうアーセナル戦にはこだわらず　リヴァプールは全勝記録の継続を狙う",
+   "sum": "リヴァプールの⟪イラオラ⟫監督は、アーセナル戦でイサクがティンバーに引き倒された場面でPKが与えられなかった判定について、説明を求めておらず受け取ってもいないと明かしました。そのうえで、2日後に控えるチャンピオンズリーグのフェネルバフチェ戦の準備に集中していると述べています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU1HZ2o3Szk5cjNoUUdQdzE3ZTVyUlI2ampEd0JNWFNNUGx2Qlh3NXJrUDZ6TFZDNUdrd2JCaklZNTJFLWVnY0F2RkV3UHhQZzZfcEdMVzhjdl92NE42M1RuTVpWQnFsaXlZYkZONlRYLVlLdFluRktVTS1ORFNiLTlqTmVkMzBEakljTl9DRkZwU2tNRG4yRzh2dUVnXy0wNUQzcA?oc=5": {
+   "h": "アーセナル、モハメド・ベルーミ獲得に強い関心",
+   "sum": "マグレブ・フットの報道によると、アーセナルはハル・シティのFW⟪モハメド・ベルーミ⟫（24歳）の獲得に強い関心を示しているそうです。ベルーミはポルトガルのファレンセから加入し、昨季はチームの昇格に貢献し、今季はプレミアリーグで好調なスタートを切っています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXJjYW53bWttNnZTVzVDaDdUT2J4YkNCVXQ1ckp1Z2ZDQ2lPZUxOQUozLXFmRkZweGRsTkxoSFBCVjhWNzVrZGNEVFhzZzg0OHg3TGpQeWRfa3VTdXE5Zng1WENjZzc3RDBscy01eXd0eHpyZXE5cjZkYzZEVVpNSG1RMk9Pbk8zejlQenFjX21Kdw?oc=5": {
+   "h": "アンリ、マンチェスター・ユナイテッドに関する新たな見解でアーセナルと比較",
+   "sum": "アーセナルのレジェンド、⟪ティエリ・アンリ⟫氏が、現在のマンチェスター・ユナイテッドの苦境を、ヴェンゲル監督晩年からエメリ監督、アルテタ監督へと続いたアーセナルの再建期になぞらえました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdmZPYk93bjN1dFNVREFraVpCNTdEUEtfQTM4UVV3UzIwS2xnNEdVLTJaWlJPdUhJM0FmYkpFOVJwM3lkT0JvTTB1Ukg0WWZ6UENybW1OYnp5dlhrOEI1N2lkcjNDNHBuYmp6c0NfV3lKQTRLbWl4ZjZqeXJuUQ?oc=5": {
+   "h": "プレビュー：スラヴィア・プラハ対アーセナル",
+   "sum": "アーセナルはチャンピオンズリーグ第4節で、2季連続となるスラヴィア・プラハとのアウェー戦に臨みます。試合は⟪水曜日の英国時間20時⟫に行われます。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNGYxZXowdWxxVThsTVVCejAzQTlSSGFFWXVrWkt3Z0VPWHcxaEJ6bWk0R3NtOHFPVndPcGNYdzBGZHJoNncybW5Qck9aWlRIMlpYdXVyek9lSlBxVlJOUGtHRWlURU9KVEtBajJBWV9fb0U2OGZpeWJFMjVhS3F6a1g2bjZDeDdaMkpzMExSd3ZyWFRWOHE5dDFfV04yYU1iUDFfR29QYzl2cVUwMUx4UndvZkplRUEzR0poS2J5OGhlTWd3dE9nMjR5U3ZKdm8wWktUNU0tMFdsazFj?oc=5": {
+   "h": "スラビア・プラハ対アーセナルを今日ライブで観る方法：テレビ放送とライブ配信はどこ？",
+   "sum": "チャンピオンズリーグのスラビア・プラハ対アーセナル戦の視聴方法をまとめた記事で、英国では⟪HBO Max⟫やTNT Sports 1で視聴でき、米国ではParamount+、カナダではFuboなどが配信します。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUNMXzk1UEdsUGtScHVLSFJTT0FDNVlxZUx6SWZPOVRaazJrVFc1Rlh0R3ByS3dzaWRjU1VWY0tEalF3ZzIxSVNzeDhsZXlKbHhfYS1LaEFtVVlKYks0SlZabjlseHpVeWNFX0hkb1NJSEFidFF0WmcxSllmRmV1b1ktTEcyY0kxR0RwNHJ6aEZuYlh6VTFIcHc1cDE5ZDlXajV5Rm9MTQ?oc=5": {
+   "h": "アーセナルのミケル・アルテタ監督、イサクとティンバーの一件を受け「ユニフォームを引っ張る場面の映像を『ライブラリー』として持っている」と発言",
+   "sum": "アーセナルの⟪ミケル・アルテタ⟫監督が、アレクサンデル・イサクとユリエン・ティンバーの間で起きた一件を受けて、ユニフォームを引っ張る場面を集めた映像を「ライブラリー」として持っていると語りました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2JtQm5rU25fZ191S0l4ckU5dDNtaVMzQzliNUdKR0RfLWtWeTRERW5fTF9VMWwzTkdXSjBiQlJ6LUh3UnpSWUtvTmN3ak9VcmZEbEtyRHRkZVZaZEZLU1ZCNkRTY09FVk00VXZFcndiaHhUa0JjSEdVQjR6Zm9yMU8wR1RFYzByVzF6Unc5SjcwSFZkLU9waXpVa2w5N2FBLUR2WWNGLUdLQQ?oc=5": {
+   "h": "アルテタ、アーセナルの悩みの種になりかねない状況を「本当にポジティブなもの」に変えつつある",
+   "sum": "背中の負傷から回復した⟪サリバ⟫が練習に復帰し、ガブリエウ、8月に加入して先発に定着したコンサとセンターバック3人がそろって万全となりました。アルテタ監督はこの状況を問題ではなく好機と捉え、サリバは「いつでも出られる状態」で、今後は出場時間を与えていく段階だと話しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmxiWUpvaUJJSGhDMkh1NE1YYnl5d0x6WFM4SThLcjd5dVFhbG9scGEzWkxPOEZHVVlubUxWMTlYbGFEWVEycDZWQUVRbFByVlZjSEVrQ3ZFaW92TmZwSHhESXhCUURZd2M2ODI1clVwZjNzT1dJZktJRmt2X2hRa21qeGFzODJqRVVYdVg0WmhvR21wTmdsWkI3MkQ4SEY4YWpBX1NETXVVR3llLUVOdldkVmhtZDg3N0E?oc=5": {
+   "h": "ダウマン、ギェケレシュ、エゼが先発へ｜スラヴィア・プラハ戦のアーセナル予想スタメン（4-2-3-1）",
+   "sum": "スラヴィア・プラハ戦に向けたアーセナルの4-2-3-1の予想スタメンで、⟪ダウマン⟫、ギェケレシュ、エゼの先発が予想されています。本文冒頭はサイトのメニュー部分のみで、ほかの選手名や試合日は分かりません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWJMMktNSUt3RE9mYVJpZ0xZSXlvRE9icTktZVk4cWU4eUtEalFnclRMbnZocndDaDNrZTRqRTl1TFBsdEd4NTQtX0VBUzBZLWRmWUVyWG1EcmJBU0l4RjVaUWRteE1NSTZQa0Mza21pSGFFZ1JzdDFPLUo5X1I1cg?oc=5": {
+   "h": "スラヴィア・プラハ戦のアーセナル予想スタメン：アルテタ監督、負傷者復帰という大きな朗報を歓迎",
+   "sum": "背中の負傷で今季ここまで全休していた⟪サリバ⟫が、水曜日のチャンピオンズリーグ・スラヴィア・プラハ戦を前にトップチームの練習に復帰しました。アルテタ監督は復帰には慎重な姿勢ですが、いずれサリバと夏の新加入選手コンサのどちらを起用するか、難しい選択を迫られることになると記事は伝えています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWERVS3VlX3lNQVZ1R1AyM1NhWXd3NEd3OVZDQTh3aTQxTlpWb1FlMU1SVFVOM3QxSDZUN09MRy1TU185X0psTS1yUkQ5MUtoOEJ6bkN0R3haaXNVYjVIWlc0TzRtY18xMmdzQVNZOE5RVVhFQWExM25rZDZKOU5lb1FORm9kajlLX1A1QQ?oc=5": {
+   "h": "アルテタ、アーセナルの悩みの種になりかねない状況を「本当にポジティブなもの」に変えつつある",
+   "sum": "アルテタ監督は、7月のW杯準決勝で悪化した背中の負傷から⟪サリバ⟫が練習に復帰し、ガブリエウ、8月に加入して先発に定着したコンサの3人のセンターバックが同時に万全となったことを、問題ではなく好機と捉えています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMGVaa21EdzJmNkFFVERBYjB5Wjk2SVpuY0sxNXFfcXF0Nl8yU1Jkemp2cXpRdGRMOG1Id0tsQUxUeFRxSkJ0bTJ3NG91bW90enY4al9XQ2daOVNfX0d6QzRPYVNBS2pqcjJZV1U4NmVZR0FVNkxzMlIyUXpEci1uNXhNVjZhQ0VqcEN1bVVkZw?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル：プレビュー、予想、予想スタメン",
+   "sum": "アルテタ監督率いるアーセナルが、⟪水曜日⟫にチェコでチャンピオンズリーグのスラヴィア・プラハ戦に臨む試合のプレビュー記事です。相手は今季のリーグフェーズで勝ち点1にとどまっていますが、アーセナルは前週のカラバオカップでの4部フリートウッド・タウン戦を踏まえ、番狂わせを警戒しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3BtM0h2VURqMUdpT2t4cXdjUXpqcDhicmc4Mm1hTjhvMkRINXdNakFXSU1VaEdyMzhpZGxQbzhfU3RjV3J4bjFURUtoZFFHeVhjY1ZEOHdrTjQwbm1xQ2t5bnRYelJaM3VpOW41ZnJPZjVSMF9GenEtREVDWTRyTXBvaw?oc=5": {
+   "h": "移籍の噂：PSGがメイヌー獲得を希望、アーセナルとマンCもエステヴァン争奪戦に参戦",
+   "sum": "パリ・サンジェルマンのルイス・エンリケ監督が、需要の高いファビアン・ルイスの後釜候補として、マンチェスター・ユナイテッドのMF⟪コビー・メイヌー⟫の獲得を狙っていると報じられています（情報源：Fichajes）。見出しによると、アーセナルとマンチェスター・シティもエステヴァンの獲得争いに加わったとのことです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtbXNmQjk4UmI5RDNXa2hWSXpxYTJranJDTjc5WHJ0MHdlNEJiMkVRZ1dHcW1Gc3Q1ZEFWVjdFc3BUbmJIVUlGT3FpQktCcWNuS0VCamdCSTB1bFFQeEZRUXdGdw?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル：UEFAチャンピオンズリーグのデータと対戦成績",
+   "sum": "UEFAチャンピオンズリーグのリーグフェーズで、アーセナルは⟪2026年11月4日（水）⟫20:00にフォルトゥナ・アリーナでスラヴィア・プラハと対戦します。同日にはリヴァプールやマンチェスター・シティなども試合を行います。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXdtVm1VYS1zU2Q1S2RZeU10d1piMjh1RGUteENLVDNxMUR2MU9WT0NlZk56WHBmZmlGS0J6RWV3OV9FU3JmaDhaUUJIZFQzbnB4VDExOU1IV3g1clU3NktBV3l6T25HV1YzWDBiN1VncXVYOGsxeG9uTloybXNjejhuZXZIMVUxQ0VMRGJ3dXlRVjBhSk0waG1aVVNvUQ?oc=5": {
+   "h": "ウィリアム・サリバ不在でアーセナルの守備は何が変わったのか？",
+   "sum": "ニューヨーク・タイムズが、⟪サリバ⟫の不在中にアーセナルの守備がどう変わったかを取り上げた記事です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGxKWW1IbURwclA5M3JiOEtKakZzRjI4QzBKZDZDX3dxTW1xTmxnMktkY09JckVVRTI3ZnpyTU1Ib3FIa1Mxa25JMlRaVjZ6dERFNWFyNEhUTzZsU01TZHNoa21SV3JOSl9JbHhYbjNkQmh5YkRBMnhvN1o2Y2VSMXA5SlBNRkEtTno1ajBpSmJ5d1BpdVHSAZsBQVVfeXFMTUJiOEhyeXFoWEQySVczTnU2WjAwTnRjbkthRjdYNzJGWVFRWENmVWZQbWtkYkJkTnQ1QUJ1QnZMSGdUWEV4OW5WVXkwSUxKUEk4THQzTFVsRXBFWVd6ZW5YTHp1NDFjcGFIYV9NRzNIZFFOM1MxcHZweF9IWXp6U3BQSmVKR1hpZ3VWLWF5WDlvckdRbUJ1RTJFLWc?oc=5": {
+   "h": "アーセナル最新情報：補強の優先ターゲット2人が判明、マルティン・スビメンディは「去就を決断」か",
+   "sum": "アルテタ監督は1月の移籍市場で攻撃陣の補強を目指しており、ボーンマスの⟪イーライ・ジュニア・クルピ⟫とユベントスのケナン・ユルディズが候補とされています。ただしボーンマスは1月の放出に消極的で、見出しにあるスビメンディの決断の内容は本文冒頭には書かれていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFFSZ3pvTUlpVlFFRDFvQ25RMGJYbnozRDRtb2dDNTFTOXV2TDhxNUhfSHdfTDgySF9kV0ZZNG5ncGVZaDI0MURDaXZhbFJRWjUxbnZBa2JQU1d4TTZmbk9tNzZxWEZ6NzluZG1FeVdhSzc0TkRzbzhmNXA0SFU4X3dUTlZqcFVMaXhkaHZSMHFoMnI5R3BVMzc1aVA?oc=5": {
+   "h": "ガクポ、アーセナル戦でのPK判定に不満　リヴァプール",
+   "sum": "リヴァプールの⟪ガクポ⟫が、アーセナル戦でのPK判定に不満を抱いていると報じられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSk9wMUZHVGctTTk1MFhneUhZNzQ3MGhCcFRnQkROQWoxMi02MlZIYTJ4ZnBrb3VKQzE2enBMYnktdjVVSmJUQXF5dTgtRWlrRXNHNy1tb0Itd3pFd0JHYjhpVEpTN09UUFd6QVRSVlBxdS1xcXVMRVRjeFZtR3UwVlNkV1FjZk5VWEhvaWtVbGoxbVF5QXJF0gGcAUFVX3lxTE1nVHk3TnNXTUp3MmpuMnU2ZU9yWURZRGZpR1JRejFFbVFycjM4em5HcC1WRkpwV0VlWnF4NnR3YWtsU0ZpQ3hyUFRJcU93NVBTbVdQcVNOX3NjNTR6NHJFc3pEaFJ4SGphWXJoNHdmbmVDZ1puSHB5RmlfcnFvOVZMSktEWWVueWFGYWNlUk5Uc0pfTzJqcTY5ajVGTg?oc=5": {
+   "h": "アーセナルの負傷をめぐる謎についに答え　ブカヨ・サカの負傷原因も明らかに",
+   "sum": "アーセナルの元ハイパフォーマンス部門責任者⟪ダレン・バージェス⟫氏がポッドキャストで、負傷リスクを抱える選手を出場させるかどうかは、医療スタッフの助言を踏まえたうえで最終的に監督が選手と話して決めると語りました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3JZdjhCM0NiN21QZWY5YzAtOUdiMHBpQ0Y3UkNJM2VzU3owMndkbHllRlFGNEpPSnVSVE56TjRTcnUwQXZWSHlIU3doUFdZZURubGRqcmJrNHNVVHJTYkM1RmNqSUlGQzBlVVNRd1pKNGNHeTBBSnVFNVhwRTFrOFQxY2o1cWpCMUxfbVpxWdIBlAFBVV95cUxQVUVHVnVDc2RkaWtJVU5HQWZMYl9mTTBpNlZVSF9FcmN6Q0VXclNlS2Y0RVdOZEphZmdhOGR0YnE1bDdGZ3oxNE5HN3VPbmg3ZHp3R0FvRkR0TWN5Sm5VUzk2NDZ4ZHlDOGxYQVRoU3NneHVFRkwyZ2xDbEg4QmNfNk43VUpRWnlMYm1ra3ozdW40amtO?oc=5": {
+   "h": "スラヴィア・プラハ戦のアーセナル予想スタメン、エズリ・コンサは温存、ウィリアム・サリバの起用も決定",
+   "sum": "水曜夜にフォルトゥナ・アレナで行われるCLのスラヴィア・プラハ戦では、土曜日のハル・シティ戦を見据えてアルテタ監督がメンバーを入れ替える見込みで、⟪サリバ⟫は先発せずベンチから出場する可能性があると予想されています。GKはラヤが引き続き先発し、DFにはホワイトとモスケラが復帰すると見られています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0hTT25kWDFtWm9fVms2WEZHd01nLVY2TXI4b1Q3MVRWUVVfWGNGSktxaEhxTzF5T2cycVl3TVZHRVpRUEJJa0ZzX3JUZ1VyWkd1M1NuTmlqLTRFYXF3a0hvbWpmclRFNUJodTJyWmExdVBvbHlMdGdHY3N2VmFSZG5qTlM1am03R3pRNGl2XzJ6Y014RUdCWlBUdmpFMThobm5mQ3otSHUyTWNSZWhnbV83QXR4OVVCdS1rUzV5LThDMGZCaVZ3c3R6LTB0UWx5WTBqd1RLUGE1enc2aG1j?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナルの視聴方法：本日のチャンピオンズリーグのテレビ放送とライブ配信",
+   "sum": "アーセナルは今夜、チャンピオンズリーグのリーグフェーズ第4節でスラヴィア・プラハと対戦します。前回のプラハ訪問（⟪2025年11月4日⟫）からちょうど1年ぶりのチェコでの一戦で、記事ではテレビ放送やライブ配信での視聴方法を案内しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVVoX2Njdml3aC1XeU90MFRQWmFleXZzSkpkOGN6b18wdm5UY3gzMXdVWXJQaGNWVnlONXpqNWY1WjhYdjVVenJFM3pCTGc4WGI1Nl9uYlBlM3otWDNvMVczcWF4OFRkWHJzX0pwY3YwN3E5TWpWY2NwbnZlci1IZl9iX0d2U3ZzY3ZWTmZFQldYZXFRN3d1NzIxMmpKWWMwNnh5Sy1IbXpYRkxqN0FhYg?oc=5": {
+   "h": "アルテタ監督、スラヴィア・プラハ戦でのサリバの復帰に太鼓判",
+   "sum": "アーセナルのアルテタ監督が、敵地でのスラヴィア・プラハ戦に向けて⟪サリバ⟫が復帰できる状態にあると支持する考えを示しました。本文は動画ページの文言と他試合の日程一覧のみで、試合日や詳しい発言内容は記載されていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3lmQ1E4Zlh3Ti1xQ29wZllJekhBSXR4Vzc5SFlRRWRVVHUxTWUxcktoRGp4RnQzQS1LM1o1am5oS3R1dXBtVmcxN0FUNzZYYXRXcHROLUFkaVRPQlVjTVR4eFFjV1IwSzdneG5HbURWVEZoa3hXNzNaTHU2R2FqblYxbzNRTWFnLWhTc3FwOVhOd0FZcUVYamJzcTZHMm1pQTJTWUNhTlVrRG02ZGN1Zg?oc=5": {
+   "h": "アルテタ監督、サリバはスラビア・プラハ戦でアーセナルに復帰する準備ができていると太鼓判",
+   "sum": "アルテタ監督は、⟪サリバ⟫がアウェーでのスラビア・プラハ戦でアーセナルに復帰する準備ができているとの見方を示しました。本文は動画ページのため、これ以上の詳細は記載されていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYkJMeDNrQnQzc3d6M05RbDlsT3F4OUdRZmd5TzBEekFSTV9CZndWNGl0RXlHcUw0Yy1wQWFsc2JNOGtxclNiUG9pbVJleTNNQjB2VXFDU0sxYWxDa0JkR1l6eS1MS0ZuVTUwMnMtQi1GNEU4OG5vSmF6N1EyTUtHbmJjWGgySjU4engybVdDTG5uOHRVOVBKdmNvU3ZzLWxsbzBXcUotaHN2cnB6Um1GcXhqaHoxd0pqbVBpYkNRNzlJTEViTXpzZ0Y5Zw?oc=5": {
+   "h": "アルテタ監督、サリバはスラビア・プラハ戦でアーセナルに復帰する準備ができていると確信",
+   "sum": "アルテタ監督は、⟪サリバ⟫がスラビア・プラハ戦でアーセナルに復帰できる状態にあると考えていると伝えられています（ポルトガル語版の記事です）。本文は動画ページのため、これ以上の詳細は記載されていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2lfWlkzbURRRGsxM0o1ZWd3RVlQNjVTTzNfUFdIN1JmZWtETldGLXYwZFV6dFM3NlJKVF9vdlJweUJlOGJBTmFZTGZlUG56d0UtcVZUVktVZWNra2Z3cHNqS1Y2VFB6ZVVqN2hKeG93b25wWVVyQ2s0aW4wOXJBOWNxYlpPOFFzRGdNV1MwVVFSZ2FoeW9aelMweVRUZHZ1bF9rWXlyaFlyMFd3VmJv?oc=5": {
+   "h": "アルテタ監督、サリバのスラヴィア・プラハ戦での復帰準備は整っていると太鼓判",
+   "sum": "アーセナルのアルテタ監督が、⟪サリバ⟫がスラヴィア・プラハ戦で復帰する準備ができているとの見方を示しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0MyaVh5QllkbE5jRjNRTUlOZ3V3VThhOWRCR0psdEIxRGloNHdJcUx4dnlJU3E1ZHg4YXJVR2FqcDh3dFFxNG8tcGh0YjkwYzQxYld3cEFCY1FLS201Nm12X2x3eEU3MGUtenV4ejNLSUdmYzFJLWphOG95Rmhfd00tZ0pPZ1ZtQk5aSGtTUGVWTmJuczU0cXFUMUJva0Y0dzc3Unc5Q2tia0lua014TVZNdHVwVE83SERhVmc0eTRoaEhMNjZHaA?oc=5": {
+   "h": "アルテタ監督、サリバはスラヴィア・プラハ戦でアーセナルに復帰する準備ができていると見る",
+   "sum": "アルテタ監督は、⟪サリバ⟫がスラヴィア・プラハ戦でアーセナルに復帰する準備が整っていると考えています。",
+   "v": 2
+  },
+  "https://arseblog.com/2026/11/saliba-returns-with-scope-for-rotation-against-slavia-prague/": {
+   "h": "サリバが復帰、スラヴィア・プラハ戦ではローテーションの余地も",
+   "sum": "アーセナルは2026年11月4日夜、チャンピオンズリーグでスラヴィア・プラハとのアウェー戦に臨みます。⟪サリバ⟫が全体練習に復帰して遠征メンバーに入っていますが、先発するかどうかは分かっていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXdsWDk2Zk1SZm1LYTVmeTl1NVBDcmFCTlVMOUthN1lTektzZVZ2aDdyV3VKbVJzaDJ4czFCa1RBZTFOWnR3eVdmcHBJOXAwVjR3SHZuNVI1UkxidnlDbUEzRnVxQkRSMXRDVDZyUk9UUk5WOFhWWFljRUUweFJRZEt0ZDJubGM0ZUNLcW1xelhUUDdlemtKSVZ4VWFSQTFWYzZMUVFmVmQwNW1fUl9pNC1EWFVSbGdleENMVUxPQzNSUFZLSmt2ZlUtUFBKdw?oc=5": {
+   "h": "アルテタ監督、サリバがスラヴィア・プラハ戦でアーセナルに復帰できる状態だと確信",
+   "sum": "アーセナルのアルテタ監督は、⟪サリバ⟫がスラヴィア・プラハ戦で復帰する準備ができていると自信を示しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTF9FZWxKdUFFWVJ1cWp5MWRSczhvT0l1eTh4RFBrT2NpaWJ1bnV0X2tJNm9jZ3JiY3lyS3dmSTJlc05jeHhZd2EyZUpmNWJBWGdqUWVlZ0pDVWhYcHJHVnZOa19oNDlSVzZwamtvdW13UE9iOElYN0dQa3V6TUFvTWpxeHY4M3h1dXktdFllVFNRY2wzNjV5V9IBngFBVV95cUxQTi1tYWYyRzVyUHlHZWxVOUhQc3lfZWNpNlY1bnRiYkR3eWluQl9UX0E5YlA5ZGRLcEVLc0tCUmx6aURIenQwZFc3TXlOWXVlWFp5Ulk4dnNFcDVVYjNWTm1HOGppQ1Z2bHRZbXBZQXRNcWtvblFhZGxNYmI2S3FfdTdDZ2V5ZmlxU2MzWlIwTGg2NzVvTDFCbDZ5cWtOZw?oc=5": {
+   "h": "大きな進展を受け、7クラブにアーセナルのスター選手の移籍状況が伝えられる",
+   "sum": "TEAMtalkによると、出場機会が減っているアーセナルのMF⟪スビメンディ⟫が移籍を検討する意向を固め、レアル・マドリード、バルセロナ、アトレティコ・マドリード、バイエルン、ドルトムント、チェルシー、リバプールの7クラブが関心を示しているとのことです。一方でアーセナルはシーズン途中の1月の放出を望んでおらず、今季の重要な戦力と見なしていると報じられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOF9YdGFJcDV1ODhzY3VudnlQMG90Qzh2THlZR1gtVUF4RS1lNjFJcUxSWlJTRDBsWkQ0YzdoLURNcWxxdFVwRnBGeWlUdUVneE5FWFhfTERBOXR0aHg5SGpEd1pzQzhaWWJEc3pHOXlUeUFNdTI1bWlFd3R5akdENmNBemNSZmlBXzJWYkdIbFhFRTR5RFHSAZsBQVVfeXFMTjh0LVYyN3ZnOW4zelZNdVhMSEV0NjFVSmRPd3VHWHhaOUFfQkRuVV93b0RfNzItbEs2a0pPNGFWNW1tY2RuMXNRUVBiUjNibldERlloVVhxRG9Fc2FmalFVRVVIM3c4T0ZFdDlDYkhfWFBQNW1abU9hMjJFM05sMVFXWThfeVE0N2NwMWlVTDBqbS0ybXlkam5kbGM?oc=5": {
+   "h": "CLスラビア・プラハ対アーセナル、7選手が欠場の見通し",
+   "sum": "アーセナルで唯一の負傷者である⟪ブカヨ・サカ⟫が、バイエルン戦で痛めた大腿四頭筋の負傷により欠場し、11月の代表ウィーク明けまで復帰しない見込みです。一方、4カ月に及ぶ背中の負傷から回復したウィリアム・サリバが今季初めて全体練習に復帰しました。欠場者の多くは負傷者や体調不良者を抱える相手のスラビア側です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjhiR0RWcDBicHZaOFhSVzFidHBib0pZdHh3Ykhya2x1RWR6blJlYUI5cFF6UUZpb2x2aXR1MGJwOFZWUVFYbEtDc19ad2NsMEg1eXk5N3NzQmVlZ3lQQ3kxMGJvSkFNZi1GZ2p0Yk1zUmdtaEpNRVNPZWUtTmMzTExfaTMwamhCNEQw0gGQAUFVX3lxTE5xZ0hfaGdLekpaOFgxTlVoSTZqZ1FkSkdjd3R1Ym1EeEx2a2JXajhOYnEyYllaeXVJMm5HM0Fhazk0UkY2cW43SjYtRWpGS0RNNmh6T2dkQUJRYVhOZVYzanJxZjFsZURnQUhkckRNczVxNGdXS1pBX3dLZlZlOEVxeGxSUi15VVVuZ3A4SzAyUw?oc=5": {
+   "h": "アーセナル監督、フリートウッド戦での退場騒動を受けてマックス・ダウマンにメッセージ",
+   "sum": "アルテタ監督は、フリートウッド戦でつまずいた16歳の⟪ダウマン⟫を「とても前向き」と評価し、「あの章は終わった。皆で学んで前に進む」と語って、スラヴィア・プラハ戦での巻き返しに期待を示しました。ダウマンは乱暴な行為による国内3試合の出場停止中で11月下旬までプレミアリーグに出られませんが、得点すればアンス・ファティを抜いてCL史上最年少得点者になります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3NtTy1PclRpTjFLdG5zT01haHNtSGJNSDBKSi1KR1JJUVEwUnVMTHYzejg2V0ZWWHJTS1VlUEg0Tm1QTXNrU1VjSW9mdktaUjNvSFM3UUhRQVBPdUtFdzlfVjN4enlwN3lOOEpSQW1OTzVuNUlDZ1d5V0JzcVFBUGN5Mm5KV1pvVDE3Nm9BbGRCNWdtYk5UTzFpRkdueEJkSDk4WHNYSjdzZklmWW1HeUFocDhETXg2U29VWm5CNA?oc=5": {
+   "h": "移籍情報ライブ：アーセナルが3選手獲得へ、マンUはベリンガム狙い、チェルシーとリバプールの最新情報",
+   "sum": "シャムロック・ローヴァーズのMF⟪ヴィクター・オジアンヴナ⟫が、18歳になる1月にアーセナルへ移籍するのを前にクラブに別れを告げました。移籍は2025年10月に合意済みで、アイルランドU-17代表の彼はトップチームで37試合に出場しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmp4Y09FOXdvU1JreklyUnZ4U19CeVowc3d4N1BTSldxWlVBZFpSTi1nMFR2b25sa3FYYzNBNG04cC1XYmVIUENuZnFfdU05ejROako4X2tvUFJUTzR2NW52RkpDUzMyalJFQmkyWUs3MFlCb2c1UG5LOHJBMmRZUjlZVXpHVjhIZ0RxMTJ3VlJpNUp6dmxERmZKa0tnNldQcXl2RHJnamJraURjSkxPeFliNGRzY0dLdmtR?oc=5": {
+   "h": "アルテタ監督、フリートウッド戦での退場騒動を経たアーセナルの神童マックス・ダウマンにCL記録更新を期待",
+   "sum": "アルテタ監督は、フリートウッド戦で退場となり国内大会で3試合の出場停止処分を受けた16歳の⟪マックス・ダウマン⟫を全面的に支持しています。ダウマンは1年前、15歳308日でチャンピオンズリーグ史上最年少出場記録を作ったスラヴィア・プラハの本拠地で、再び先発の座を狙っています。",
+   "v": 2
+  },
+  "SNU1KzHIQmw": {
+   "ja": "アーセナルがボールを奪い、メリーノがゴールを決める。"
+  },
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVTF3T2pDbUQtRkM2bm05WEZsZ1RBbUlOYlN1dVNZU0lpZW40UUNkQmFnOExsOXNUb0RpVFZyVk5DWVAtSy13ZHVnTWlzZzFJOGljNllwcjlVZmJOSTZub0tYNlJBQU16RTBsNk1PYXpKR21iN2tFV2ZNZnRxWTRqbTUtaWZQbzlLdFRRNnhzS1BobndfUllzNHhGcUlzVmlsX3B5TWp5UlFPSDFDWUt2TG9ZMnRRYTdXS0ZuRlFSMWtrWVVDVGRpVjhYaG05Y2c5WmU3bVlpUS11aHNYZk44Zm8zNGp3b01TdHc?oc=5": {
+   "h": "リヴァプール、アーセナル戦での不名誉な記録がイラオラ体制の創造性不足を浮き彫りに - Between the Lines",
+   "sum": "リヴァプールはアーセナル戦で、記録が残る2003年以降のプレミアリーグのホーム⟪442試合⟫で初めて枠内シュートがゼロに終わりました。17本のシュートの期待値（xG）は合計1.05にとどまり、イラオラ監督のもとで質の高いチャンスを作れない創造性不足が課題と指摘されています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanQ2NmJDSTh0VVk5ZXQ5NUtYZElaSm9xalhtWjNnb2FWMXZqZFNXV1RyWWhNWkRPVi16dnJ2WmxhbC16d0hNZVBkUDJIY2g1OWE5U1RTZElSVjFzWmlndE9EODQ4X1dPT05xRlQ0TDcyRmFmTHRlbGRYdENSTm5odklncTFDMjRZc1N3YmtNYzYweFEwU0lqTVNnSVhjUUlQUTE2MTkweUJtNG1adGNWb2lVbjREczJG?oc=5": {
+   "h": "ギャレス・テイラーのコラム：ウェストハム戦の悔しさ、アンフィールドでのアーセナル戦、そしてセリ・ホランドの最新状況",
+   "sum": "リバプール女子の⟪ギャレス・テイラー⟫監督がコラムで、ウェストハム戦は序盤の試合運びがうまくいかず、パスの精度不足でボールを失ったことが響いた「とても悔しい一日」だったと振り返っています。相手のケリー・ガゴ、ヴィヴィアン・アセイ、途中出場の選択肢があった植木理子の脅威にも触れています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkhxWFo2QVdPN3IzajcybXlOQkdBWVFCX2ZlSHJROVVCMUhTTGF5LWZwSDFqOWxFcElnSGI3aXh2WGQ4NFFHZDk3VWpqX0NKWHFGN29BSllMVXFDbnhCdXdhXzBmU0I4a291M0lzTXVKYlRCS2VKRUtzWmNfTFFYN3NpVkxFenRha0lKbWZpdmtGRmRFang4YnptWC0yMlhDVjA3aFVwZ1M4a2txLVFla2tGdlVRek9YNkVVd0ZTNDR0YzVnSHlMMjNad3NoOEJGYktwZE5sQzFqbnZHMms2RXltZmFzbXREX2w2OTM0OE1nWVJNbWpFZA?oc=5": {
+   "h": "アーセナル対スラビア・プラハ戦：予想スタメンと確定チーム情報",
+   "sum": "今夜のチャンピオンズリーグのスラビア・プラハ戦に向けて、負傷離脱中の⟪ウィリアム・サリバ⟫が今季初出場を目指してチェコ遠征に帯同しました。国内大会で3試合の出場停止中のマックス・ダウマンも、処分が国内大会のみに適用されるため出場の可能性があり、アルテタ監督はメンバーを入れ替える見込みです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1RYdVVIVXZ6dTRvRFZVSFRQZkNZbkozQThMLWh2QWlXVUNTUkdjTnlsZXVJbjdkZnlUNXRDVENzRWNVcFc1WlZPS0RodlVac1U0Wmh5VDY4MWIxMXVJRk5FUDh4X3VlTFkxNU1ZbFl3VGxabmZmQ1V4Z2diUGZLMk1sc3o3YkNOUEZ5WmlKaHJPbkhINHVZRkhfbzlmek1hNVYyY011ZHpnYUFyMEV3ZTRsZTVuMFF6LXlMLQ?oc=5": {
+   "h": "ギャレス・テイラーのコラム：ウェストハム戦への悔しさ、アンフィールドでのアーセナル戦、セリ・ホランドの最新情報",
+   "sum": "リヴァプールのギャレス・テイラー監督がコラムで、ウェストハム戦は序盤の試合運びやボール保持に課題があり悔しい一日だったと振り返りました。相手のケリー・ガゴとヴィヴィアン・アセイの脅威に加え、後半の選択肢として⟪植木理子⟫も高く評価しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmVBYlZWVHYwa0cya1p1TEtQUi1PUTNVdkluR0U4RnFHU25PNUxVM2lVSHoyOGlUUkdybWNsdS1adGd3bThxaVZhSzBRXzJ2UUZBS2MzRXhESjc4T2V1SkJ2QWgweEE3b1NXYWQzRnBMVUJNdGlUX1Z3RGt6d2hrNEhRSUZMd29jVXdjMFBqQ3Q0Z1RJNmxDV01ZX1NDQW96dUl3ekljcC0?oc=5": {
+   "h": "舞台裏：アルテタ監督、アーセナルのリバプール戦勝利を祝う",
+   "sum": "アーセナル公式がOneFootballで公開した舞台裏動画で、リバプール戦後の⟪アルテタ⟫監督の様子を伝えています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1VmVjFhNlRSZFgyOTZsUzdqZFVuVTRuVjdleFQtRFJYZlJTMVVSWktUS05TV1N3eGNiZ2JGMTNOVndzN1RsNFRJWXh4WjhNWTJDRmVtRGlyLU1EQXctelRVd21kNXdhR2RQVFRteGJEMk1ESF9IU1dXeWFTSjJsU2hYRGZmS0VxQW5rYmsxYnhuaXlIQ3pxbEo3OGVGeHBkeEV2aVBZcw?oc=5": {
+   "h": "舞台裏：リバプールに勝利し喜ぶアルテタ監督／アーセナルFC",
+   "sum": "リバプール戦後の⟪アルテタ⟫監督の様子を収めた、アーセナル公式の舞台裏映像です。",
+   "v": 2
+  },
+  "https://arseblog.com/2026/11/tactics-column-high-alert-at-the-back-stick/": {
+   "h": "戦術コラム：ファーサイドで高まる警戒",
+   "sum": "Arseblogのルイス・アンブローズ氏が、アンフィールドでのリバプール戦を両チームの⟪ファーサイド⟫での守り方を軸に分析した戦術コラムです。前半のウーデゴールの動き方や、後半半ばの約20分間アーセナルが主導権を握った時間帯にも触れています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWUNpQUViM3I0MHU5VlctN0ZFZV9RQXZmZ1RwX0tmNXpxU3NXTi1WcXdvM2VTNk5qTG5CR0RXUHpCS0diRHF1Q2M0bGo4Z2pNTlB6OE9IUmlfU2Zadml0cHBvZ0VsOTlycEhmTWVpcnRwVlg2SGNRN0djQ1JyRkxMd0dhclRCVy1qTXJTNTVtdGZLc2ZOMF9mS0o5TFF0cnJ5ZGlVVVZPWWkwVDBRSG5aSXl1bw?oc=5": {
+   "h": "舞台裏：リバプールに勝利し喜ぶアルテタ監督",
+   "sum": "リバプール戦後の⟪アルテタ⟫監督の様子を伝える舞台裏映像で、OneFootballにアーセナルFCが投稿したものです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEVSY3BlTTJFRmJONmItOEJVcEpRbmVwSXpsdFQxWmszMGlIQmtmOXdZam1VN3pQTy1UV1VvUzZMZ3l0aFBkM1hCVm1SX01MRi1wNm9TbnFHbU00TmV3ejd1ZjhJdzhmeHNZVGQtakdCZkZoYmN1VXVKSkJCNzllT3AwTHh5eDRkUnk3Mmw0VGdLLWJtVmc4WA?oc=5": {
+   "h": "ウィリアム・サリバは今夜出場するのか？負傷から復帰のDF、アーセナル最新チーム情報",
+   "sum": "背中の故障で約3か月半離脱していた⟪ウィリアム・サリバ⟫が全体練習に復帰し、スラビア・プラハ戦の遠征メンバーに入りました。不在の間は、今夏5500万ポンドで加入したエズリ・コンサがガブリエウとコンビを組んでいました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVEJRUTJnMWV1X2pmVUV3X1IzdzMyWERHSWtPMjg5cXRVYjlUZXJtNldDOU4wLTNtdGFzLUlQV3ZBNlpnbHM1OHQ1NzRqb2x3NTVzWm9QRVRGYmVrRUZYdlZjbzJxRnFHNmp6R3NYeW15X0pSRm15N0duejBwclNORlUzUEx1SGtHTXhYT0hrV3pNN0U5aUZJSC1rb2xnWWVlZXV2MXVMS2cwOVJDbzNCVGU1X2NBTUU?oc=5": {
+   "h": "舞台裏：アルテタ監督、リバプール戦でのアーセナルの勝利を祝う",
+   "sum": "⟪アルテタ⟫監督がリバプール戦の後に喜ぶ様子を収めた舞台裏映像が、アーセナル公式からOneFootballで公開されました。",
+   "v": 2
+  },
+  "X86ZNt-8z1M": {
+   "ja": "デクラン・ライスが見せた極上のアシスト。"
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkQxNEpFbi1EWFphdF9ldU1MTmMtU0U4ZE5ESTJnRUlhMDhNNHBlMlAyTVBnbFRudFFBeTZJTVFWV25rR3JOQzhGdF9jZ0dseVR0Vk9YS2lGQ0xLbXpFbUF1LW84ZHBGS0FnNnE0WjMxUEpXbHBlSlYyV3hja2RmMURnNnlKckkwU01HR3daUy15WWpjUmhLaFh3?oc=5": {
+   "h": "チケット情報：アーセナル対ブレントフォード",
+   "sum": "エミレーツ・スタジアムで⟪1月5日（火）午後7時30分⟫に行われるプレミアリーグのブレントフォード戦は、アーセナル会員限定の抽選でチケットが販売されます。カテゴリーBの試合で、抽選価格は£44.80〜£84.00、受付期間は11月13日（金）正午〜11月16日（月）正午です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXAwRUgybW9vaDJEb01lNnVLSDl4M1U1QmJkajFJTHpaMDhHT3ZKUVdXTUpQeWZTdHBCRmhNWVlDOWVhZU0xX1gyUkdRclNXZW9LMnRYaW9GLTZFN1BnTFNSU3R3ODRPOHNkeDk1S1MyMXlLLW15X2dibHB1dFA3NGR1NUsySTRFR2hr0gGQAUFVX3lxTE5RbDJjTG5LdHhZYnRlbzBPQk5YTF9lWC1BNHIyRWFTNXpXNDFJSmZHZmJZaE9Rek9fUUJmRTJ6UmJHZFJRSzJnNFF1emhjMGRlWVhIbGwtZVZZa3VCRTFKTi1CVXpRQ0NpNnA3N3ZaZHc2ZVpEbTBLdDJRQVNRc0dMZzNRbFRXV1BmMVU5NVBCcw?oc=5": {
+   "h": "アルテタ監督、アーセナルのスター選手を新ポジションで練習させる",
+   "sum": "アルテタ監督が、夏にアストン・ヴィラから加入したイングランド代表DF⟪エズリ・コンサ⟫を、必要に応じて右サイドバックでプレーできるよう練習させていると報じられています。負傷から復帰するサリバとの兼ね合いで出場機会が注目される中、コンサを起用し続けるための準備とみられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1RRaEpIdVlJLV9OdFhpR2Y1ZlNuUDFIelAwSnpEWmI3ZU1zWWNpZ0NZczF0dkhjNWwtUmQ2aW1PcGlqSFJpQThuVklJNnFpNWwzMEh5eC02RUYycU44QXVaNFkzOWctSTJjQU96ZW10RU5YN3lMZFlFNFlMeFZuUmNTVTJrbDg?oc=5": {
+   "h": "アルテタ監督、プラハでの一戦を前にダウマン起用という難題",
+   "sum": "16歳の⟪マックス・ダウマン⟫は1年前、同じプラハのフォルトゥナ・アレナで15歳308日でチャンピオンズリーグ史上最年少出場を果たしました。フリートウッド戦での一発退場により3試合の出場停止中ですが、この処分は欧州大会には適用されず、火曜日の練習にはフル参加しており、アルテタ監督はスラビア・プラハ戦での起用を判断する必要があります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0czNzduZDJuSmZLQ3pLNm9pUFE2TGplUlZsRmRBWkJpZEhpU2VWT1VDdEtKci0zNkkzRFRqeTVyVXpOeG5FTUFacVQxdVJocm02LWJSeXhxWlhZOWV1OTBhQlBCRDZ2UVBPNDF1eXhhUUdxLW9sbW15Rzc5WVhRUURRdERvSk9UeGpyYXZPczFHMXc?oc=5": {
+   "h": "アルテタ監督、今季最高の補強を揺るがしかねないアーセナルの大きな悩みに直面",
+   "sum": "アストン・ヴィラから5500万ポンドで加入したコンサが活躍する中、W杯で重傷を負っていたサリバが全体練習に復帰しました。アルテタ監督は右センターバックの座を⟪コンサ⟫とサリバのどちらに任せるか決断を迫られています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEg1eHgzR1p1SFVtZ1RIT0RKM2Q3LS1JUHFjbThqR1hhWUF3Ym9BNmcxUmRzT0hQU0Q4VkFPMUE2MEZDMmp6ZThrOTY4eG1fR3B0UU0xZ0Jvb21fdU9BYVJkdFNoeVg1XzlNekJjZ3FsYk5obnJFaHB0WF9maTJHWkdxMGYzSDDSAYwBQVVfeXFMT0FUdG9wMkxMaVgzYkh0TFI3NTd3aUtjdDBBQ2hBcklkWVJvaENCaUpDZlpQcWJLeVkxdkU1bWlodTBfWThKenU2NmN4OEwtMUwxMV8zOGJvRFhoT3Q3cG5KX1ZKMU4tMXBCZlpzZnlxWE4xTTVudGdmdkRqSGMyUnRRZGE5NmVDWmk3TGs?oc=5": {
+   "h": "アーセナル、アルテタ監督を悩ませ続けるおなじみの問題を受けて「NASAに協力を要請」",
+   "sum": "アーセナルは主力の負傷が続く問題の原因を探るため、宇宙生理学の専門知識を持つ⟪NASA⟫に協力を求め、筋肉系の負傷や前十字靭帯損傷の予防とリハビリへの理解を深めようとしています。サカが太ももの負傷で2カ月以上の離脱となり、サリバも夏に負った背中の負傷で今季ずっと欠場しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSmV1QTVCU3E1M0hoU29yczNPMkg3czFkUUVfS2I0Ri1QMk1kMVJSa29kcS14Y2JOdWFGYzVtM1hQdG9kWGlEenpkTTBLUGxXLVQ1NU1vYXBUd3FfZU5HM1QyN1dvX3VOaDlfYlhESUFNbUFnLVJmb1EyOGRTMlZZRjBzdFFfTFhCRmFDTg?oc=5": {
+   "h": "アーセナルの新加入選手、ガナーズデビュー前に負傷で数カ月離脱へ",
+   "sum": "夏に約400万ポンドでのアーセナル加入に合意した17歳の攻撃的MF⟪アンドリア・バルティシュビリ⟫が、足首の靭帯（前距腓靭帯）損傷により2〜3カ月離脱する見込みです。現在レンタル先のイベリア1999で出場しているカンファレンスリーグでは、リーグフェーズの残り試合を欠場する可能性があります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLU1wMDY1bjI2OXdKRTZwRllCZk55T1JTTHNnMVRjWmdkR2RNNlRVTXQ5SXlUQ2hzZ2dWUENJaEViMjdzMmJ1SjY5RHIzNm5OSURJbU5JM0p3Nm41V0VCbm1zOU1hanNJMzgwNDh4Y3dqTW8wRnNuYVJEWXZYN0VtNEhhWXVjcWpLekNQSTFvX2Ftazg?oc=5": {
+   "h": "アーセナルの夏の新加入選手アンドリア・バルティシュヴィリ、デビュー前に足首の靭帯損傷で最大3カ月の離脱へ",
+   "sum": "アーセナルが夏に400万ポンドで獲得に合意した17歳の攻撃的MF⟪アンドリア・バルティシュヴィリ⟫が、ジョージアのイベリア1999へのレンタル中に足首の靭帯を損傷し、2〜3カ月離脱する見込みです。アーセナルでのデビュー前の負傷で、カンファレンスリーグのリーグフェーズの残りを欠場する可能性があります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEVtNWE4dXNRQlRvXzlfMXQ3a3h0eHlYV1JJWHctdjJTdmlnMkhVNFlYckQ5MlpMZzR5d0ppR05YX0U0WjhobUczLW5DcFprbmpnMDcyZG1SMEdNblpuZDZZYTBrR0FPMFlqUlptR0l0ejJ4NHludTIyeVpWS3VkaU10V2VHRU5NWWpN?oc=5": {
+   "h": "U19ハイライト｜スラヴィア・プラハ対アーセナル",
+   "sum": "アーセナル公式サイト（Arsenal.com）が、U19チームの⟪スラヴィア・プラハ⟫戦のハイライト映像を公開しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTRZVzVQRC1vdWZONVBvem11X1B4N3piZG5MbThsTzFRUVlCQnJScFg3U3hUMDZKd2NoeU0xR1JDOTdKSDJxdE5henJxYWRpZ2N3U0xUMEd0Q2szT3NTYkN0Wm9OYWtNdFpLRG5vRTlUS1JVTS10UGppMWZNVHBOZ1dmNUYxSWxRekdfN1lQdmhHRXZQ?oc=5": {
+   "h": "アーセナルの夏の新加入選手アンドリア・バルティシュヴィリ、デビュー前に足首じん帯損傷で最大3か月の離脱へ",
+   "sum": "この夏に400万ポンドでアーセナル加入に合意した17歳の攻撃的MF⟪アンドリア・バルティシュヴィリ⟫が、ジョージアのイベリア1999への期限付き移籍中に足首じん帯を損傷し、2〜3か月離脱する見込みです。アーセナルでのデビュー前の負傷で、カンファレンスリーグのリーグフェーズ残り試合を欠場する可能性があります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0EwS1pnQWlGaUE3NDg0OE41Y0NaUzZwcV8yNHpGbWNzOHFfVTlmZEZHeUdWejlSbk9CZFFKUnNsMmd1UkkwWmhZeEUxaUJzU1RyY1U5dWsxaU1rRDZLaEJCMG1FV2ZvX3QtM3FUZ3NkWThfWVZOTXpoQVFkcGZ3LXNSVTZvZnZweHE0?oc=5": {
+   "h": "U19ハイライト：スラヴィア・プラハ対アーセナル",
+   "sum": "アーセナルU19が⟪UEFAユースリーグ⟫2026/27シーズンでスラヴィア・プラハと対戦した試合のハイライト動画が公開されました。会場はスラヴィア・プラハの本拠地ラドティン・スタジアムです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQzNUV214SndDekZ0OXJnN0xkNDFsd01DcUVIRk9MM2k1dGpzYVBGRER3TERpUHNFQzlDeldkdVpCVWxROFY1NlhOOEFPZ2FjM25IemlQcE9MZTBGMG5CWlJKcl94T2JDZ1RzYlpmLWdhdmhSbWhBa1Uxd1lvbmJybVF3dzdwRjZ5RzZ3SDh4Uzh0ekNOZnFMQl9DekhqLTJQNklXM19ZQ0VkX0JLVng3QUxVZUpUeTVScllQZnl2VXZ5UDhYeVhtMFVGMko2bjlwXzhBaExad1U3SXNTMXJTLWRHNmxPZw?oc=5": {
+   "h": "アーセナルの今夏の新加入選手アンドリア・バルティシュヴィリ、デビュー前に足首じん帯損傷で最大3カ月の離脱へ",
+   "sum": "アーセナルが今夏に⟪400万ポンド⟫で獲得に合意した17歳の攻撃的MFアンドリア・バルティシュヴィリが、ジョージアのイベリア1999への期限付き移籍中に足首の前距腓じん帯を損傷し、2〜3カ月離脱する見込みです。アーセナルでのデビュー前の負傷で、カンファレンスリーグのリーグフェーズの残り試合を欠場する可能性があります。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3RHNG1tRXBIVlJJbnAzN3VQYkZPYjFfb3JyS09zLS1IQnowTkRQWHJ3RGhDdlVEdDV6czBnMG95RndNRTlRSy1vV2tDWFlwVHRmSk9Td1ZyN0NVX2dwV0ZEMHZKM2dGY2JHS0ZXQzBBLXpXdEJYX1hPbGNSR012QnZsU0hkRV9mM3FwblVnQTBKR01JaHpQVl9KS1lKWEF1cXFBaHJYTDRCRGU3?oc=5": {
+   "h": "スラビア・プラハ対アーセナル：チャンピオンズリーグ速報とスコア",
+   "sum": "アーセナルはアルテタ監督のもとで3度目となるスラビア・プラハ遠征に臨み、勝ち点3を得れば⟪勝ち点10⟫となってCLリーグフェーズ上位8位以内に近づきます。リバプール戦の激闘直後のため、アルテタ監督がメンバーを入れ替える好機とみられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNU1SM01OdV9CUzlnVHRZY0FRcGc4RXJlRUp0aGZtd0RzVTNERXFUdW9GUi1qcGJfRWJudG5ZQ0FoekxNUTlqd19vVnBhaWlyN2dBdU9XcnNZQzZObmZJemw0dHY4Zmx5R05TY0laeWdqQTB0QWlhSXZHRktnYmgyS2RNMUVXNXF2VnI3ajlnSVZpeGZCQ3N6M2ljZFdCcXNjOUHSAacBQVVfeXFMTmxrUFMwSjNyV2xwbzFNNEl0emc0Z3pxZVNpMTltUWM5cjMxc09UeXlYUUNXR09PY2lMamlrVW0zTUdkeDBnSy1KMEJkNDVGNkRMWnVIamxkNlpMN1JlcGRsdS1Nb3dDV2IwZm96azZsZG9pbG1OWEx0UWRpcHUyWmc2Qy1mR2NuTTc4X3J1WVdKVlBfUUI4SDBmRm8wUE5ZeVBKbjItMTA?oc=5": {
+   "h": "サリバとダウマンの起用が決定、アーセナルはスラヴィア・プラハ戦で先発6人を変更",
+   "sum": "アルテタ監督はスラヴィア・プラハ戦でホワイト、インカピエ、メリーノ、スビメンディ、エゼ、⟪ギェケレシュ⟫の6人を先発に入れ、日曜日のアンフィールドでの試合から先発を変更しました。ダウマンは先発から外れたため、セスク・ファブレガスが持つクラブのチャンピオンズリーグ最年少先発記録の更新はなくなりましたが、途中出場して得点すれば、ムココが持つ大会最年少得点記録を塗り替える可能性が残っています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdm1TcG1NMGNzWlNiOGx4U3pTRWFtWHRIV2R0dDVYRDYtVDkyLVZZdGNYQ0RpVXhtWFdYSmxUWEdrNG9MbFdYaUdEY09OM2d3bVdkOG1ZTElueTdzcUNSd0Q0MXFOZjV0RmdKREwtMGJvcG9OREYzemJsei05dEpTcWJFUHJ6XzVBY0VJenY2YmN1VzhUUmMzczZ0U1pleVhFUFlPWTgyZHNKZURkNW02eG9RTG9Kd2E2Mk9FYnlnbElNNFFWS0FhWGI5UGJXb205TkdvMVcyRjZ1Y0JuSHpvVGpHVURwME1uMnhZSnQ1UGFTdmVXYVZv?oc=5": {
+   "h": "スラヴィア・プラハ戦のアーセナル先発メンバーと確定チーム情報",
+   "sum": "アルテタ監督はチャンピオンズリーグのスラヴィア・プラハ戦で、国内大会で3試合の出場停止中の⟪ダウマン⟫と、今季初出場を目指すサリバを試合のメンバーに戻しました。ダウマンの出場停止はカラバオ・カップのフリートウッド戦での退場によるもので、国内大会にしか適用されないため、この試合には出場できます。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVzRRT3BkcV9CVzFES3JIWEFzNjVJalozYm5UcEZRbTdZR3lXVGNsSXdiaUo2bGZQNUFRRWdrS2V2OEFGNEtJZ1MxQ0Y5Nk1sNC11LTBmWjRuTXFXYVlNRF9VTEktYUNoOVJNZTZfNEQ5czQzVjcxVWVjaGh0Rk91UVlCTzhWbWM3b09TTlRsdE16dGMyd0J0RHpWTlVsZlV4VU1RLU9jWWRieWVHSWdsLS1wLUZJNzM5SGVwX1NiNWhlRjBRakhtcVRlSHVxYmFJdTFmY0VsM08wUC1VSVZZ?oc=5": {
+   "h": "スラビア・プラハ対アーセナル速報！チャンピオンズリーグのスタメン、試合経過、ニュース、スコア、分析",
+   "sum": "スカイスポーツのアラン・スミス氏は、⟪サリバ⟫の復帰を大きな後押しと評価しました。一方で、新加入のコンサが活躍しているため、サリバの定位置奪還は簡単ではないものの、試合数が多いのでコンサにも出番はあるとの見方を示しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkMwWm9oeG1sWmhQXzBnNXJHTDZWVG1pOU9IUTRqdWZpRWpXekFxbkhZdXRZMmhPZjNzZGxLa3NBUGlRcV9kNlF4cXRvU0ZNSDB3OG9jWXVKa1RFYTQ3SXFjMDVlVmI5SWk3TW5tOFZXWXNWNUtIbnF0YURIdFlpSlVQS2c4QQ?oc=5": {
+   "h": "U19レポート：スラヴィア・プラハ 1-0 アーセナル",
+   "sum": "アーセナルU19はUEFAユースリーグでスラヴィア・プラハとチェコの首都で対戦し、互いに決定機の少ない拮抗した展開となりました。10月にトップチームで初先発を果たした⟪キアダック・オニール⟫が序盤から積極的な突破を見せ、FWアンドレ・ハリマン＝アヌースも何度かゴールに迫りました。",
+   "v": 2
+  },
+  "https://arseblog.com/2026/11/slavia-prague-v-arsenal-live-blog-3/": {
+   "h": "スラヴィア・プラハ対アーセナル ライブブログ",
+   "sum": "⟪2026年11月4日⟫に行われるチャンピオンズリーグのアウェー戦、スラヴィア・プラハ対アーセナル（キックオフ20時）のライブブログです。リアルタイムの文字実況や速報、ゴール映像などを配信します。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb294ekZNaXplNGVPY3NyNWN1SGVIdFpBVlFGUWNyb0FFVDgzT0FNX2dWbVNsOUZISXdxQ3V6SDdpZ1FueEV3WWplaUt2SzBuYlhUb3Vkdkdaeko4V182QzNQTTQtTXpYel84R2x0UTYwQmJnWFFCeVk3VkN6WmpmUHV3QXdQRDRZd2ZXRDZ3cDZZdUdOUkJGcHNXU3lmN1lNbTI4Mzd5dFhSN1NBNG84SkljaGt1b0kyYWVRM1djb0x2Q3Z0ZXN3bzlZcE16NnR1cUNJ?oc=5": {
+   "h": "チャンピオンズリーグ：スラビア・プラハ対アーセナル、RBライプツィヒ対マンチェスター・シティほか【ライブ】",
+   "sum": "チャンピオンズリーグの今夜の試合を伝えるライブ記事で、アーセナルはアウェーで⟪スラビア・プラハ⟫と、マンチェスター・シティはアウェーでRBライプツィヒと対戦します。両チームとも快勝が期待されています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aSGptcWkxX0J4RVJnRW92U3gzVERGVFVzTm54TlpRVmF4YnFGZi1PTW5tUm9MY3hlOEpiRkhXU0JVbkF2anV5OG55VWlhRFNIdU1KNUJ4ak5wcVI5NG5KRnJKQ2gzYUk?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル（2026年11月4日）ライブスコア",
+   "sum": "スラヴィア・プラハとアーセナルの試合は⟪2026年11月4日⟫に行われ、ESPNがライブスコアを配信しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOXlJalVwNXFBS0VRQVFGX3dWbVRVRGJqRzBhXzFmSUNlSUlZVUg4bS1uS1lmZ3VnZFhwVkFfV1NzMEZrVlpRT0NGQnVld2FpRHFITzFxUjE3RjlrVUo0YnlIVWY1NnY3NGxLM0hiQ2I4b0tuZHh3emtnbGRMd0l2SW5CRmJhV0trR3lidHZXbDVONTltdi1KMkZrWGxudGY1WUk2R1F1bW1jQ0hpVDhWWnNMX3RnbTU1ekdDclNic3ZuUHZvOGtDVFBkVFh3cGNKNG5VZjNSMVluQkJmVVE?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル：チャンピオンズリーグ 試合前情報【ライブ】",
+   "sum": "これまで決定力の安定感を課題とされてきた⟪マドゥエケ⟫が冷静なフィニッシュを見せたと伝えています。最近の試合ではサカの不在の中で、ウインガーの同選手が存在感を高めていると評価されています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1kwVnU5cGVOaWpiSnlRT09xRWRQZ3VaWU1ibnpPUU9YM2szSXg0aUl5U0lza1VvdDd6bnE3c1dGSHlVcnVGMVFXTXM1a3VnQzd5eFZfSFBuQjBKR0tXZ05jVXpkeE5hb2xPTTd6RHdNbkZ3YnViczNrenhRTWhHblA5eUZJRkRXVm5QY2xGcDRrR09ESnZzV29kWjJjd2VjSmJhMm5UVWh5TFlFS0RxcUN4NjJ5V1BOaG5KVF94ci1EQQ?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル速報：チャンピオンズリーグのメンバー発表、エデン・アレーナでギョケレシュが先発、サリバはベンチ入り",
+   "sum": "UEFAチャンピオンズリーグのスラヴィア・プラハ戦で、アーセナルは⟪ヴィクトル・ギョケレシュ⟫を先発起用し、ウィリアン・サリバはベンチ入りとなりました。試合会場はスラヴィア・プラハの本拠地エデン・アレーナです。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2d4eWd4aTdiSzNWXzJPUkVsLURtYjQ3NDBWLXpKdy1iU3BnbkRxNFljTVNNX3FWUUFBUnYwODlJd3pBLTJQb2FvTDItT0lMQ3VUVHZjV2dPZkp2Z3N3Mjc5aXRrVzVoXzl3Rm9uNHMxTWw0c2ZONndpX0F1QmEyQlBKMHYxYUNTSktveGRETTlZenFuX2hwMTZETkFJX28?oc=5": {
+   "h": "アーセナルとスラヴィア・プラハはなぜ喪章を着けているのか？",
+   "sum": "アーセナルとスラヴィア・プラハの両チームが⟪喪章⟫を着けている理由を扱う記事です。本文は端末認証の画面しか取得できず、理由は分かりません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2MyUHlhZC10UEVaWlBhSWs4UTNfaUZMSmtwLVZlX3o1M0NnbmozMnA3U3A2ZklTNjdvTmRvZDR0akh1QzNaTEhnM0JDX0c3UzBVWnJPdTBxTllIdjNQYzlnXzEyNnhsVjNYcEdpOFgxZDNsOElxMVN4dm5jZTRaY0ZrODdyNzlwc19sVklhemt5TlBCSThfVmdrSdIBoAFBVV95cUxOcHNLdHM3Qk5kTEw0aEtJclV2TTRMS1MwMDh0Tk5PeVhfd0hmdnctTlJlTVc3U3dpb3VwbkppX0xxV0RmcVlBb0VudEw4QXFHTTdzNUpqZHpSX3pRd3Z6cnRYRHJoclJfX1htYmZzM2xpXzNKVjBKTkt4VE1oUFRTeGxEdU1kZ3Z5cEVzbXlGeXJRYWRHOHVtZ01EOXEyVDdu?oc=5": {
+   "h": "アーセナル、有望な若手右サイドバックの獲得に向けて動きを強める",
+   "sum": "報道によると、アーセナルはレンジャーズに所属する15歳の右サイドバック⟪カイ・アーバン⟫の獲得に関心を示しています。アーバンはU-15スコットランド代表の経験があり、アーセナルは下部組織ヘイル・エンドへの加入を想定しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0VSaFN0LUFpOTB2dWhFb3lldGp1OHlpLVUxVHBtcEx2V1VDdTFiNkQ2Z09YWHBKZGZLbWxhSXlycXZEcFQxalpZdE1EUGZiQjF6enpNMThrOVF4MWRXeV9lbDc2M2xCSjdvNDd6ZjJWb1JmYUQ2R3d2bExiX0NDZjdlODAwMmxreTY5Wjgxa2thMXJIYm1Fckw3cFlfWkowRzViMkZ1ck1jNE9wVHRveUVB?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル、先発メンバーとチーム情報が確定",
+   "sum": "チャンピオンズリーグのスラヴィア・プラハ戦で、⟪ウィリアム・サリバ⟫がベンチ入りしました。サリバはワールドカップ準決勝のスペイン戦でフランス代表としてプレーした際に背中を負傷し、今季はここまで全試合を欠場していましたが、予定より早く復帰しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalgzaTFRbW5peEp1VE01WkVjVHhIWkxiTkJMb2hxbkVpd0JsdmVwZi1QTlhkcy1nMXNiY05HT1NLWm1IVGdZNXlYSlpzMDdoUTJNWnNnYU5QeGpHV09QbTZabG1EbDVhdDV0bGVHX0Z0amRlaUZzaVpDdEJtS1ZiVktsemtKMW1xeFkxN2owaDJoUlhoTmhXc3V6WGpwV0JFb0hvaDNqRXFocUVUZXQyT3F2Q0wxc056aENqYlhoZHVXaURlN1VIT0ZVUHZsMlpPeTBIeA?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル、今日ライブ中継：テレビ放送とライブ配信はどこで？",
+   "sum": "2026年11月4日のチャンピオンズリーグ、スラヴィア・プラハ対アーセナル戦の中継先を紹介する記事です。イギリスでは⟪HBO Max⟫とTNT Sports 1、アメリカではParamount+、アイルランドではTNT Sport 1などで視聴できます。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmRkYkk1RVVGQUpWdGkxMXpTWGN4ZjNUcWJPMHRQSFVQN0tfbEZ5VGV1cVV4YzJPQ0hjaUNOMGRDbzJyT2tQdFpfeTBDV2VwSE5iRG5CdDNxeThSUmNjRXNYNE9USWxqUGZ6ZnVreDRhbmQ4WmFrSUV6M3BYRmhMQi1MZVdhRVpPd2xIZW1pSkdOa3BBcFdTc1NBU3ExdEF2OGxYUGdLalRXT2M?oc=5": {
+   "h": "アーセナルのスター選手の代理人、リバプールへの衝撃移籍を模索",
+   "sum": "アーセナルの⟪スビメンディ⟫の代理人がリバプールへの移籍を求め、同クラブに接触したと報じられています。リバプールは2024年にレアル・ソシエダから同選手の獲得を試みましたが、本人が土壇場で撤回し、2025年にアーセナルへ加入していました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1lCMzhEMUVkUE5MVGFVaTRyaV9rS0ZCUUFYODRlbGF3TW5KTHVCc2tjNzVEd2c2TUFwSWppN01ld1FLSEJEem5xaHcySW5WYU1uY0VDaEZLYi1XeWZHXzdzRWVJMl95TWp1WHhkaGtKWldDTnBLZzNjaUZ1SjRGNUdBYzhrbk56azZfak5UczNrQ1lNbms4MDFadmt5MGhmUDJr0gGoAUFVX3lxTFAxNy12a3hRR0s5OUwyWkJsMkhnY3dIZkN1OWtCa0hlRkFwM2RWSWZFbV9tVFhhQzRuMG90VGFwMFpWTl9EMUhTdThObnJZNHM2MjZWZ29McUh0SmVZeDVhN0lWeVBZajctLVBiQnpYUGs1UmlYT1hIRzdwSFQ2cGdYMUIxcEVETG1COV9ZLUNnOE9JWEo0VzlhbkVXYjJBNTFoSVJHSWZ3VQ?oc=5": {
+   "h": "スラヴィア・プラハ戦のアーセナル選手採点：ギェケレシュが輝き、3人が8点の高評価",
+   "sum": "football.londonの採点で⟪ヴィクトル・ギェケレシュ⟫が主役級の活躍を見せ、3選手が8点を獲得しました。先発を6人入れ替えたこの試合で、GKダビド・ラヤは後半の好セーブで8点、ベン・ホワイトは7点と評価されました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzJpVWdXdGhhTHFieE1aYk4tUmxUUVctRVZtQmJXaGZxd3E4VjRDRHQ4a1piUE1tTDc4RTdIOWMtUUI0a0tIWUQ5Tnh2NDRGNGllLUtzWXdkYmlGOURrNmxNOENEbV9NN19Tc0UtQ0VuemxwVTJoNzY0Q0lMYXFEVlI4MHNNekZUOEtFa0VuVUNSOHcyOEc2UF9PNmkxR0hra3RFVVU4ZjdfdDN1amQ4X1M3S2Y?oc=5": {
+   "h": "マドゥエケとギョケレシュが得点、アーセナルがスラヴィア・プラハを下す",
+   "sum": "水曜夜のチャンピオンズリーグで、⟪マドゥエケ⟫が開始10分以内にギョケレシュのフリックから今季3点目を決め、ギョケレシュも前半終了間際に見事なシュートでゴールを挙げました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHd6Q082d3ZzNTV2SGxKOTVJWTN0ZWMzOVlCQ1BrLUpFd2NlSmNBQ3BhRWM3LUtrLVpPSDhRa2J1YVkwbmxaYXBwcllGYlpRYVY0eFFyLWxjd0hNd3k1R1Y4Y1JPS29sazJuamM3Y2ZycG1Eb19rNVhHVzJGUDU3T29xZ1lWOFpZOWJ2RmpHS2J6VWFCUkMyMzdmWUhYNkF2WGUtQk9uTEpBa29Od0Ryd0tPZ2NuYzhXaTg0VHRidw?oc=5": {
+   "h": "アーセナル選手採点（対スラヴィア・プラハ戦）：CLでの冷や汗の勝利で存在感を示す9点の活躍",
+   "sum": "イブニング・スタンダード紙のマット・ヴェッリ記者がスラヴィア・プラハ戦のアーセナル選手を採点し、珍しく先発した⟪スビメンディ⟫も好印象を残したと伝えています。見出しの「9点」の選手の名前は、本文の冒頭ではまだ明かされていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWWhmWGZKTEViXzZDYkI1bFZEOHdGellqLThzMzkxSDEwRWhDMnlwdGJjeWN5SnNqa0hPN1BiSTItVFRWN3RzS2JITHRscmVxUEo3NEVKQlhfZC11NEk5Q05mNTFxSjREUHR3SmEzMTNZVy1aejhyOEZPZXZUQkFSbkh0UHRWT0JCNVVoZmlXRUxxV05XY1NZ?oc=5": {
+   "h": "アーセナル選手採点 対スラヴィア・プラハ戦：攻撃陣のローテーションが奏功",
+   "sum": "アーセナルはチャンピオンズリーグでのアウェーのスラヴィア・プラハ戦で、開始9分に⟪マドゥエケ⟫がギェケレシュのスルーパスから先制点を挙げ、前半終了間際にはギェケレシュ自身も得点しました。前半は素晴らしい出来でしたが、後半は精彩を欠きました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkFzbG8weXdvTU9Rei1GaHJwZG1KbTdFMXJRLUU3VUltTjJtemNKcVl3el9IVHNMQi1mbTg5WmtLanBURXdHYlR0LUg0YUc1YlkyMndpbk44a091SG1MTEZWZTNMQkdLU2REdmVDUEtOV3JSemdZbFVtU2RodW1oRHpVTEdTQ0lYY0otR9IBkgFBVV95cUxQak1GQ1VjVzNSLWNybmI5bHZiODJVMHNxclpOZDh0QlFlbDJqN1NxSHcycjJrVVZnelA5NWxIelZlcGtkQUZmcTlrX1JrSnJab2w4bm5tTjB6VkgwczMxcHZfdENDNjdRNnRoVWRRRWFFbHotNDdHZjNvWWNaQmwteXE5S2V6aUNZZVFOdXZyaFRvdw?oc=5": {
+   "h": "アーセナルのスラヴィア・プラハ戦後、デクラン・ライスをめぐる気がかりな見方が浮上",
+   "sum": "TNTスポーツの解説者カレン・カーニーさんが、リヴァプール戦の数日後に行われたスラヴィア・プラハ戦にフル出場した⟪デクラン・ライス⟫（27歳）について「疲れ切っているように見えた」と述べ、コンディションへの懸念を示しました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEFjWHNIci1raExvVjRybUpROFBLWE45MUhOQVI3TEJHMzVWcWNseVZ5b2R3dEdtYzg1Nm1XTjdERnBnMEw3clEtS0JySXo2b1RFbkNBWmdhUWg4ekh0SlRETGE2bzdHQnYwRU9ISkk0ZFRELTFEMWVuNktxckp1czBxbTctMmR6OGQ4T29VQTQ1ZFk?oc=5": {
+   "h": "ヴィクトル・ギェケレシュ、最高の万能ぶりを示しアーセナルに再考を迫れるか",
+   "sum": "ハヴァーツとの先発CF争いが続くなか、⟪ギェケレシュ⟫はプラハでのスラヴィア・プラハ戦で、アーセナル加入後で最も総合的に優れたプレーを見せました。特に前半45分は、アーセナルでの最高の出来だったと評価されています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjlvYjVHQ3BWTnRQWlVCbGlRdkFyZklydFZXY3BFaE1qSDA1US1FdjR1eVBWVzFmU2FkeENZOTVROFRVSWROblBJdmFROEk4YjNVZUh2dXZhQS1JajMwLWhBV2lJcTgydlMxeDV1T1VWZnB1NHJDa1k4Yi16LUE1Ym9mSGwycEdJejZjUHpRXy0wM2s?oc=5": {
+   "h": "アルテタ監督、スラヴィア・プラハ戦でのアーセナルの後半に懸念",
+   "sum": "⟪ミケル・アルテタ⟫監督は、チャンピオンズリーグのスラヴィア・プラハ戦でのアーセナルの後半のパフォーマンスに「非常に懸念している」と認めました。前半は好調だったものの、後半はボール扱いが雑になり、気の緩みが見られたと伝えられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzRvNXIzZG9MdTRnb3NwSDVRLTdQbXdJLVRtX2p4c196cG5sWk8ydFBkRVdHMmRkbnIzWXBQRnJzWlFYSThvXzBzX2dsdUVpNXB6ckJOMURhRmpQb3dRVmE5Z09QM1dxYTBVcm9yNFo5Um9JZHl3QXRWQjVyXzhkVnlGRmNfSHhhNlY1cmREaTZIRXBjQUZVQUJIVTJoeXFwVmJsaTFpcmwzME9SeF9ROElEY3U?oc=5": {
+   "h": "退屈なアーセナル：得点不足はいずれガナーズの足かせになるのか？",
+   "sum": "DAZNの記事で、アーセナルの⟪得点不足⟫がいずれチームに悪影響を及ぼすのではないかと問いかけています。本文は見出しの繰り返しのみで、具体的なデータや詳細は分かりません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2ZZSk5FOHZwNkppOW5nQlI3RGlVWlk3U3pXQVUzaDFTUFdRelh2M2xQMTFMU2I3aDVRSlNfeW1aTWpkMGJaV3BNLUg5ZndGWEdXcGVqLVZNZUZ3TDZUeEt5Rjk5eGFFWFI5MkUyRVo2T1hzVGt0OVdfam45UVNCSmNRMWZfNkdfeFFNcFAwd0NnR1c5a3VfQlR1YnJPYUhoZENZbmF0bnNVb1diS3IzS2FQMGNlUQ?oc=5": {
+   "h": "スラヴィア・プラハ対アーセナル速報：チャンピオンズリーグでギェケレシュとマドゥエケがゴール",
+   "sum": "チャンピオンズリーグのスラヴィア・プラハ戦を伝えるライブ記事で、見出しによると⟪ギェケレシュ⟫とマドゥエケが得点しています。本文は認証画面のみで取得できず、詳細は分かりません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGdGTXFzTXRJSS0xUThlZTA3Qk8tMkNzcTR4N3hnNDgxV2NLQWlLNnVEMWtRM3ZFUElzTlVndzJ1YXBJSVRBRjN6VE1kcmc4Q3dEUWFYcGpyd1VrclpaVVRqTjI1VGUzc1M3cXZ4b1hxand6SzM1YWhmMThpZ2xhclo5b19NVXF5QnpXc3l2UHB4b3FGWkdVa0ZLa2VJdkE?oc=5": {
+   "h": "アーセナルに新たな負傷の不安、アルテタ監督が交代を強いられる",
+   "sum": "アルテタ監督は、スラビア・プラハ戦で⟪エズリ・コンサ⟫が「いくつかの問題」を抱えていたため交代したと明かしました。コンサは前半に膝を気にする様子を見せ、60分ごろに退きました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjJjSW1LaWwzVG5RZzFOYkdGN0lETHV3VHB1MHNqQWx6MXIySV96cmp4RVRnME5UTV82Nk5jc05XT09ZVlBJTjZoNGNJSmowcUlibXA1a3hxaDlFalhDdmV2Mkp5N0lmMlJtcnJLZ0N0T0d0UHU3T2RoS1dncmdkSFZrM0Rkd2xFZTFWM2VQWk5wdUlRdm44X1plbG1yQlNDZ00zbw?oc=5": {
+   "h": "チャンピオンズリーグでアーセナルとマンチェスター・シティはいかに勝ったか、リバプールはフェネルバフチェに敗れ、コモは9得点",
+   "sum": "ニューヨーク・タイムズが、アーセナル、マンチェスター・シティ、リバプール、コモが戦った⟪チャンピオンズリーグ⟫の試合を振り返る記事です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR29SWWtYMUxqYTNuYWpOY3k5WWVVNTd4LU9CWXRIYUExcUhtN3ppT0lvbjg2aFNnYkFxY0NpeUoyOUpmbG5veHliUTE0YlE2eFAzUzlzVktCYmh1TkszQVFRSmxYcm1pelBERzFVOEFGbWFEVF9MaUhsR3l0WnIyOFU3OWZhbXJnWWJjNkpHWEVzeXN3TlRLSFV6X01UM1RzeWY2WU9wZWo0aFlrVElYUWE1a0k?oc=5": {
+   "h": "退屈なアーセナル：ゴール不足はいずれガナーズの足かせになるのか？",
+   "sum": "DAZNが、アーセナルの⟪得点力不足⟫が今後チームに響くのかどうかを問いかける記事です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNE84UXdKa2pYeG4tcDY1aWdoM0ktT19aOVVPM2tkb2hndGYwZ1V2VmRYZmx4Y2tuelVFZUdzc3ExNjROTlJLalBnVy1GSGQyMnFmOTExZ0NrNmVURDF4M3A2djFuNk5rbFk5aDJZNUc4VmxRSXdRbU03NEhreGNUQkFfWXlxMGpaWWhWXzJ4VDZ1blNHNG9BcTFMcHJzeUtXNm1ISmc3Yk4tTF82?oc=5": {
+   "h": "アーセナル選手採点 vs スラビア・プラハ：攻撃陣のローテーションが奏功",
+   "sum": "Forza Footballによる⟪スラビア・プラハ⟫戦のアーセナル選手採点で、攻撃陣のローテーションが功を奏したと評価しています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2ZIVTRWdHpYS0djazlMQnhTaDZobl9fZU9OWlNmc0h5WmZ2aFhEaThIV01aRXNKZVRodDdhRC11YmsxXzd5QjBpOVljUEpJbU5aSEg0WkxsejM2VG1vTjA3dGpuZzV2N1B6QlprY2JKdFdicHFzTzA2SXI1a01XcE9pajlUQTJqQ1M1OU1B0gGTAUFVX3lxTE1IdU1CZ29oYWVuemE3eWk3NTZkdW5jbldXZUYyQm5tQU1GU3RDWVl2bDhVaHlhY3VlcWMtR2JROW41LXZDbTJIa1Mya0c3R1dNUWJEMkoxTXF2eHJYa1NJRUMtUTdIbWpPN1pIdUJidm0tMTJwM2F1YzBUOFNwR2xpN2pubUJ3bXd0RzFMbE1CRk9IYw?oc=5": {
+   "h": "アルテタ監督の発言全文：アーセナルの基準低下、エズリ・コンサの最新情報、ヴィクトル・ギェケレシュについて",
+   "sum": "⟪アルテタ⟫監督はプラハでのスラヴィア・プラハとのチャンピオンズリーグの試合後、前半は高いレベルだった一方、後半は「あらゆる基本で自分たちの基準から極めて遠かった」とチームの雑なプレーを嘆きました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYWoxNWtvdzhWQmU5TlFJM3hkaC0xOGRzaXR6UnVjV09EWDgzd3ZjaVVFNzktalhGMjlfVk1pRmlzX0dhQS01dFZEVi1SS3lnQmp5dzZqMUtyMmI5Q2lXN05maG5jRGNFc0ZrLTVseE00ZWFQdmJNUTdoRHhxVjVFX1pTUUVFS09iWFlJMEhvVzFkeEU2bGNNVTBKYUhhUmQ4NUtuYjMxcGpBbjMxQnpWeW40YUVBNmVhNWJPaUpDWW1QRm85bGNQakFZLXBSa1hXbGpEXzB0VEU2OVE1aDlXczNRelZ0RWxMSkQxQkR4bDB1dw?oc=5": {
+   "h": "アーセナル、スラビア・プラハの反撃をしのぎCL無敗を継続",
+   "sum": "CLのスラビア・プラハ戦で、アーセナルは前半に⟪マドゥエケ⟫とギェケレシュがゴールを決めましたが、後半は3バックに変えた相手の反撃を受けて苦しい展開になりました。アルテタ監督は直前のリバプール戦から先発を6人入れ替えていました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWllIYXJmX3RLRV82RXNJa2VqYUcxNFh3Wl9kcTdPdkVBVkkzRkc3bUFxNHJWdTdyczhHdjdfV1pHUU9ldXotV2xQYU1KcXpFRXh4UXF2MUVCTWxaMFRQNm9ocGJqMTFNRkk2NDdoLTdGWHd6cUtzRkp1LUNXMHd3ZlBMakh5aVhVNFF5aUE0UnNmcG9HUnJ2VVNR?oc=5": {
+   "h": "スラヴィア・プラハのトルピショフスキー監督、CL敗戦後にアーセナルを評価",
+   "sum": "スラヴィア・プラハのインドジフ・⟪トルピショフスキー⟫監督は、チャンピオンズリーグでのアーセナル戦について、相手から「サッカーの授業」を受けたと語りました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDNOUjY3Mld2Ml8tQmVET1NfbmdXajc0SHg3dXp4VHhmODlCTkdzTkYzMEg0NFE3VWFFTTRSZ2pOR3REYTYzMW4xUWd1bWx0Y1ZiZnBLN1l6a0hKcU1mVGpYQnlrdGFuZzNnVEVuNlJDTzVEN3dfZUhVdGhKLXFVRzU4cHV2Y0xjSFpZRDljSGxuWHF3N3NpY1F2RGNBYkN5b1FQS05zS0tmZ2pUb0tNWkpmb3ctSjA?oc=5": {
+   "h": "退屈なアーセナル：得点力不足はガナーズの足を引っ張るのか？",
+   "sum": "アーセナルの⟪得点力不足⟫が今後チームに影響するのかを問う、DAZNの記事です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWEwaWJNcU00OHotaGZoTUdSQ3VDXzdfMkY4d1N5VHFNWi1DTDlPOUNFa29qS1UyaUEwOURyQ21aZkthUkxDUUZXS0hNajNuMUpkRlpNeU1oQVRZYU9Sdzk4OHlLMWxWZ0pHckNfNG5jVExKUTZONmxIeTJmeFZPWHBwbE5CaXNEMXEwdWdtM2dHc3RRRWN3VnFxRVBVQQ?oc=5": {
+   "h": "アーセナル対ハル・シティ 試合予想とヒント（2026年11月7日）",
+   "sum": "⟪2026年11月7日⟫に行われるアーセナル対ハル・シティ戦の予想とヒントをまとめた、Transfermarktの記事です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEZKUU5SRzlUY3lZYzBORnFad1Utek8yOUg1aUwwTU5RcXpPT3Vmd1VMdXhDaGdFYnYxdUN1WlJxYmVSSUxrUVpEZ2YwamhONWM4Rm5adDNzN1pCWkw3T0hTY3NxR3NvekJPS0d3Tk0yRzBla1ppV2JOY2kzX0xKaTJCZEFVNFd5MDZPNVVPTWt2d21xSnc?oc=5": {
+   "h": "スラヴィア・プラハ戦勝利を受け、アーセナルはいつCL決勝トーナメント進出を決められるのか",
+   "sum": "スラヴィア・プラハ戦を終えたアーセナルは、⟪CL決勝トーナメント進出⟫に大きく前進しました。リーグフェーズの残り試合ではドルトムント、レアル・マドリード、ベティス、サバと対戦します。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOGRuZVJSbm5kYkFYN1JXRDVlbzBZRktKQklEMlZrTERZYWctRU5jMmJjRzVWTnFMMk9QYTgzRXlYUzlEMVFrOGQ0Z1Q0TTc1d1RtMW9zM0l3U25xVmJ0Y0kyTk16QlR1eFU1R0VzOXJFRzAzRC1HYnNUUjFJVGViV3FxOGdaZ1dVQ2VYeTljU3VVMnEtU3RicE5KaFdUVXhjV2tpanNyWmVERzM2a1haSkphSjJaUzdWU3dQYkw2eF9ZMlByMzVJZ01sLW9FbjJEYUY0VWtCQ1JncGM?oc=5": {
+   "h": "全ゴール：アーセナル対スラヴィア・プラハ｜UEFAチャンピオンズリーグ",
+   "sum": "2026-27シーズンのUEFAチャンピオンズリーグ第4節、敵地でのスラヴィア・プラハ戦で、マドゥエケが前半9分に、⟪ギェケレシュ⟫が38分にゴールを決めました。ギェケレシュはマドゥエケの得点をアシストしましたが、試合終盤には90分に失点し、苦しい展開になりました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWpIUDlhUmg2VmgtakJ3TmRrRFhKSkhpN2tCYU5sMmZWenVjUHBna0lSQ3Y2NVJsTGJidFJqS2ZaaDB4a3g2ckF3emZTaS1HRDNHeEtaMFlUVUFZNDBhMWJKMU5wY2pQR2t3ZnV2N09RUkhtTElWcnQwU1N0cTlvdmNVRGlQQ3RNNzNMWjh0REFTek8zOEpTbzZIRFVZMTB5cjVJMm1acTdPT2ZxdmlkQXhXUlRmZnYwdVBxRkMzcWNoMG5INGMydi1KUUtHOUh0TC1aWW82TTFQTFRCTk83cGFMenJMcDlOX0E?oc=5": {
+   "h": "スラビア・プラハ対アーセナル：マドゥエケとギェケレシュが得点、ガナーズは後半にヒヤリ",
+   "sum": "チャンピオンズリーグのスラビア・プラハ戦で、アーセナルは前半に⟪ノニ・マドゥエケ⟫とヴィクトル・ギェケレシュが得点しました。後半はスラビアの反撃に苦しみ、ガブリエウのゴールライン上でのクリアやダビド・ラヤの好セーブに助けられました。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTB1NnM3N1dyTjFXRUVkRm9LRDZiTFJQaVNwUnZBMWpnM1ZwaXAtcnl0SWE0bExPWm1VZzNDdXZqaTc1eUdaR3FoaTJWdDFPUGRoUmRGeXJHMy1hVGJMV1U3aDdnTUdrSDhRUVNQMmg5bGNTMUxUYWxHMFhyY1NWdmEwd3U?oc=5": {
+   "h": "ハイライト：スラヴィア・プラハ対アーセナル",
+   "sum": "チャンピオンズリーグのスラヴィア・プラハ戦のハイライト映像が公開されました。前半には⟪ギェケレシュ⟫のパスからマドゥエケがゴールを決め、ギェケレシュ自身も得点しました。延長版とフルマッチ映像は今週後半に公開予定です。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUVDaW03cEhnQ0dWN2cxSWxsTDZsdE9NLWRKZHNVaXRKYWpUb0JIRTF2Uzd4VEMyQVExUkhTRWdNaEZ6UlN3S1EyV0p0Z01PUFJERU1fblBOU2V5T2RxS1h5RmtTdWRwSE5KOFNsbXcxMVpkS3BubG9JRUtlQkpOeE45RTFnQV8xSFZub2hUTTRmZ25j0gGaAUFVX3lxTE1kN1ctUS1IMjVXUm52TG8zYjBQREp1akxobHo2Y2VIc2tucmZVWnlRWWxWM01PRzJ1UTFfSkxmMXZsdTE0WnYzNTBRVVJNUjllWG56OFp2RzhpYUZVUzJRc1hza2U1QXg1OVl2RGYwTmZOUEZhTW1ESkVqbDRGaE9IMnBEMC1fWURGOW0taDVacHBNd2J0MEZYZnc?oc=5": {
+   "h": "アーセナル最新ニュース：3500万ポンドのスターと移籍交渉が開始、主力には新たな役割の可能性",
+   "sum": "見出しの「3500万ポンドのスター」はエクアドル人DFの⟪インカピエ⟫（24歳）で、スペイン紙SPORTによると、1月の移籍に向けてバルセロナと交渉を始めたとのことです。完全移籍での加入からわずか半年ですが、負傷もあってアーセナルのDF陣の序列で順位を下げていると報じられています。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjRE5VUHFFR3hzb1JwQ1ZsMnowSGRyVlFINGVycDZUdHJxaEJWa3YzRTNhbm5Zc3ozX29Nc1puWlNNYUxqVmw3YllFdUN2Rm1QVDg4dXhzSTE4OFVGRGlKQ3NSNWxIdw?oc=5": {
+   "h": "スラビア・プラハ対アーセナル：UEFAチャンピオンズリーグのデータと対戦成績",
+   "sum": "見出しはスラビア・プラハ対アーセナルのCLのデータと対戦成績ですが、本文の冒頭はマンチェスター・シティの⟪ハーランド⟫がTNTスポーツに語った内容で、チームの勝利に貢献できたことが一番大事だとし、リード時に追加点を狙う姿勢やボール保持の改善が必要だと話しています。本文冒頭には、スラビア・プラハ対アーセナルの具体的なデータや対戦成績は含まれていません。",
+   "v": 2
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWs5NEpBSlhFQ042NGxOMlVXY255Q0Q5SFg0RXBiQWVQaU5EYWFiRU5RX2JTTlVOeDZsaFpiUVJRTXBBWkNsNExGRUJSY0JBMVBvZHVVR3pOZ25ZT1IyaF84d3dtUHFTTGh4R0pCakxtUGhQR2p5RE5uWEFkbnVmLXBSRkxZX1N4MHBmckRodDdtQdIBlwFBVV95cUxPNWJpT1NHd1BZOFg5end4VG13TVprZ3BLNWU2SEdXaHFrQlo2QU9LZVAtSWhyanA4bVc4WDNTNmc0SFhJVDk4TXFMNnl3YWNkWERxQnlMc2ZpVkRlVlJZckNWUlVrUFlmX3RIdWVzcmxQM21XMm5GOUZtMGttSUFETGxxT3NJR0xmekQ5S1NUVzJObGkzU29N?oc=5": {
+   "h": "アーセナル最新情報：ピエロ・インカピエが「移籍交渉開始」、ミケル・アルテタは陣容再編へ",
+   "sum": "スペインの『SPORT』の報道によると、エクアドル代表DF⟪ピエロ・インカピエ⟫（24歳）が、完全移籍で加入してからわずか半年でバルセロナと1月の移籍について話し合いを始めたとのことです。夏から関心を示していたバルセロナは、今季スタートで苦しむインカピエの獲得に再び動いていると伝えられています。",
+   "v": 2
   }
  },
  "shorts": {
@@ -1472,7 +2449,10 @@
   "IlC3SoAIvPw": true,
   "ussduQ61D_Y": true,
   "fXuSXetr_ns": true,
-  "B6yFePSeTaA": true
+  "B6yFePSeTaA": true,
+  "WyewCTSKVCk": true,
+  "SNU1KzHIQmw": true,
+  "X86ZNt-8z1M": true
  },
  "videos": {
   "37_gn4_1oIU": {
@@ -3048,7 +4028,7 @@
    "fs": "2026-11-01T23:14:16Z"
   }
  },
- "runs": 487,
+ "runs": 1105,
  "notes": [
   {
    "t": "2026-11-01T22:31:25Z",
@@ -3063,325 +4043,317 @@
  },
  "last_news": [
   {
-   "h": "新加入選手、アーセナルへの「画期的」な移籍を前に別れのメッセージ",
-   "s": "London Evening Standard",
-   "t": "2026-11-03T01:15:50Z",
+   "h": "アーセナル最新情報：ピエロ・インカピエが「移籍交渉開始」、ミケル・アルテタは陣容再編へ",
+   "s": "Football London",
+   "t": "2026-11-05T05:03:45Z",
    "c": "tr",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFZSWjlUZDZQbmw3dUtmZjBhblBsWm5IWHZpMGdLczc0aFlTalFBUU1uRHFtWGJsWlY2czlZeVJGWXpXNlJUNmxEeDdrQm01cjhka3R3RVRXVEk2YzdTbXdwZjZPVEQwaURBYVI4RW5HUV9oczl5eE42RXctbWtvQTZHbXZqLUQ1NjQ0TEFTaERoSHRZUi1MbVotd19pS1k?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWs5NEpBSlhFQ042NGxOMlVXY255Q0Q5SFg0RXBiQWVQaU5EYWFiRU5RX2JTTlVOeDZsaFpiUVJRTXBBWkNsNExGRUJSY0JBMVBvZHVVR3pOZ25ZT1IyaF84d3dtUHFTTGh4R0pCakxtUGhQR2p5RE5uWEFkbnVmLXBSRkxZX1N4MHBmckRodDdtQdIBlwFBVV95cUxPNWJpT1NHd1BZOFg5end4VG13TVprZ3BLNWU2SEdXaHFrQlo2QU9LZVAtSWhyanA4bVc4WDNTNmc0SFhJVDk4TXFMNnl3YWNkWERxQnlMc2ZpVkRlVlJZckNWUlVrUFlmX3RIdWVzcmxQM21XMm5GOUZtMGttSUFETGxxT3NJR0xmekQ5S1NUVzJObGkzU29N?oc=5",
    "ov": 1,
    "lang": "英語",
-   "sum": "アーセナルへの「画期的」とされる移籍を控えた新加入選手が、別れのメッセージを送りました。ロンドン・イブニング・スタンダード紙が報じています。"
+   "sum": "スペインの『SPORT』の報道によると、エクアドル代表DF⟪ピエロ・インカピエ⟫（24歳）が、完全移籍で加入してからわずか半年でバルセロナと1月の移籍について話し合いを始めたとのことです。夏から関心を示していたバルセロナは、今季スタートで苦しむインカピエの獲得に再び動いていると伝えられています。"
   },
   {
-   "h": "「ユルゲンに近いと思う」イラオラ監督の言葉が重なるリバプールの変化。王者アーセナルを押し込んだ迫力と、枠内シュート０本の隔たりとは？【現地発】",
-   "s": "千葉テレビ放送株式会社",
-   "t": "2026-11-02T23:58:20Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TTV9hdFB0OHd2TW5TNEE2SGVZblNJa001MGZabllCNUJEc3pYMWxEcUVEY1VqNEpzMWNQYkl5bzFHU0Z6RW55aWt4bmdIMlZIdDBnbXlqcUZKbmptOFA0?oc=5",
-   "m": "liverpool-1101",
-   "more": 2
-  },
-  {
-   "h": "これは新しいアーセナルではない。同じアーセナルが、より良くなったのだ",
-   "s": "The New York Times",
-   "t": "2026-11-02T23:55:00Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2RKSVh1OHhEZ29adVFWSWlfSVZiRXFDQXVjS1NVVnVvSWlON2ZUVGhZaHVFckpORXhVMnd6LWZsSHhfd2ZiXzc3WXFlUkRDZmtDNW5yRnBrRV8wcGtrSWFnN3hiWENGaE1iaFV3ZmVfVmNzbXZhbDNqZDFtVEVGVmF3ekY2TDF0X2FN?oc=5",
-   "ov": 1,
-   "lang": "英語",
-   "sum": "ニューヨーク・タイムズの記事で、現在のアーセナルは新しいチームに生まれ変わったのではなく、従来と同じチームがより良くなったものだと論じています。"
-  },
-  {
-   "h": "アーセナル、「大型補強2人を希望」　ミケル・アルテタ監督の最優先ターゲットが明らかに",
-   "s": "London Evening Standard",
-   "t": "2026-11-02T23:40:29Z",
+   "h": "今季“10戦11発”の若き点取り屋はビッグクラブによる争奪戦必至？チェルシー、アーセナル、トッテナム、ドルトムントらが21歳モンツァFW獲得へ（theWORLD（ザ・ワールドWeb））",
+   "s": "Yahoo!ニュース",
+   "t": "2026-11-05T05:00:20Z",
    "c": "tr",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS01mamFUYi1sSzdHdXp1bDNNY3ozeVVGdGZ1Vk1wcnJaNWkwUlRWWE05Y0wwaTZJazBRMFZlZkIza1VING5Ic0V6djBKc1ZJcGJ5Yl8tN3JNWDZTWGdKLUhRSF94Mlo0YzI3Q2hfNk5sYWk4RXFNa25XdVJnamNLTlk0c25WSnVTT281YWtXSnM2a005WWhPMVF3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YV0xRRlU1b2NNanRPSzNKX3EtUTBQZ0J2eVlUMktUd21aUDNMRS1UQmI2SDFIS0cya1hIRGJjRTg0dHp6NUYzWFhIR25hUGtWVm8zVHZIblp3cS1CLVZXYnM3VE1VREJRTzRMTm03X3ZXMEdYNEFRM1A5bnZnT2s?oc=5"
+  },
+  {
+   "h": "スラヴィア・プラハのトルピショフスキー監督、CL敗戦後にアーセナルを評価",
+   "s": "London Evening Standard",
+   "t": "2026-11-05T04:42:58Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWllIYXJmX3RLRV82RXNJa2VqYUcxNFh3Wl9kcTdPdkVBVkkzRkc3bUFxNHJWdTdyczhHdjdfV1pHUU9ldXotV2xQYU1KcXpFRXh4UXF2MUVCTWxaMFRQNm9ocGJqMTFNRkk2NDdoLTdGWHd6cUtzRkp1LUNXMHd3ZlBMakh5aVhVNFF5aUE0UnNmcG9HUnJ2VVNR?oc=5",
    "ov": 1,
    "lang": "英語",
-   "sum": "ロンドン・イブニング・スタンダード紙によると、アーセナルは大型補強を2人望んでおり、アルテタ監督の最優先ターゲットが明らかになったと報じられています。"
+   "m": "slavia-1104",
+   "sum": "スラヴィア・プラハのインドジフ・⟪トルピショフスキー⟫監督は、チャンピオンズリーグでのアーセナル戦について、相手から「サッカーの授業」を受けたと語りました。"
   },
   {
-   "h": "米紙が早くも2027年バロンドールの候補7名を予想 アーセナル、レアル、バイエルンからそれぞれ2人が選出。バルセロナはゼロ",
-   "s": "ライブドアニュース",
-   "t": "2026-11-02T22:20:32Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50N1NxX1YwNjZLa3VjWDVnLXc2V3JtQ0NLb2cyZVdDa0lERUh0ZEt2bE52djRWdXJfcmhoRlpUVWNGYTFISlFDcktpcUR0OHVMeGdWNFdfODk0a25oeXdR?oc=5",
-   "more": 2
-  },
-  {
-   "h": "スティーブン・ジェラード、「大一番」のリヴァプール対アーセナル戦を受けてプレミアリーグ優勝争いについて見解を示す",
-   "s": "The Mirror",
-   "t": "2026-11-02T22:19:00Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDlGMWE4UDZ1VFJGZEFpY1RjQVlpUk5FT20tRWN5WGUzTEdBbGZIVFNGcUZnWEJCOVQ2eFNGMnNJSzVBQ3BZbzZPZEhqdEVqZXRESzVFLU93NWh0aElkSERXR0F1UkFZNjVnZWhpb0xEaWt4N09kejQyUHhjeXVlZUgxMXRIYzlJamZ1bkZuTFkzbG9pY2Jj0gGcAUFVX3lxTE1QaURGOG5adWJiM092NVMxUHFncndlTFRQZHNuZ3haUlFfZXlsNWVNOE1UTDc4VVFrUjZ6cnBMSWZDazhmUF9VemRMYTc4ZmhuRDZSWUhNb2RlekhrUmRydlpjXzJrR2s4bnZ0b1dLSFR3cGJNeWNHTFdkNF9hZEIwMndSRmYxSk96N2lsaE80OGl4RUlmYlB3aU1HeQ?oc=5",
+   "h": "スラビア・プラハ対アーセナル：マドゥエケとギェケレシュが得点、ガナーズは後半にヒヤリ",
+   "s": "Sky Sports",
+   "t": "2026-11-05T04:42:07Z",
+   "c": "tr",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWpIUDlhUmg2VmgtakJ3TmRrRFhKSkhpN2tCYU5sMmZWenVjUHBna0lSQ3Y2NVJsTGJidFJqS2ZaaDB4a3g2ckF3emZTaS1HRDNHeEtaMFlUVUFZNDBhMWJKMU5wY2pQR2t3ZnV2N09RUkhtTElWcnQwU1N0cTlvdmNVRGlQQ3RNNzNMWjh0REFTek8zOEpTbzZIRFVZMTB5cjVJMm1acTdPT2ZxdmlkQXhXUlRmZnYwdVBxRkMzcWNoMG5INGMydi1KUUtHOUh0TC1aWW82TTFQTFRCTk83cGFMenJMcDlOX0E?oc=5",
    "ov": 1,
    "lang": "英語",
-   "m": "liverpool-1101",
-   "sum": "スティーブン・ジェラード氏が、「大一番」と評されたリヴァプール対アーセナル戦を受けて、プレミアリーグの優勝争いについて見解を示しました。具体的な内容は冒頭からは分かりません。"
+   "m": "slavia-1104",
+   "sum": "チャンピオンズリーグのスラビア・プラハ戦で、アーセナルは前半に⟪ノニ・マドゥエケ⟫とヴィクトル・ギェケレシュが得点しました。後半はスラビアの反撃に苦しみ、ガブリエウのゴールライン上でのクリアやダビド・ラヤの好セーブに助けられました。"
   },
   {
-   "h": "「粘り強く戦わなければならなかった」：アンフィールドでのアーセナルの勝利は王者にふさわしい戦いぶりだったとライスが語る",
-   "s": "The Guardian",
-   "t": "2026-11-02T22:11:00Z",
+   "h": "ヴィクトル・ギェケレシュ、最高の万能ぶりを示しアーセナルに再考を迫れるか",
+   "s": "London Evening Standard",
+   "t": "2026-11-05T04:09:23Z",
    "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFQ2dlZWOVBvLThWWnZvNzFHNWh6OXlMa2gtSEhwZWZnUWJWckxzQUhocVlaZy1xMFJad19ESEZ5Wml0MExTVHZ6ZlJtTkpwekJBZWFZV25RZFlqUzZ2SWtHZVZ0MFp1WEw5NjdMWUk5Y0x5QVBaQU8td0wydDM0ZERBdkg3dEZKNzJNTWNLMlRwUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEFjWHNIci1raExvVjRybUpROFBLWE45MUhOQVI3TEJHMzVWcWNseVZ5b2R3dEdtYzg1Nm1XTjdERnBnMEw3clEtS0JySXo2b1RFbkNBWmdhUWg4ekh0SlRETGE2bzdHQnYwRU9ISkk0ZFRELTFEMWVuNktxckp1czBxbTctMmR6OGQ4T29VQTQ1ZFk?oc=5",
    "ov": 1,
    "lang": "英語",
-   "m": "liverpool-1101",
-   "sum": "アーセナルのライスは、アンフィールドでの勝利について「粘り強く戦わなければならなかった」と振り返り、王者にふさわしい戦いぶりだったと語りました。"
+   "sum": "ハヴァーツとの先発CF争いが続くなか、⟪ギェケレシュ⟫はプラハでのスラヴィア・プラハ戦で、アーセナル加入後で最も総合的に優れたプレーを見せました。特に前半45分は、アーセナルでの最高の出来だったと評価されています。"
   },
   {
-   "h": "【The Athletic】プレミアリーグ週報：マンUは残留争いに巻き込まれたのか？優勝争いはアーセナルとシティの一騎打ちか",
+   "h": "アーセナルに新たな負傷の不安、アルテタ監督が交代を強いられる",
+   "s": "London Evening Standard",
+   "t": "2026-11-05T04:04:57Z",
+   "c": "inj",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGdGTXFzTXRJSS0xUThlZTA3Qk8tMkNzcTR4N3hnNDgxV2NLQWlLNnVEMWtRM3ZFUElzTlVndzJ1YXBJSVRBRjN6VE1kcmc4Q3dEUWFYcGpyd1VrclpaVVRqTjI1VGUzc1M3cXZ4b1hxand6SzM1YWhmMThpZ2xhclo5b19NVXF5QnpXc3l2UHB4b3FGWkdVa0ZLa2VJdkE?oc=5",
+   "ov": 1,
+   "lang": "英語",
+   "sum": "アルテタ監督は、スラビア・プラハ戦で⟪エズリ・コンサ⟫が「いくつかの問題」を抱えていたため交代したと明かしました。コンサは前半に膝を気にする様子を見せ、60分ごろに退きました。"
+  },
+  {
+   "h": "アルテタ監督、スラヴィア・プラハ戦でのアーセナルの後半に懸念",
+   "s": "London Evening Standard",
+   "t": "2026-11-05T03:53:23Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjlvYjVHQ3BWTnRQWlVCbGlRdkFyZklydFZXY3BFaE1qSDA1US1FdjR1eVBWVzFmU2FkeENZOTVROFRVSWROblBJdmFROEk4YjNVZUh2dXZhQS1JajMwLWhBV2lJcTgydlMxeDV1T1VWZnB1NHJDa1k4Yi16LUE1Ym9mSGwycEdJejZjUHpRXy0wM2s?oc=5",
+   "ov": 1,
+   "lang": "英語",
+   "m": "slavia-1104",
+   "sum": "⟪ミケル・アルテタ⟫監督は、チャンピオンズリーグのスラヴィア・プラハ戦でのアーセナルの後半のパフォーマンスに「非常に懸念している」と認めました。前半は好調だったものの、後半はボール扱いが雑になり、気の緩みが見られたと伝えられています。"
+  },
+  {
+   "h": "スラヴィア・プラハ戦勝利を受け、アーセナルはいつCL決勝トーナメント進出を決められるのか",
+   "s": "London Evening Standard",
+   "t": "2026-11-05T03:38:07Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEZKUU5SRzlUY3lZYzBORnFad1Utek8yOUg1aUwwTU5RcXpPT3Vmd1VMdXhDaGdFYnYxdUN1WlJxYmVSSUxrUVpEZ2YwamhONWM4Rm5adDNzN1pCWkw3T0hTY3NxR3NvekJPS0d3Tk0yRzBla1ppV2JOY2kzX0xKaTJCZEFVNFd5MDZPNVVPTWt2d21xSnc?oc=5",
+   "ov": 1,
+   "lang": "英語",
+   "m": "slavia-1104",
+   "sum": "スラヴィア・プラハ戦を終えたアーセナルは、⟪CL決勝トーナメント進出⟫に大きく前進しました。リーグフェーズの残り試合ではドルトムント、レアル・マドリード、ベティス、サバと対戦します。"
+  },
+  {
+   "h": "アーセナル選手採点（対スラヴィア・プラハ戦）：CLでの冷や汗の勝利で存在感を示す9点の活躍",
+   "s": "London Evening Standard",
+   "t": "2026-11-05T03:23:13Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHd6Q082d3ZzNTV2SGxKOTVJWTN0ZWMzOVlCQ1BrLUpFd2NlSmNBQ3BhRWM3LUtrLVpPSDhRa2J1YVkwbmxaYXBwcllGYlpRYVY0eFFyLWxjd0hNd3k1R1Y4Y1JPS29sazJuamM3Y2ZycG1Eb19rNVhHVzJGUDU3T29xZ1lWOFpZOWJ2RmpHS2J6VWFCUkMyMzdmWUhYNkF2WGUtQk9uTEpBa29Od0Ryd0tPZ2NuYzhXaTg0VHRidw?oc=5",
+   "ov": 1,
+   "lang": "英語",
+   "m": "slavia-1104",
+   "sum": "イブニング・スタンダード紙のマット・ヴェッリ記者がスラヴィア・プラハ戦のアーセナル選手を採点し、珍しく先発した⟪スビメンディ⟫も好印象を残したと伝えています。見出しの「9点」の選手の名前は、本文の冒頭ではまだ明かされていません。"
+  },
+  {
+   "h": "【画像】ハバーツの得点を守り抜いたアーセナルが14年ぶりにアンフィールドで勝利！｜PL第９節 リバプール ０－１ アーセナル",
+   "s": "サッカーダイジェストWeb",
+   "t": "2026-11-05T01:05:21Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5Mkl3YkVBblBLa2F2WmxrNzB1amJ5ekZ3VEZFWk96YTlzM2llRHZ3WkF1eFFKazFncXh2S0ZYb2I4TGt2RU5GcllnUm8tbW53S1E0TWxmM3QtZlYxMTFTSU8xNDdMTGd1bUp1QV9Vc3YwaVZndElj?oc=5",
+   "m": "slavia-1104"
+  },
+  {
+   "h": "CL無敗継続も内容面で課題…アーセナル指揮官が後半の失速を反省「コントロールできなかった」",
+   "s": "サッカーキング",
+   "t": "2026-11-05T00:55:16Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBialBYOVBqeVRSYXp6Sy1PZFNoeDFnNTdLWEs5Nk1xSWM1Z090RC1URFRKcFZRUnl6TFVRREFvbUxfWXY2eGdld1FaQ2dTemtVZlNKT1hLRnBMdDlaZXFGd1RrWDZ3dzVMUU1JNXg5UQ?oc=5",
+   "m": "slavia-1104"
+  },
+  {
+   "h": "初出場コモが歴史的大勝! レアルは開幕4連勝で2位、アーセナルは3位に浮上:CL第4節2日目",
+   "s": "ゲキサカ",
+   "t": "2026-11-05T00:52:00Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IYS1lUzRxdHA5X0p1cm1XZHZ4MVRCS1JCVEt2bmxfLWNKTFhWZWNHNkZOQ0RHOVVCeUtjZ21JRG9aZWJlZkllN24xZU5zb25JTWZkRkpmLWtTdkRydmkxeEw2UkItaXdQ?oc=5"
+  },
+  {
+   "h": "イラオラ監督、グラフェンベルフの負傷について語る「アーセナル戦のウォーミングアップ時から違和感があった」",
    "s": "FanPiece",
-   "t": "2026-11-02T22:10:25Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMijAVBVV95cUxNdzlwcHNNNnA3R19xa2VkcElxT1FRaWZwZmN0cXdhUU56aU5KQy1hXzNZSzlPNFpOMHlXeGkzbnVZQjZUeDVRTTluM1BXdHRtendMWmlqMmtqNk0wNFhDTEhsTmpHd0N0NVBjOUdFYWZGZG5oRXZQbzdMXzM1dzY5bmRSa1lnR0M0aHYzclBLSnNIb1ViekhZdVZGcnR1ZmZFeHdreXM3bjJzcG5qYkUtZU55U1pHUENrT1VDeWdsdTdoemQ2QVR3RDBtNi16bWJfUDA1U3NwZFN3WEx5cngzbzZjLVRlTmg4ZWJybk1qZ0UxZ3pBYmY5bHlwMTQySVo5S1J6TWs1Z2wwMFJlY1FvT1lFWWxUM09veDBGN0dOa0ZwcUNwZU1jTmRVbkVRSjAtQV9mZ012eWs3M2hPLXVfNkI2Nmg2Wmt1OGoyaGV5c1RBT3VTWDFfWnlhQm03dF9PMWE3ZDAtZmlIR2hRZUpXYkFYUHJRSzh6eml4c19Qa0RPTzBEZnYwS01FOFAyQzBLV3Zlc2hud1VvN2M2M1dIMHkyRXZ0QktKakYzNmNTQ0ROQjJkSTl3Z01Oa2lyUDZrZkFqOEUyYlpzemMyaEpMNHFzQkhGT2t5MWlrTEdIZ2lGUy04NXFaS256clYwR2t1OElzUXhfcXNJS1pnWlZEb2NxNzQxTHlMdEtiUUh3bFlrRzRyeldfTk15azdaNGR6X0t1TVdQNHJhT3JRZTg1czJuN0hXazJGMjBSZTRWUnZnUlhIZi10STg3cGhON01POWItenItSU5MY3BHWjRXVmY3Tm1MOVBMNFl1YnVlcjNFNG5HeDFxSUplVXY4bU5HX3R3Ymo4a1ZOWlVQ?oc=5"
+   "t": "2026-11-05T00:49:22Z",
+   "c": "inj",
+   "link": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPc2J1bzN2T1E3UTczUnlDbFVLOXRTUU5EVTMxZnRlYzRPei04MW9wdGR5VmJRX01pekRsdVdmOTZIN3VxOHJNUlgyZUwtWEpHZGtMamdKa1BPd1hyVG05SkEzZG5CRUFySm8wYUdNQ3o0YTlUWlpjcEp2LUFxcUhCaWZmV2NlYzkzTXFaY0pOc1R5Yjl5ZjZmZE8yYTEtcHN0TzIxN3prWE9WY2lDMTNzNEl2cG5VRXRGWmoxZHBJVmJuMFBOQnJJWWZuQk1PRi12SkFxM0FwQ2xWOTdYOHN1Mm1weXdwUTI3MDF0cDM4NWVRZ1ZBYlBVWlhrV1E0ZjNHNl9KZUxyX3Y4eV9tSm40SEhtR1pUVFlUNEdmOGV2UjVUaE9VaUZsUnlTMGxlVE4tRDhIbm9pYmZoa1hId2pqbWR5N2pyWjRoUFo1bFhoRTJmSk15MFEyRHVMWllmazluODJTdFBqRENBNjk5V19RYkNpOHotR05BaGZiZVRHdXlSRnhyMWdqdlQ5RzRHeWZLdzhPdEpSMzRZUWhSa2FKYzhlbWJYNGpEOGpPYzFfVzdMU1o4bTlQbm91eXQ0OVNneDNvSFEzdVZIWVpneElmcnNkNXJkN3ZLNGh3MU1kRDZ1Z0JBWWVEa3VVbmhZY0JBWUtiSmo1N2Q5bERnaGdhQ1NlaWJ3ZVVxR2ZuTlJTVjFPUUZiSTFaNkVsUVd3TUx2b2thT0pjQTFvZmZFei1nbGViZFNPUGkyUW1zd2lHclF6VGtRNHJjcEhHME1UYm9ZYlJQMWdLcmp6M0FnMElCQ0R5TUFIdG9yWldCaWFHT3U0MVRaMHgxenZYcDhjYkRlYktMckhQMHZadW1HSGNZZ0UyVDBNRUhlWEhreF9NcXN6dzVZWWVQWGxR?oc=5"
   },
   {
-   "h": "アーセナルがアトレティコのスター選手に関心、バルセロナはクンデへのオファーを受け入れる構え ― 欧州移籍ニュース",
-   "s": "TNT Sports",
-   "t": "2026-11-02T20:12:00Z",
+   "h": "【アーセナル v エヴァートン｜ショートハイライト】プレミアリーグ2026/27 第8節",
+   "s": "スポーツナビ",
+   "t": "2026-11-04T23:00:00Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zXy1JRlR4TU5TU3dkX1I1RGhRMW1lWVZvOU9PVUF3ZExvZWMxcVpQR3BtUG5mRks0ZDV0LW43NTEtVVY0WDYzaWVseF9zb0ZRb25Va1VybmEwLWdY?oc=5"
+  },
+  {
+   "h": "アーセナル、スラヴィア・プラハ戦の選手採点：苦闘の末の勝利でノニ・マドゥエケとヴィクトル・ギョケレシュが決定力を発揮",
+   "s": "Goal.com",
+   "t": "2026-11-04T22:25:59Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMi3wZBVV95cUxNQTJJaWQ0N042dnVlWWJobFlZZ2JCc0k3MFVzZjRibkhNRFM4R2dscDZiMTJFUVgwR1NVeV8zWHVsZ3RnWXlZelowOThjSm9TVUtxOUQ2cEx0Z2p2VVdjLXdfcVA4QVdiNVExN1JRN0JqZXFpQXVQZS11M211MmlqZGk4ZklYU1pzX2R4alJ0Uk9xYTVRek1oblJuajNfVWRpOGFad05kcnpZSmNDZXQzaTJnUXhSb0wyajEzYTRkT2NkMXp6YjN2UFMyQlBUWXlfdFdYZDQxQjRfSk9MY3pRVFhqMVo0bEJrSDVpRzNWQXRlVVl0R2lmUFAtdVJxeGxBX2J5a3Z2Q0kwZWhSNG1nVU9qVElQb2VjNUhVMDJnM2s3OUdYcXFxWWNhZnFvM2tKQ3RPd2RMUUJfUmhMcFIzbU85Y2VqeFQ5UnNYZzN1Rm5wZXAwd2VZZllTZ0kwSlNWOHFfdXItcTBTak1hRndvbXJPbUg5MTN4UXBoX0ZwT1plVFY5R2ZQQ1lJTnpNeUxoOFRrY2hOaVZoMlZzLXRvYUlSNFdxenNBV0VKcERubEc5bmJnZ1d2VGVCTXNkVENZNTh2cEMwX0lKUkFIX1Y4am5raWZ5Y3Fad3Z0Z0JZQ0VvaURjTkJHZ2dhUjNpYWFSRmJYUGswcWk2YWdHcVFvM1RidHN4LWlzUkVjTlZLM21QcEdUYkp5SkVfc1p0RXlnUXA0eld2djU1Q3AydWJkTWg5MDdGRDVmOEgwbDRJSUpXZlBEbXljalVYNS1DSVJ5U19YNkdPbjdDcWRHblNDZDJJS195R1VoWjdrYVI4a2R1RXFEbjk0WmZadk9lbVphWldDYjhSUmtad0ZvQTdaZ1lmZUlXNFhZNEQ1RFlGU2RteUEzRFBFWXdNU3p1UmZ0WktIUzZmUXEtNzkwN0lxWWgyS2tMSEJvMlZyYTg1SEE2RDBKOEpoNC1DTDk5VFVkY3hVTnRHcS0yakp1TXVKVGNSTC1TcWxHOUItUjJlRFQyV21UaUlqdUlyUEFYVDhPRzk3ajhwLVEzYzEzSUZldEZvTXdfeTI5alhnSHNGT3VmYzlfUkFfWUZPMVp5Yi16NEhHcUFjRjkySjlwLVNTeWZHdFR6aS03RVdZcVdmNA?oc=5",
+   "m": "slavia-1104"
+  },
+  {
+   "h": "アーセナル、ギェケレシュ弾も飛び出しチェコ王者に辛勝 後半は苦戦もCL無敗継続（theWORLD（ザ・ワールドWeb））",
+   "s": "Yahoo!ニュース",
+   "t": "2026-11-04T22:04:25Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lWDhNR0xHaEdEcWQ1ZHVnM0NYSFN2U1pUTm9FT3RjR1NDOFhyWUdKcmt2QjBuRFppUUQxbUYxazZhNEhwT24tUy03SlRKOU9Kd2lUeVlmRjk1enJPS19vekVoMHMtTWI0ZzNubktYckxicGxqeHhnSkRoa0cxZE0?oc=5",
+   "m": "slavia-1104",
+   "more": 1
+  },
+  {
+   "h": "ギェケレシュが1ゴール1アシスト！ アーセナルはチェコ王者に苦戦もCL3勝目＆無敗継続（サッカーキング）",
+   "s": "Yahoo!ニュース",
+   "t": "2026-11-04T21:54:31Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodnZDTi15UUVGX2thZnQ5ZkxnR05WU0JldnNobHBQSGNvYWV5TDhQNFFXZ3Y2c1VEcm92cWN0ZWFTa21mZXEteDU2RzZka012NmJLT3lTeE5EZGVoZUY5T0J0cWptMWlvYnUzQzVvQUtjQ0J6dEh0SWh6ekhoVEU?oc=5",
+   "m": "slavia-1104"
+  },
+  {
+   "h": "1500億円vs15億円!王者アーセナルを撃破した4部クラブの奇跡（2）プレミア王者が抱えたハンディ「偽ハイバリー」の罠、両チームの不思議な因縁（サッカー批評Web）",
+   "s": "Yahoo!ニュース",
+   "t": "2026-11-04T21:00:36Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WVW11OGU4bkFGanlhZ054RnhVNWlfUWRXMy1GRXQ4bnBPYVFuOWhKcXBYWG9SVmZlOUxMQ2dKRjF1YU5yRW9IZVhDNjNwSXE5OGM2OTlRU3cySXU5eVNxcWxDTmxpTDdwRDRkQzJhR09MaTNyRmNzc3UxMnRkTGs?oc=5",
+   "m": "slavia-1104",
+   "more": 9
+  },
+  {
+   "h": "アーセナルの今夏の新加入選手アンドリア・バルティシュヴィリ、デビュー前に足首の靱帯を損傷。最大3カ月離脱へ",
+   "s": "Goal.com",
+   "t": "2026-11-04T16:35:41Z",
+   "c": "inj",
+   "link": "https://news.google.com/rss/articles/CBMilgZBVV95cUxQVzBFbGVIaTVGN3dmWGw0UGYzRmpBNXVhX01xckFfc2ZmN0F4ZVE4dUdINXRrZWxfTlNTRXRpb2p2dmdXeDNydHN1V2t5dmVUcTJrM0l5QkdUdmZnS1VmN2tMQm1OenV3eS14engydUM2LTZXVEZoYkVVdlNqek5Cc3VUSzJHdHR5aEp2akYwRHQtS2xwbTlMT0FVaUJQckJMYkRScjVwS01zWkluNWdWUE5ON2dYX05ReWJmNG8zWGJ0R2k1MjBRVHJEdWI1dkJYYU5SdXV3WHQybE02THVxZW5ncldkN0I0SnAxODlwRWY3TllyYVB1WV9ZaWZ2UG1wOEQ2SWJYMDVTM3E0TnozbF8wcHNZejFQNy1HTW9tcHE2Y3ZlRHV5UjAzSlZmWkZ0VkhydlpOc3ctV0FZS1d4c0ZJeHhBdDl3bEFRSWdJVnBKUnNJUF9hdUM1M3c0TDdtb3hxdUhYREcxazdMUmdCYkZfbzJWSTFDWERkdTdFMFdFbXdRWUEzMGtILUdkNHhwU0Q3eENPUWRHNkJBX2tnajNpZXhocmNnSFo4U2g5YVc0cmI3djQ4eDBUZ0NMWmNPNG9HUV91am9tX2NMWEY1M2pycXRjREtGel9udEhvOGc2bXZEeUpZUVdWbUIzWWZlUk43SW5sWUNuODVrbGNFMUYyVHBSSHdPS2RvWksxZ3ZqcnUtSnVDazk4U2NncWtXWmNpaGlUWWpYakFmWlVyT2JOLWNfazB6X2ZMWFhCTjBhcnhXSnNBcUZvVndPcjdCbnhHVlJxX2U1dHBtdkdyYU10YkdNaTdrbm5oRVl0YTVfQnhXVHAzRmM4Uk1OV1VrVFVIMkh6bDNIVG9UUUdjM3hHaFNZU25xbEx2U2FnMy0taUg0RVR6NnZDLXQ4VEdwN0FxYkZ4Y0lqTXZYX0VGZ1NhNFljc3dDT25xZndPTmlTODlMNjBhaXVpMnRoNUpoNklPbjBPN3JaRHNUVVBBekxaMTlKTGw2NExMT1pqQ3dQQXNMcWRJeC1MVUpqMVpzQzFtU213?oc=5"
+  },
+  {
+   "h": "昨季は公式戦57試合に出場も今季はプレミアで99分しかプレイできず スビメンディがアーセナル脱出を計画",
+   "s": "theWORLD（ザ・ワールド）",
+   "t": "2026-11-04T14:10:00Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zbzlDdGdFdE9OanpOY2p6R2hxNmdCMnRQdk5IejJybEFQRC1uQlhCbGxxS25HZTFhN2NVNUZwSzFwbERPWUZPVGRLTFFtNnZrYlM0Y1dvazMwaVduWVk4eUl1RUVTd05vTWZSZWIydGc?oc=5"
+  },
+  {
+   "h": "左利きCB探すバルセロナ、アーセナルで出番減らすエクアドルDFを注視？（theWORLD）",
+   "s": "ｄメニューニュース",
+   "t": "2026-11-04T13:40:00Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX21qNkhwWjdETU1ISHVqaGlZYkY1cXptRFFsV0dLS1htd0Ixc0VWSGV0Vm1fVHNkNS1HNGNPRGxWa3pMX3A3ckFYS2RadWpBUlRscnRSQlNmTlpQcEh1bGVNZ2pUak9fLWR6cFAzNy12eW5vd3BjeFozNTdyLXprWjVEMXpVd25NOEFGVHVub20?oc=5",
+   "more": 1
+  },
+  {
+   "h": "シュート17本でも無得点――アーセナルが14年ぶりにアンフィールドを制した戦術的理由｜Visca Barça",
+   "s": "note",
+   "t": "2026-11-04T13:19:37Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGeWpYUlM1YmpsekZ1empyZW9rNUpmMmFjcDhMbzVSUHNhSF9wLW1ZTTdNS0RpaTI5Yjg2WGUteGpyenR4QXJObTl3OEFVb25a?oc=5"
+  },
+  {
+   "h": "サッカー界で“ダイブ”は必要？ リヴァプールVSアーセナルで注目集めたイサクの動き「サッカー界の大きなジレンマ」",
+   "s": "Yahoo!ニュース",
+   "t": "2026-11-04T11:31:04Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdExsUGlNNjQ0SFNKTkRsRUpuTFRmeTJ6Qm5RRW9DNEJzMlppWTBVaDdSNGJFQmItTDI2VzlTNkM2Ui1nUGpUYVRPTi0yQ29CSDVOQzg4SFRqS3ljZzZlNDFWenNWbjdnakR3RndPa1ZmWnVxa196TDczMndDSFU?oc=5",
+   "m": "liverpool-1101",
+   "more": 1
+  },
+  {
+   "h": "フリートウッドでのレッドカード騒動を受け、アルテタ監督がアーセナルの神童マックス・ダウマンによるチャンピオンズリーグ記録更新に期待",
+   "s": "Goal.com",
+   "t": "2026-11-04T08:17:44Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMi6wdBVV95cUxPQjkzdUJYNWdXeng5ZjNWaDUxblU1VmRkZ2FSdHVPN25maGpxSnc0X180VGtHNlVsQjAyUkNBY29qVld1QWhUNTFMLUZOU3pkM000NGRBeGR4ZEVhX0p0aXZVM1JFaWdPb3E3X3hQZXRDeUNEZHZUQzQ1U3I5TTljZ1VTbjQ3SVdVaHBuSWdfQjVUdGMycHBYeVhwWGR5ZXFJMkw3dFo1dGtwYUFwVU9wS3B4cXVIaFpVVm5qdEFxam1rU3h6QzkxR0pjbnpCblRIbnBCVUpGTzNRVnY0NGljdjJfeXJSbnB5S1BpSGw2b0kzRW94Vk5xTnFibGdveGo5SDN2QV9qcXdmQU44dlZNeVRMYkVWWWs4czJKeGZ4MExRU1ZtRm03MkJpRnRuVzN0NmJRRERvYV9vXzA1ZEhoSmx4NmQ1aGlHaVlDQlI3aUJCU192d1h2cnlDZ3NGYXd0TDhXNUw2bGNQdXBlLUl2QUJwLUdfRmNsRmw1VTJVT09XYnlCOGwtQ3VCMlpGRDdKdm11bDdfRlhDVTJHSEhmSXg0VDh0cjRJaHF0cnFoeXVTcnpnTVF2TXVYX0cyY2FpUjVUeUNsbWlVZ0xDUjRNdVNsRkNyaHRBSlRWQVZLSUR1alh3WDhvQl9YNGhvbG5hdFlXQzFYeFJvVnNZLW5VOGRYcHV5YmxtUi1xV1ZJLUFJNkRhOUQzTkk1OWNZV1ZWa0VEMTcxdjJWV2RyU0VEcFNFZ0J5S2RlUVNPSzlrNGFWTTFiQUc2ODBLcHVYZU9qRWJoazJCNm5yUjhJcDRfY20zQnU1MmFhUmFDbkRELWRsaVExSmlLVGxQeDdnaWtselQxNG1ZWld2dF9xSTFjODZkblA3ZHhtSFVXZmhvWTk0NmhCU0lZUHFFTHBxYmhidnY2MW9zNnktaUpNV01ZXzM1eUhzb2c4dXVoOHlHNGNhSTV6TGFFRWk1U2M5UjhDem95X1NxMWl0MXFiZlhHenQ5bDh5LVZmZW9leEl2NVVPQ0JxRWc1b3k3MlRZck13ZzhNWlN2aFFFeHFzaTZNZjlYZXlKQjVRMF9MdDFXVWpmY25PMVNUZy1xSm9WOExrY3I1dkpIb0lfRlpMY1FvdkN2MHpxVzJ0N2NRUkdoNkJEeUluMWtuY0hpQVR6dk96aXVSZURuNDNUZVV2MDQzTTQwTVU4VlBzQzZfa2JHUDlPQTFPREVZdzN4UUM1ODBXeGRlTUxUV0pSakcyaWxSblFQeTBDT0hqUkZOazJJSHZBc19uZzZoUllZdXBoQ1ZONWlGOGFFZlVqRHlFZVdlNlpxbmQxWGJ3dFlj?oc=5"
+  },
+  {
+   "h": "デクラン・ライス、いつも最後の扉まで辿り着くアーセナルのミッドフィールダー",
+   "s": "Martin Cid Magazine",
+   "t": "2026-11-04T05:13:46Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZm1WNlNDbGZBNTJ4eTRpNGMweExWYldna1pycTJ1c2RLdjBCN2dGQmlzSkRXSkUtVWZFazg4NmNoa2hIckpUSXdUazJWdno3WDV6T1Q1X2tkZlRfSGNUdFFCbDVDNnczYWIyWkhzRUNqTnZDaFB0elFLZ1A2WHczTVEtLWRjMGVmejB6M1l1VVh2cTcyMm9WV2JRcE5VM0ltcE9LZ25HSG40UUpUTms3T2hJenJMVGIwY0R4eE95VmdZbVZRQUZwZFVZM21jVS1VSmFRdXVTbWt3ems1djMySTNFWjd0anV4V21taWNUVjdfVjFFQ3NKa296bmItb2s5Wms3VlhoSDRkLTFxenl1c1hiZTR3dml4c202OU9WSFlDSVdiQ3VEbmlKa09ySndnZTJRQklDMzA?oc=5"
+  },
+  {
+   "h": "【11月5日】スラヴィア・プラハvsアーセナルのテレビ放送・ネット配信予定｜CLリーグフェーズ第4節",
+   "s": "Lemino",
+   "t": "2026-11-04T03:00:00Z",
+   "c": "mt",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXA0clduOHptZ3JhUWwyZkVLN2tCdER1cWpjcGZibGtDMHF0RlYyUk5kOE1fSzBIS0VMMjRCUWtGaTEyYlpOUDNzZzNTNVpudjRkUmFRLVFRTHpSUUNTR05WdE9MS3MycEwwa041bE5lbkI3ZEdtSFlUa1pHN1ktSlVfZW0zM1lhOGtBZmpUeDEtVVlCNUdCclhKMTMydzBt?oc=5"
+  },
+  {
+   "h": "スタメン出場わずか1回、アトレティコがアーセナルの“スーパーサブ”獲得狙う",
+   "s": "theWORLD（ザ・ワールド）",
+   "t": "2026-11-04T02:30:00Z",
    "c": "tr",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN0pTV2JIU2JLa1FQOGxaSTEteldwUGJUbkpXbTB0cE1iVGgwQ2hDRjAzT1hISDNTLW82XzNGVlprS0IxVXJNZTBza3dFUWVNaWxHa1c1LVh2QkQzOW94eklaR29xVl9xaWstLUJUQVVVTC1nOEtJZ09zQWxPRjBIeTZnM2N6ZWFzZXNud1gycWh4Q1ZSSVpxQnd0aHR3U01GTGNlUHFlSlVudlFZYUV4S3hzMG9MdzVsQWx2QzJiZXZBZWdvczhyX042WUJKUGxrcjdxZlNObU56UmdI?oc=5",
-   "ov": 1,
-   "lang": "英語",
-   "sum": "アーセナルがアトレティコ・マドリードのスター選手に関心を示していると報じられています。また、バルセロナはクンデに対するオファーを検討する姿勢だと伝えられています。"
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVMUN1VEJjSV9GRGl0a0hrcUREZzlzQS1EcmtPU1N5Yy1FOWhtOFphME15X1RZekVsYV9EUFNYcjMxYmNuNmVUZGZMakRRZlcwV0JETnE3TF90TjBYQW9aRF9yNFlpRFpoN0M2ZDFEdXc?oc=5"
   },
   {
-   "h": "「忘れていない」アーセナルのスター、大勝後にファン・ダイクへ“反撃”",
-   "s": "London Evening Standard",
-   "t": "2026-11-02T18:11:33Z",
+   "h": "カイ・ハフェルツ、決勝でゴールを重ねるアーセナルのフォワード",
+   "s": "Martin Cid Magazine",
+   "t": "2026-11-04T02:02:52Z",
    "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUhxaHpyWjlVSElvMkpvVWNMRkFuaExyOHBXdG1xNVdYUF9sYUZqcFE3dG9vRjh3aTFrZEFlYVp4ZDhDWk9wcnFVRHJqU1Z5WnN1ekUtTmd1YWpBOWZxdlhXVy12M3ZaZnlqZGxZa3duMzd5LUc2eTMyVXk5NXU4dnNIaE9PbDRBOTdqZG5FMDE0U3Nlb21NcG1B?oc=5",
-   "ov": 1,
-   "lang": "英語",
-   "m": "liverpool-1101",
-   "sum": "アーセナルの選手が大きな勝利の後、「忘れていない」と語り、ファン・ダイクに言い返したと報じられています。"
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNOWlCcWJGeDBkMjFxckdScmZ2cEJVNHFzREoxamZJN05UTWE0d0JwSlUyVzA2czRUMk1BaGhwWmFnQnp6bEdDdFJYcTBLVVoycVVCc0RSci1DYlRldWtHQXNETUlIaXM4bHFyN1YxbHRYSWl5alZtdndPN0U1LUZBeDZmZjVZUm4yMjhxbDVjeUVNdEJEV1RWemtSekdRQWdlSTVtSTlacGd1ZWZTR3BMeGRMYkNmWXJNNFFYQ3ZSSmlLR1FieWxsVjhXOFM4dUd5UVhmdWxQeUtWWG5ZTElwekQ0UXNkam5FbE4yTzVlbU1qbDNPbkh6WmxUZ0cyRld1M2tPRUJUZVhkbk9QSmhSZE93dFRYMVU5aXpNZnFXYnJVV1NiYkZ5eVVXTVFpbzM1R0ptMWdBN0w?oc=5"
   },
   {
-   "h": "アーセナル分析：アンフィールドでの勝利をもたらした5つの理由",
-   "s": "Arsenal.com",
-   "t": "2026-11-02T17:56:37Z",
+   "h": "【11月5日】スラビア・プラハvsアーセナルのテレビ放送/ネット配信予定・視聴方法｜UEFAチャンピオンズリーグ2026-27",
+   "s": "DAZN",
+   "t": "2026-11-03T22:09:07Z",
    "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTBBNzFZRDVfdjJnUjduVlktNXJrWFd0NkpHUkRMMDBSVkZnMzg4VzBEVTZfcW1uVF9wS1BrcjJXRWNLX3hzcjRxeHEzNW9XMzZqTkE2MnBUcy1pV0VwRUpOVC0zQnV4S0RhTV9ObExwbURBd2x0eUx3MmZhQm82Ym1kX1JTTThmTkJUS1R0T3VlWDNsZmhlUGJhM18tUkk?oc=5",
-   "ov": 1,
-   "lang": "英語",
-   "sum": "アーセナル公式サイト（Arsenal.com）の記事で、アンフィールドでの勝利の要因を5つの観点から分析しています。冒頭部分には見出しと配信元以外の具体的な内容は含まれていません。"
-  },
-  {
-   "h": "「これはやめなければならない！」識者がアーセナル戦でのリヴァプールのスター選手の行為を厳しく非難",
-   "s": "Goal.com",
-   "t": "2026-11-02T16:31:00Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxNLWxLZ2Zab2JycFZNMG1wREhGRVRxZDlhdC0zMnNkVk90M1ZXQTNtcWlVRmxJZU9ycWtmUWRxT1oyVW1HX2djQm9DMTd2cGtvX1FPdjhMQVo5a2JNTUl0QkI0c0R5WS1jUWpoZG9xVnNvb285TDdjQjh5cV8yXzlROHlJdWt4b3ZLRUYxZkRjQnlGWVVQRFpYV3JXVlhRWnV4WFpCZWUwUnZoZE9zSERwWFk1WF9OeVVHT1QwbkdPUzltVzNlUmF5aGg1c2NnbXdwRTBnWlpaY2lYbkVEN25YRGJyVzNrREdzNVlOUTVPUDZ2MXoyVUs0UlBWOEFIbVlFcTczbzUza3lLSzJXX2hNYUdmUWU4OU1YenZjZXozWmZLOGVuOEpVQzFGQ1JQbndMQnFSbGtkS05SWXNpLW1nZ21jRFB6TWxHX29qbEw4MTlISnc0bXlXdlZoc2dIcUtGbWNJZHMwX21WdElVNFVDdUdMNjdRbWNuVnNDOWpSVzR0UDlTb1pRa2t3UGg1TEI0clRHMVRONnJ4V1ZXOWxGZFAxUVBMTHM0YXhuRFhidGVVYlpYdEtPSEdkRFl6QzlFZGR3cy1wMld0akQyblNMZFZOZXFlVlE2czNBSWhVVjdhazlrVXF3ZUswV1E5d2dTWTVIMVlCLXA5aE9aUzY0NzlFdUNTLXlWTkpKdTVDUHhXSUxwSkVSbW9OLVhvOXlCbVBpbVZWMjJ1Y2VlZkV5dTI5RFo3TElrVElSUGJlbk01Z3lNR2FudS1NVkpxYWd0MHdsaGJBX1dlb3VaN0hKay0yb3BObWRzQmFIZFdmdnp1ZVNRSGZrN2x4N1NXLVJ1SmNRWHJlRTRuTzNFcGc4eW5NQUl0LXJoc3l3TkhfclhRTDZwcmJZTHF3ZWhLV2stNVNlQ3FwT2RTcDV6XzBJRmxGaGNQbHhkZUdJZFFQbW1lTkNqYjFSSnNHOFdLTFdySXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONmw3WmYtaG1rcElnZU9HaXZJVnJaSkZ0QVhNVzZTWk1LVDYtdk9qS3ZIS2xJRFFhaTUxTFFmanp0d2Q5UUtodzhDSWVmZzg2aWpJTk5YOWdhUVNMVTFkVVNfVENWU2RpUFhwd1hNd1hOZG5GZ2dQWl8yMnMtSk5uUDJCbzd0UldlNV9adkk2ai1uOG5WMHNIc2dZRFJrZHpYRkhQc2dXM2ZWcEczTTA4Z2pEaFJVTEJrcFpncmN2OUM4ZE5vNmdGVDVkckhKT3RiRjRnaG5WN2c4SjY5OWFUSXhtelRzMExOVUc2SjFR?oc=5",
    "m": "liverpool-1101"
   },
   {
-   "h": "「これはやめなければならない！」専門家ら、リヴァプールのスター選手がアーセナル戦で取った行動を厳しく非難",
-   "s": "Goal.com",
-   "t": "2026-11-02T16:29:00Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMihwZBVV95cUxNa08zQ2IzMEVTcnJuZEJtT0x0bTQwYjI5X2o4S1pHSEpYRmNVVmVnLWZaQzVUTzJvc3FQT29fNm1GYkFkLUNCZ29jTGd2dmI1VW85aUZkT05oYTZQZnZVVjJ6aG5Edk5sNDBHUTUzeWxvUnZQV1RiZGFSaUhnQmVCdXB5SUZveXB5QzVKbDZiNjBZRnpMUVBxejBMNHlzeVlkUU81STlvclBJMF9qTWFCVzQ2TUl2Q09ZbHJtWG1RaGdNUmFGRm41UF80cEVzWVNOcFRiWjhNaTExakVmRERXV21wQ3dOc2VKTmVyY2pKb29zNTRHUlpDcENpRUtwNmdMMVU5RG1XeTAxbDNFa0xWZjdGNG1TejhhQXNFemdfM0VWSGU4VHhycXd0Q0U4bTBYMkpKY0dxWm13TVRXUEhybV9QSzNDbTZsZGJaMV9fVkVQNHdLbzBCT1U5dElIQ2x4dlI5cmV4QS02c3lpOVZvRXJoTVNtN1pMMjBBUzVjTnpnNUNVZ2RXU3E1Vk9BUkZtV0E4VGtTWk5fV3pxVF91Vk1mMUszanJFR1ItZ3Q3UUsyOEgtWEVvRHp2cDlyQWd4VjdOa1RwWHVwdmUxMVNOVXlvRzl3UkczZ2d5MXlNcVB3NzlfUGFrZ0tudHRUUWtJTHhNS2xxcUo5MDNaSVp4Q2VudEY2Wl9PMlcxdGZ4R3QycE5QaGR1aTdpUlBuNHJXWEJKdS1Rd05CaHpSNHFGYVlTb0tDQ1RGRkZfeFotd2R3enZ5VnBTVktyektuT0txb1R3b1duTnJJaFgwTE5GMWFCdWt6OHNyVWxwazU1S2FpcUxQOHhkMzNqOVZmNWpjVXBsRE9wRlJlQjVpdXZ6VVpzc0lrek1iOXBTU1RpMzEtYVdFZ1VjUGNYQlNxOVB3UGIxVTBLb3hMazNCb2RsMkY4VE1GT1poODRoWExqZTI3bW9IaWtpcTgtbnpodUVpODdTMHJ5bnVHRzVQckp6RGhJTzJ2eW9OMVg1WGl1aHN6dHo0R0U0?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "フィルジル・ファン・ダイクがしっぺ返しを食らう。アーセナルの選手がインスタグラムで批判",
-   "s": "Goal.com",
-   "t": "2026-11-02T14:50:13Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxNT21VV0txSkk2LU04eXM5emM2N25FaWZzWHZwV1pTM0F4bmN0djRWZ1VlZ1ZBYzdyZlQ2dFFwMk5hSEdaVE84OUJmM3hpWEVWS0ZnaDFqcUNja1VzQlRtYTBjZmpzNUplS3lIazdyRm5XTWtYdTR2ZGd4ZHBtZXNHU0ZnYWI4UjRZVlRuM3hWdUNjVXU0LXpSUlRhTEZkQmNqSEo0bEVjNTZxeGVGM282X3hQaEpaNFZzdU0wbVNEWm1PVUpPSDZaS1BpQ2c5WndLVWMtNTk2VkxQbU9aeW1pZVRvbEZnZTRadVZRTDROOUw0VEN4Qjd1SV81VlRpUlRqQzdBM1BZTkROeS1nZUFIMGhaYjlvRlVOYXFWSlFCenVOa0JieUdyMnlFeGJJYTdBVXlTTXBNdkFydXl6Z0hHS1FsYTRjNWg3NkJIWklmeGpESF9iNTNXT0dKSEJESURkbS0xYTg2d01Eby13QzFQa0hYUzZwWi1ZY3VsU0NlOHJWbERaNEZjbndsRVFyYWdIWFBKNDc5MV94UlVpSlptZkhqVjliVUxYaGNJTGg2U2hCQS1OclVzbHpZRG41eFlhT0xKQ1dhMUs4ckVhR0x3OFVXSDh0UG1mUVV5ZVlob1A4UHd4aktpVGR0Mjc5RkQ2QmY0czhRWVhGSFVPQjQyUnhSS3daTkNVMHhxTlBGV042NUEzdWQ2YllYM1JhM1kycldRTl9EbnZKRVdEQXlEQkFaN1c5N3BHQnRxbmF4WVJZbnd4aTk3R2xxaFp1V2pybnNZMkZZR0VNUE1qTzRKTVF2OEEzZFYyX1F2ZGk2V1MyVUxjQmg0T1RJcC1SNGZPNlBLUHA4YTVtOUNfQWowdXZ1b0FjLW9NZ2VZbzNubEJxOVpUcmVyVHEzbUpMVHJkT0tQdEF3b2RXNzBZZlRVTg?oc=5"
-  },
-  {
-   "h": "明らかなPKが見逃された？ イラオラ監督がアーセナル戦の判定に激怒「イサクの件は明らかにペナルティ」",
-   "s": "Yahoo!ニュース",
-   "t": "2026-11-02T13:50:16Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeDZjY1l1NW9TV0FfTTY5aWxlWFZFQUgwX0RfTk9Ca0c3VmYxY0ZVQXNQY0xCWndvQVM2R0tRaEVmVlpJVUFtdkYybTNxV0NIc3VNT3JJbW9qTU1RREQ2SFUxNFpRRE5WcnY3dktKaVgxdFBQQ24wUUZkSlJxWGc?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "「もっとできる！」デクラン・ライス、ミケル・アルテタ監督から内々に課された課題を明かす。リヴァプール戦勝利でアーセナルのプレミアリーグ優勝争いを後押し",
-   "s": "Goal.com",
-   "t": "2026-11-02T13:26:17Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMikwhBVV95cUxNTTJUWTFRSUdzSDVSN3VVM2toTGR6cjZWUEZNb0F3VDlUeDAwemJjdVlLUUktMERRaDB0RnRGeS13VVg4UXhPb2RtY2F6ZW1GQ0E0d3MyMHdxMzRYVndqeFNyZlBWMGZscXQ5RXBNNExhTUgzWVdmNDBrdThaM2d1MEFFakRyUmNoNUJXMXNLTDJYem1laEZaS0VFS21jaEFsamNEaVU4WUduVHk1ajRIZzA1OU9mTjBkZzRDVHh0ZXA4MVJObEJScHk2NnRTM09aOEVtUVhyS1gtYzEwRnZXanV1QjFJTXU1V2pLRG5nV2pKRDlXaDdEcTkwUEpKdmFseHZmc0JoUU13ckpFWXd4c0JLV3BKMlpzWTNuTjhWaXZocHhwWWkycnR1ajJtSFlXV19wV25qd1hqSFN0VWhrS01paHpKTzhndnFMMGVvUzhsNUlUYWEyb295Mm9fX3BlYVhnY0d5YXpNTEpiZmlWbGxIaVhrRlNtQXBtU21DajFJNWJtVU1WNlI5TWEwZG1nV2I0TEdjWF9rYW81X1p4SnY2TWxPVFdTa0oxX2FmOWFGMG9VUFV0aF9aVkliZTN5WTBCSWhid2ZWNUs0UGdtaEk1YndGZlB5ajNISnVCcjZtblQybkVyMng1VFFPME5XNHFndTdzODFQVFE1MG1QUkJxS0FmaGt0T0lDSDBmWkFxSjh6VnhlTjFhT0x6Q3dqT2RRSTdNY2d3RUlWVTBQQ0prZTdDazBjTWE1Q0xXcjk2UGNXVTQ0RnREd3RySjFvd3FkS1hFTExrcExTV3RKXzhta0Q1dlJqVXRHZGFuNHQ4MEVOUFRsYmUyQkVjYWEwRVVDX3o0VHRaMWhiRFpHTy1lZ2g3LWdWaFA2ZHFZSnZUdGNGb2c1VkQ1aDhBdHJPNHVMeWprTjBrQndDSlZmZ1hDQUx4b1c3eEJQZWdNQmUtdW54aGh2TmJQc2hJak92LWcwczhVZFJmaEJxRUhyRGdkM085TVM0U19jUjlaNW5kSEFaTzF5RmI2cnRaWmNVZEpWbU5BWnFaY2dFQUNuSXRXNWxMOTd4cXp5MG1OMllrU2lWckd6dlBtMWRUTXYya3RESXBJS3ljSUZzWkVUOVFBQnBNRGZta3U0dWZTTFlsWEFTWnRwdHFxQVRVNS1POHJIOHRsaUNXZ3ZmUG9jMjYwV3Yyb1BXWHN6MHhjaEU1MXpVR1BXMGo1VFhLOFJXOTNHLWExX3hWRXBwTjEzNVNSN2ctaERudVR2YjJaMDItMzIyNER1LUJSZXV2TDVmcU83WG1xbXlnMThXTmlNWllzOXdjdVRLM3NwblJycm1oNU5kVDNCNHFqZ3lobmtxNjh3M1NQcjhsYkdrdlZEQ0VQcw?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "＜リバプール・アーセナル＞選手を鼓舞するリバプール・イラオラ監督（AP） - スポニチ Sponichi Annex サッカー",
-   "s": "スポニチ Sponichi Annex",
-   "t": "2026-11-02T13:04:16Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGVxcUxSNExZZ2JkM01Cb1F2SlZyVFJKRXQtOHpSbmFMZ1BnSFdrb1YzTWFRQlVVcmo4eDZWbzZlUTcycTBWNHVhanhjSHB1ZFdGc0d4cjBlVUhwc2JXNGVxZWZrVTVfS1g4V1YwOHZEUXYxRXh4RWltMXVsWU1Na1pqTzFnT3Q1bS16NQ?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "サリバorコンサ問題がまもなく浮上 アーセナルはコンサを信頼し続けるべきか リヴァプール戦で出色のパフォーマンス",
-   "s": "Yahoo!ニュース",
-   "t": "2026-11-02T12:03:27Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zLXh4OEF6Y0VTSF9KM2VaOExVaWg3b0taZzlWajh0ZmJ0SEliOVZIRVltM0lFS0FxXzlPOWVDLUxvd2Jla280Q0NjWXJzcExmQjFZcFdkQVNQTUl3R280MGlZcW51OHk2bEh5eHFpY25BSnhGNXpnT29McDhmSGc?oc=5",
-   "m": "liverpool-1101",
-   "more": 1
-  },
-  {
-   "h": "アーセナルvsリバプールばっこり解説！",
-   "s": "YouTube",
-   "t": "2026-11-02T11:38:08Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PX2dGTEFPT0pWOVBzaXVuakVuRmNhU3ROQXFWcjl2UFhrcHdUUXFqMGFuVkVPNURhd0NsckZNV01ILXM1dmxxOG84WnRoTllBbkl1OHVfTGVvRFBO?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "ライスはすでに“レジェンド級”!? リヴァプールOBが大絶賛 「アーセナル史上最高のミッドフィールダーの一人」",
-   "s": "Yahoo!ニュース",
-   "t": "2026-11-02T11:01:32Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VUEtjNlpvd1p0YVF3MFBVSWxVai12cFpsal80VU5hVExsOU50Zk4tX3ducjV5SkpyMjRkZTIwME5ZRjZkUWVkNlFmTFNhQVpIUUgxd0hWYVFyWXA4MGNGVE4zRGdQMlBsNHZDWHA3dWd5SVJRS3lORWQ4YVlFVGM?oc=5",
-   "m": "liverpool-1101",
-   "more": 1
-  },
-  {
-   "h": "フロリアン・ヴィルツを上回る！カイ・ハヴァーツがアーセナルでドイツ人選手としてプレミアリーグの歴史に名を刻む",
-   "s": "Goal.com",
-   "t": "2026-11-02T10:31:22Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMixAZBVV95cUxNNldkVlVaaUlEdW1QTUl5Z242M2k5T1JGNlVZdkRLTHd6eWhQQmFRek9VbVRMRzJHRlRhdnhlTFdQZWw5VDd2VG5IelQ3X2ZWZzlMelBJaUJiM05FblZiS0w3eUxIRFRSaUxJTEd5cHhSSkI0UUZVWEdPdEZWdnU3eDhCRTF4M0tCVnNJNm1ielJmQnZzTVQySVRjWjlZM2haZ05PVDhOaGtZRzhYclU3YUEyRmpGQmpvQ1Z4b0N0RzZsV251OVFfUkliYlNtcVdzdXhLeXNLZkhuREVGQXpDRmk4dVhHWkxqd3NZaEpMQnExWDItcG9GZC04dDh6ODBaWURkMnJjaWlTVjdrTDZkSTR4SXhCbjI5bFpWNk1fZVh1c2RMYkM3WXVzSjJDaTVDcHY0cXdWZjVWemN0WEZQa3F2aTBGWV9WcnhWTWM2QXkzdGlSeHc3dXVJSkg0WklpdnhBak4wWFJtSFdEM205c0JveVFScm5oNVVnOWdIaDY4ZnJUNXVNdXNZTVVoXzgzdXBoaWFiMGdFdGp2V3J2eDF0bkpMbGJhSmhxUUFNQVVSZUZoZXc1S2VoaEZDeXhVWTJVMWtIeEhhZ0NLOWdwRVo3ZTdmM3REUGVUN1RiOEFoMXRIb0pIWHJSaW5yR0U4anFUM2ZOSEs3WEkyMVdVWE1PZTFQZzZzNnFsUHFSRWdCY3VDbDRteDU0anJ2WWpsN3hFZlpmNEs2VHBZNWlzdjBmMy1mbEtacW9ENUhLTWNVaWlDRmNBdlAzeTh5LXNKSGtpU2sxM0stT0VkeGNJM3hsNVlUZW9pY21jeXd3YVZrQnBzN3hSZ1Y2QnJ1SGV5cWxjZi1BMzlDQzRkbkpWekdLOFdWN1JhWExYaU1mOEVHZWFubFJsdHFBb2ZzV1NrZUdrSDFIRnNJNXF0N1lIbzFrc0dRbTE0MTV0cjJoWml3UVZ2Uy1BTS1KeVN6RTZOVzhYTzI0Smp6cExlWHpIOVl6QTZ4akFrUGdwOTZ4QXpOc2pLeEJhSDRDZEx5d1V6SmFURW5sOTNycDVmLTBkeTlTOGNxUEh6TDJRVk5jdFdMbHJ3VlZOLTdST01tM2h6Y0R0NQ?oc=5"
-  },
-  {
-   "h": "「僕を挑発しようとした！」ノニ・マドゥエケ、アーセナルがリヴァプール敵地で強さを示した一戦の頭突き騒動を巡り、アレクシス・マクアリスターを痛烈批判",
-   "s": "Goal.com",
-   "t": "2026-11-02T10:26:11Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMi4wdBVV95cUxQV05IdFVETlRyVjZLSHZYb2dQX3dGVjZoNmFjSnF6ZGNLVkhuSW5kaXZRRXFwRGw2SjBWOXk5THNadWUybUpUa3VYMEdIM21mRnotSlVvVHNsaEVZZlhxcG50b2U4UktvOTJSVVdCcUZZVG9iRWgwSGE5c0NOUVZVeUxLcW1GSzMzU3M2QmpiYTM5S214dlBSRy1zaWRJUXdmaUlrb0c2Z3RKa0hEb05SVWtjOTdVLXdIVV9FNXhtazBOajd0M3k5NlBBNERyeFRhRk55aHM5MXJvQzA1TWtUSUF4NFNuTmhYaURTZFpvdTZpRWhXZHRWNnhHUlVfaGZuMEVJOXJzVTFzWkRRQnNOS0tRLU1DSjRSTmZkOWZDLTJtM0lzMWtwMm0yemh2WmdKaEhGdnFWLUFwQnkzWmdXQ0luQjUyYWh5T3VWWnF3ZEVVbUVWZ3hNcllGcWdfZzl1V0dPcVBrWE9RUjlpSzRCQnVOVGNvbmNaRnFOZlRBWEp2Nm1IVUpWZ3BQeWt3T0tob2VhajV0MmZ5ZlZJMFpuUEk5NFlvaTNvWjk0aElobktTSk41NVdhSm5SbWxnanc1SjBaV2R6MlJwZVAzdVZYbUJTNk42azZpclZROWRBdVV0YVJDSk0tMVdZd1NGaEtpV1pBVGhfNlNlUzB6Nl9TRlcyY2tGYkl4cU9Ud2JaX3VVZENWMkpSMXJtRHh6dmNPQVBYd3ZKYnZSUGhOZUdOWkJ3S2tHbGtvQW5GOFhFbDRCV0Y3QThSZ0oteEJkV1Iwa3JuN2xDdGdKcDNzRkJIWU5TNVlVcVZ3ZGJZbnlOOE40X1gwbHAyMHNfamstVTFrdEltakl5MDA2bFFQY0JoZTM5dE1McnlJV1BYZmVwZ3VaTzVjZS1yZllBck1Nc0JldXA5UVl4Rno0MzlhQmRkaHJaRG8tOGNTandiQlFPWHo5bi1VOTFjU2JZMnl2akZYNExrYU5MY0FvYkpnZUFaZTFIX0c1eUlkV3paUTV5dGU4Yy1DeWhQQ1k3c0ZVZlVUeFpYS1E2NFNJVk5HVHJmaDhleGR2WXI5Z3EyVVYwUFpaTkhnUkhwZHR2aFlmdWl3ZTIwVGJtMDRQcmdLdmx6WDZKNURSdjdzMFpKYTFZRjlUQmlIRTRPd1Btb29heTZOSVhpQWZHdk9TV0JOU2VlOVYxMnNNX1Ftb0hoU0N3UXp2bXdMY2gzUWZnQ2JEXy1LOWMzdkw1NlBhY0w4N2UzME9yaHhQam1zTVFOaXhxcGtKbk01WjlHeXpiclFiajI2RUVJcjg4Z1JBQnNZTEpNNFhpOA?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "「カメラはすべてを捉えていた」ファン・ダイクがリバプール敗戦後に怒り爆発：アーセナルはお見事だ！",
-   "s": "Goal.com",
-   "t": "2026-11-02T09:57:35Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxNRmhRYVpxVjhDYkpJeEhnSEM4QWZ2MmQwZWRFODA2bFl1eWVMaUNncWxvRXBoV001OVFVUE9HSkJWazJiMWtyUEh3YjUzR3pIMGVYNHRZak9jTGpQUnFKWmZVQXVSTDRlOFIwbXJ2OTBPTm9jQlAtdXJzRGFtZDFQOHJydW94dVBucGt2RWkzNU9hbFlOek1memJsbjJZZmtZNlRrSlkwNjd0MDRfYnROb0hCYlVxMXMzTVVGczN4dElSbzB1MmlHR3U4TnBHYTFIOUhOZXZGMm9vTDF2Y0EzSlpSMjg4YndNX3dQUEpUdWx1YjdzejcwYmM1X3dTTzhEZ3FaZ1Q3RUdGeWRtZHY0MlhSMG0tMjJyb1RsUzBlTkxSclI5QzJta210bFRJbjlIZl92VXYtSEsxMkFfUDJrMlV1VE5PRUEyR1p6ZEg5UFBXNFp6VFQzSlVvN3phc0tzaFZ4NU5RZVl3NEkxWm82NXMzcm1hSXk5NF9ERFp0UUpwWFV4bE80NXdYYktMNHlHUkJid09nVl85bWxXeU1qb2JxY3lBRk5WUm1WQVBIeEgtMG1UYWE0WUIyMzYtaGUwSXdpMGtWSnAwMloyWG9kbUpOVDZNemNNUWNyNC1OTWhYUkc5N3dQTUJ4eDg5b2dvai1vNWhYVlhzNlkwS2pwblZaVUl3d091bUZFcnJMaGR3azBJX1F0NlAxNkpXdnhoR01TMmRLaWVKNEVsV3JKSURZWWE0T1RQbmlGTVFtazJmVWgtVkRieWU0MGM1ZXJ4MHlaMjhwT0xrb05mczJLR2dBWEQxdlBFb25rbUhiZHc3eko3Y2dUZFJNQnF2YTdZNTRjcDYtZnBqTmJZejlnOF9nZTJObXlVOWRxQ0NfUWRfc2FTT3RQTmU2dVlFZzBQek5OcUF5TDlKc1puYk1nQUpGa1RVMWF3SGZGSUMwalJqUzRrNjdRag?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "カイ・ハヴァーツが歴史を刻む！アーセナルのスターがマンチェスター・シティのレジェンドの記録を破り、プレミアリーグでドイツ人選手の歴代最多得点者に",
-   "s": "Goal.com",
-   "t": "2026-11-02T08:49:21Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiqghBVV95cUxQNnp1blhsSDE0YkhVQkc0Zk9wcmR4bFNHa3hPc0t0bS1KLVNwZlQ4WVF2SmN5ZUJVME5yeFNVUy1DUl9Yd194aGhEcV8tOHU3T3N5cFhDLU5VNm9YY3BIRVlXU3BXWlpzZU1PdHRjd0pheFNQM1V4bnFLTWM4RUo2YVVJMmlaRlNETG5fSmFGVVowTHZUMEV1ME9BcllkanJBNjl6TXBkamNyT1JjMUYwM0plc3ZKaGhFaExERktRa1pPR0ZyOGY0TTVBM2tVOGFYUnc1UFU2endzTE50QXctZUc4eDlEZlBtaWVRb3EtQnRLcVVxV29RWU9tRlluTlZHbVNBLTItSWJWQ1V3N19wSGJFam9SV2daRVFfVF9oNTJKc1Z1LWNxVXZ1RXAtOXptUnpWSW1fWHdMaGxndG5FbGFfbnpuLWFtLWxqam9RaFMxU0dnNHpUZjF5MXhxZXhpLXNjbUZHY2lwUUZRNnBneWV3TlU2Y2JpNzVvVGxZRWZFQ0Fkb2pTS3VyWlRkeHJ1cFVrbndSYjRtMjNodVlHWm8zUktlZ2l0dUk5QlFFWTZBVEw1S3U1V0F6QVhJTWwtbTRCc3NEYlpjY3dxUm9aUktzSjBhOWVLQmFMc3d3UmY2RG1vVU5FRno5M05lanY2bHpyNmVmNVdlQnpHNmRpWlhKQmk0WndCSGtBb0x1c3c1S2Y5dk5uMkhpQU9va1MzVEpOTXZpM3Z5WnJ2UXljbVVaSGNUMlVxNFc3c1FUZHI5aWVzd0s4NGVuNzBFak5Zclh6dE8zQmNTTW14Y2NrcEdRZHJwcDBFZTN2OTRMRlNjU0VsNnl1Uld2RU5CcW5CcUsyNGQxMGVKVUpuVGlaLTFjT3l3VzVMc05BdHhEWUdRUDBxb09YUTFsM3kxQU5SbVd6Q3gtNGNIaUF4aDJuVzJ1TlNlbWUtLW51Vy15bGRwTlhKU2ZwUTY4OXZBVDVQYWxRUTl6RS1fam9nWkptMkpQVWpvX0tDX1F5MlZUTmxJaWhLRm5MODQ1TnJzcGktSVZEQmtPV2QzNVhIa0taS2UzQkx6SkZ6M0NJWmNyMU1LVy1WUVZPSnIwdVc4VUdxQ0NVVGRQQkpVNkh3RndmOTdFekVXRmRpaGZYU0JJbVExVW5kdkRWelpEZ0ZyT0w5SWJoRHNPMnVNOHFobi10cUxGd25vWkhVLUFmcU5LUHdoMWtCWXhabXhuaVdkWWRKZDUtamFwRTVaVXNHaFB4WDZVV1B6WDNEakRKbFVGMFBmR24tdUZIQXViMWR3bVVrZGdzSm5kYlcwQXotdk43YldzTENLVll6ZDUxUEV1eHgzZk1taXZjWVBtck9ieFctcDVVQ0RfcFVqVUU0QUwzdDFXWnJKQ1dPQ294OFI3d2pDSGlRV1ZDVmR3?oc=5"
-  },
-  {
-   "h": "「まったく恥ずかしい！」ギャリー・ネヴィル、プレミアリーグのリヴァプール戦勝利で「芝居」をしたアーセナルのガブリエウを酷評",
-   "s": "Goal.com",
-   "t": "2026-11-02T07:33:32Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMijwdBVV95cUxQTjdQM0tOZGNkRmdZSnJrdEZlY3BHYTBsS2dQQ000emR4NEUtMkItLXE0UUJVRHFLR09IZW5LM0x5emhvWDdJdm0tbDU2dEV0cC11ZzB1TlBSSDNoenVUejNFRkJTblVMY1NTNnpGSTEzV1RSMjdkc1VzUEFtX2tuWmdRNS1YbHAzZHc4Q0FoOEFtTWJ6b08xWjNab3o1dWNBRjNJTW8xcloteDcxT1Rvd0hkWXFqNWJOaHlFMUMzRHpTUmZaWkpGTTlvb00temN2azFhRzlZU3B4cVFWSGxNZ2ZxOXhMdDgzaXY3MDVnbzhxLUMxRVIwVTc5N0w5VmhteUFMTUhVb002VTgwUktoYTI3SmU5MG0tNlpkbjNmVTc5Ymo5enF3ZXhwN1ZnVUFBMkR2TmJLV2pmSm1GVWZzYXpMbFpvUmpJRHl4Z3BkdmRyRnQyRmlnbWhPUWM0Tk5yN3VobWNvS2xNdHhZZlBmNUxncjNKeTZKcV93NDJWUzhMNGhvZ1d0bmJxc2tfb3ZJQXVsd1gwTHJOajNrLTFZZTBDOUJZU080dERITnRLdU40T1pNc3FYSmpWbXFzUVFPZTR0NG5CSzFscE1IOVVvWnNxN3QwdTBqbUVhWk1lNTVFV29NTVh4VUczb3F5ZGF0eFpmNExTR0pYQ0VOUzVGMjkyWjl1ZDdGOE9oU2Y3MHhSTUpuNG1PT0NESXJIOE9xaE1IbXdGUlNBb2YxcWk0d2txMEdxdDd3VmdfSVUyclBxLS1MOGhESDFRd3AzbmN4NWNxajF4UHlObm0wS19zaGNKa1BfSmVSM1MxdW1FU2FpZnlSUHFYcFo3S2J6R1pGTnNiWWNub0xmdy0xSkJwanlUSEJIQTZveGp0ZDlnZDQxSWp6UEFFTElfdjJITkhGaU1rT2JRaEZDSktOMjVMRDFGMl9MaDRPQ1JsNkNrNllRdnlyc2FHNnZkWW1YWm8tLU1FQ3d3bDNqR0IxU3RhdFNuRTRQNnE2cHN1dkxJVDZKX2VpZXB6dGZQbi16RW1ZZlkwMEcwcDZyb0dISjdkMVRFbTdEeXRqWmtGaURZMTJYNDJ6YV9iTUttcHdGN19nMkE1QTU2VVdMc1lnSko1ekpqbGR6ek1ES1pURHQtSVdkeDltZkYzWE5lRktaVUZDYnd3aDVCUXZnUTV6SlF2aV9hOVZVVDFNMWdYTWNtRQ?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "アーセナルがリヴァプールに勝利、ジェイミー・キャラガー氏はデクラン・ライスを「群を抜いて」プレミアリーグ最高のMFと主張",
-   "s": "Goal.com",
-   "t": "2026-11-02T07:02:42Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMi7gZBVV95cUxPandUWjljZ3VZcFNEUlNvdXNJb2FJZTkwOGZFVHhsZkhSWGZkU0FNT2NnWldNTUxSZ1NwRjVYcXZiYTFBVTdyLXFXRllVV1BoWV9QdUpwV0F0bFhsWTVRMk5tT1JteVNZeG85NklIX1pkTVRFXzMxRUdBWTJ2ejFESVh1dmJfXzFGdlRNNnVtR2NUdzJmdjhfaFNkMk8tS2ZIVkhLV0psV25leDVzWlhaS2hLTmhtaHlrTmdtTHhieEJrTHlCOU9hb1o1SWJYbnB6amVpNGJwRDVSNngyQUxRTlhyM1dManU0TGFELWlFanpDaVdoOXBnUVdqWVNkQnl0eDcxLUt4RTkzMzVtekJmbW81c043Uk1zMlJBYlFGWDlCWlJyLS1zS2NmMGlGd3dVMlpmQUVYYVRmZFh1OTlaTkU2bEYwX2hfbUNvZ01xYk8xU2k0akM5NUstNGs1QWU1QUhuQVFiVXBYN1ZrZDhrcTlXQTU2cHNJT0hfbnpFem56bktzYTZzemJiQ05ScG9xQk5vSWJkVF9HcmhrUGJHR180d3FaYjNPMVhvSkQtOXljQlA3R0VCX3FXdWJabnJsdXZNNXJKbUZSZG9kRnR2RjN1Zy1KUGF6YlAzSTktOFpFSGR2MHNPemxNaGNvbkdYTE5iX1FrOUtpQXFYLWlrSkxKMHlDaS00MHNIclpncXpNeVZ0QTZLOWVORFNPOUdweVlKQnRVV2Z0Q3N2SUwwWnR6dElqS3B3eExDUDdZSnV4MjFuTWEzMklpVmtCMjhVMlpuV0FXZmI4NE5ZQzVvZlp1YWI1ZFVZb1duZGx0YXZzTkQ5bnNhME9WZDdvN1MtcmNnSk4tV29TUWVkVmZoUFdScDFCck5PMmlteHZDZzl3ZlpKODdVM3JKU1Y5ZWNid1ZKa2E5QXVVOWVIbkN2RUFWUXFjZlVocWVVaTVMVlNLRG50WTlaanZtN2tMbEZhckZMdTFaY2g2cWdSYUt3WEVTX1VMek5SVzgzUXl3RERxclpEbDI5bHlYV1REN1Y1T1dsZkswQzFvZHEzNXl2dTJ2QnF3M3QzRDc4VHk5Nm9Lazhobms3Y3NjSlhvdkM5MVM3QUhfYlBFdDhSM0VudW1mUVFPNGFOSndBWHQ5cUVodHBkRzhpSWxvb09OUQ?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "リバプール戦でゴールを決めたアーセナルのカイ・ハーバーツ＝1日、リバプール（ロイター＝共同） - プレミア、アーセナルが首位浮上 マンチェスターC2連敗 - 写真・画像(1/1)",
-   "s": "西日本新聞me",
-   "t": "2026-11-02T06:41:36Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFSDNDcWpmRHA4SV9taXdPS01fdW5NRWIzSVAwWU00S3QzTTlrRG1BMHZfZE04aVliOVBmbnNmSXZZeEpYWFhacDRLWWNpYjNiTTNJMi1zYw?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "プレミア、アーセナルが首位浮上",
-   "s": "デイリースポーツ",
-   "t": "2026-11-02T06:02:00Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05ejBrcGRKcXdXU2pCaE15SEs5RTdCTHY4aEl2a09JVU1xdkxFclVYQUZMNVdBd25hUUw2ZWJqT0hFeDI4WVBuajRLRV9GakRxRENXcmZ2cHI2UmZKOFJIUG8yMkRwRlFScVE?oc=5",
-   "more": 1
-  },
-  {
-   "h": "「守備面では欧州最高。世界最高のCBサリバを欠いていながら、だ」 アンフィールドで“枠内シュートゼロ”に抑えたアーセナル守備陣をリヴァプールのレジェンドが絶賛（theWORLD（ザ・ワールドWeb））",
-   "s": "Yahoo!ニュース",
-   "t": "2026-11-02T06:00:57Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PN2dTZVVMRFFLZTZqSnA2STBDNmdNbnJydkhOWU1DT0RzalNZNkFxTUJxNVBEX2xDVzBpaTBUekd2eFhQelVxYjc1MnFaeGItdHVjS3dYdi1GdVRUWUd2SWRoRXp4eUxuRC0wcjlqUklOY2ZwOG5SZlNvUkFjWVk?oc=5",
-   "m": "liverpool-1101"
-  },
-  {
-   "h": "プレミア、アーセナルが首位浮上 マンチェスターC2連敗（共同通信）",
-   "s": "Yahoo!ニュース",
-   "t": "2026-11-02T05:59:22Z",
-   "c": "mt",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oVmZjMTI4d29hUFBXUVZBUV90T09seVJvSzVoZk9iLXdVVGFZSEhWWkxQTGNsaU8yUnNjX2w3VFV5RTB2NzFpc3FxakUtNjBGN09kNXA1aERsYnYtVkJzMFozdE11Q1NmeTlrTUwzdVQ3YWZiSVMxeWhoeXZHZlU?oc=5",
-   "m": "liverpool-1101",
-   "more": 2
+   "h": "アーセナルDFサリバがチーム練習復帰！ CLスラヴィア・プラハ戦前日のトレーニングに参加",
+   "s": "サッカーキング",
+   "t": "2026-11-03T13:31:37Z",
+   "c": "inj",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzc1VISEd6dU4taE5nUzlHTHlCU1ZZalZWYU1rWERQOFJJNjEyY2JGTkR1SXAwS2V6R0ZtRGxsZHpFV3ZpclJ0Y3V4QWFBSnRERldaSXFlcC1zNTlraDlzWC1NQTVHMHJMdk53ME1pVEc?oc=5"
   }
  ],
  "last_shorts": [
   {
+   "v": "X86ZNt-8z1M",
+   "ja": "デクラン・ライスが見せた極上のアシスト。",
+   "en": "DELICIOUS DECLAN RICE ASSIST!",
+   "vw": "40万"
+  },
+  {
+   "v": "SNU1KzHIQmw",
+   "ja": "アーセナルがボールを奪い、メリーノがゴールを決める。",
+   "en": "ARSENAL WIN THE BALL & MERINO SCORES!",
+   "vw": "24万"
+  },
+  {
+   "v": "WyewCTSKVCk",
+   "ja": "アーセナルの伝説イアン・ライトは誰にも止められなかった。",
+   "en": "ARSENAL LEGEND IAN WRIGHT WAS UNSTOPPABLE!",
+   "vw": "20万"
+  },
+  {
    "v": "B6yFePSeTaA",
    "ja": "ゾリスのシュートが好セーブを強いる。",
    "en": "TZOLIS FORCES A SUPER SAVE!",
-   "vw": "35万"
+   "vw": "90万"
   },
   {
    "v": "fXuSXetr_ns",
    "ja": "デクラン・ライスが見せた圧巻のタックル。",
    "en": "HUGE DECLAN RICE TACKLE!",
-   "vw": "34万"
+   "vw": "100万"
   },
   {
    "v": "ussduQ61D_Y",
    "ja": "ノニ・マドゥエケが遊び心あふれる技を披露した。",
    "en": "NONI MADUEKE WITH THE CHEEKY SKILL!",
-   "vw": "19万"
+   "vw": "36万"
   },
   {
    "v": "IlC3SoAIvPw",
    "ja": "デクラン・ライスが見事なアシストを決めた。",
    "en": "AMAZING ASSIST FROM DECLAN RICE!",
-   "vw": "17万"
+   "vw": "29万"
   },
   {
    "v": "ot3tFYBx9ho",
    "ja": "アーセナルがチーム一丸となって守り抜く。",
    "en": "ARSENAL DEFENDING AS A UNIT!",
-   "vw": "31万"
+   "vw": "53万"
   },
   {
    "v": "GOTKI30FgqE",
    "ja": "ブルーノ・ギマランイスがタックル後に闘志をむき出しにする。",
    "en": "BRUNO G: PURE PASSION AFTER CHALLENGE!",
-   "vw": "72万"
+   "vw": "90万"
   },
   {
    "v": "W3aj8pX4FK4",
    "ja": "デクラン・ライスの素早い判断が光る。",
    "en": "QUICK THINKING FROM DECLAN RICE!",
-   "vw": "55万"
-  },
-  {
-   "v": "9hSVn17AFxA",
-   "ja": "ラヤが好セーブでチームの窮地を救った。",
-   "en": "RAYA TO THE RESCUE!",
-   "vw": "27万"
-  },
-  {
-   "v": "ALkWkrmW2KM",
-   "ja": "ハフェルツがリバプール相手にゴールを決めた。",
-   "en": "KING KAI SCORES AGAINST LIVERPOOL!",
-   "vw": "113万"
-  },
-  {
-   "v": "EAiNZokN9Z0",
-   "ja": "ミケル・メリーノが試合直後の思いを語る。",
-   "en": "RAPID REACTION FROM MIKEL MERINO!",
-   "vw": "18万"
+   "vw": "75万"
   }
  ]
 }
