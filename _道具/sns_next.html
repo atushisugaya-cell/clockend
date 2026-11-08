@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>CLOCK END 次の試合（毎週の SNS の絵）</title>
+<!-- 毎週月曜の「次の試合」の絵（1080×1350）。sns_next.py が {{…}} を埋めて、画面なしの Chrome／Edge で撮る。
+     見た目は 11/6 の開店告知と同じ色と字（11/8 菅谷様「A」＝次の試合を日本時間で毎週自動で・結果は書かない・選手や公式の絵は使わない）。 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Noto+Sans+JP:wght@500;700;900&family=Anton&display=swap" rel="stylesheet">
+<style>
+  :root{--red:#DB0007;--bg:#0B0E14;--line:#2A3242;--cyan:#36D6FF;--text:#F2F4F8;--sub:#9AA3B5;--gold:#F6D66E;
+    --num:"Barlow Condensed","Noto Sans JP","Noto Sans CJK JP",sans-serif;
+    --grain:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .5 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>")}
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{width:1080px;height:1350px;overflow:hidden;background:var(--bg)}
+  body{font-family:"Noto Sans JP","Noto Sans CJK JP",sans-serif;color:var(--text);font-feature-settings:"palt"}
+  .art{position:relative;overflow:hidden;width:1080px;height:1350px;background:repeating-linear-gradient(135deg,rgba(255,255,255,.022) 0 2px,transparent 2px 24px),var(--bg)}
+  .art::after{content:"";position:absolute;inset:0;background:var(--grain);opacity:.16;mix-blend-mode:overlay;pointer-events:none;z-index:9}
+  .stripe{position:absolute;left:0;top:0;bottom:0;width:20px;background:var(--red)}
+  .glow{position:absolute;right:-260px;top:-200px;width:900px;height:900px;border-radius:50%;background:radial-gradient(closest-side,rgba(219,0,7,.26),rgba(219,0,7,0))}
+  .k{position:absolute;left:104px;top:96px;font:700 32px/1 var(--num);letter-spacing:.34em;color:var(--cyan)}
+  .emb{position:absolute;right:72px;top:64px;height:210px;filter:drop-shadow(0 12px 30px rgba(0,0,0,.5))}
+  h1{position:absolute;left:96px;top:150px;font:400 150px/1 "Anton",var(--num);color:#fff;letter-spacing:-.005em}
+  h1 i{font-style:normal;color:transparent;-webkit-text-stroke:4px #fff}
+  .lead{position:absolute;left:104px;top:322px;font-size:42px;font-weight:900;letter-spacing:.04em}
+  .lead i{display:block;width:96px;height:8px;background:var(--red);margin-bottom:22px}
+  .list{position:absolute;left:104px;right:72px;top:446px;display:flex;flex-direction:column;gap:22px}
+  .m{position:relative;display:grid;grid-template-columns:250px 1fr;align-items:center;min-height:196px;padding:22px 34px;background:rgba(255,255,255,.04);border:2px solid var(--line);border-left:10px solid var(--red)}
+  .m .when b{display:block;font:800 76px/1 var(--num);letter-spacing:.02em;color:#fff}
+  .m .when span{display:block;margin-top:10px;font:700 34px/1 var(--num);letter-spacing:.08em;color:var(--gold)}
+  .m .who{font-size:42px;font-weight:900;line-height:1.28;letter-spacing:.02em}
+  .m .who span{display:block;white-space:nowrap}
+  .m .who em{font-style:normal;color:var(--sub);font:700 30px/1 var(--num);letter-spacing:.12em;margin-right:14px}
+  .m .comp{margin-top:12px;font-size:28px;font-weight:700;color:var(--sub);letter-spacing:.04em;display:flex;align-items:center;gap:12px}
+  .m .comp i{display:inline-block;width:14px;height:14px;border-radius:50%}
+  .foot{position:absolute;left:104px;right:72px;bottom:92px;display:flex;align-items:flex-end;justify-content:space-between}
+  .foot .ns b{display:block;font:400 54px/1 "Anton",var(--num);color:var(--gold);letter-spacing:.01em}
+  .foot .ns span{display:block;margin-top:14px;font-size:30px;font-weight:700;color:#fff}
+  .foot .url{font:700 40px/1 var(--num);letter-spacing:.1em;color:var(--sub)}
+</style>
+</head>
+<body>
+<div class="art" id="s1">
+  <div class="stripe"></div>
+  <div class="glow"></div>
+  <div class="k">NEXT MATCHES ・ JST</div>
+  <img class="emb" src="{{CREST}}" alt="">
+  <h1>NEXT <i>{{N}}</i></h1>
+  <div class="lead"><i></i>アーセナル、次の{{N}}試合（日本時間）</div>
+  <div class="list">
+{{ROWS}}
+  </div>
+  <div class="foot">
+    <div class="ns"><b>NO SPOILERS.</b><span>結果は、見終わるまで伏せています。</span></div>
+    <div class="url">clockend.jp</div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,42 @@
+# CLOCK END の SNS｜毎週月曜の「次の試合」の絵と投稿文を作って公開先（clockend.jp/sns/）に置く（2026-11-08〜・菅谷様「A」）
+# 起動＝CLOCK END の Worker（公開_試作/src/worker.js の scheduled）が、月曜 9 時台（日本時間）の最初の 5 分の回にだけ dispatch する。
+# 予約は社内ツール（sns-tool の Worker）の月曜 10:30 の定時が next.json を読んで、X と Instagram に 20:00 で入れる。
+name: sns_next
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: sns_next
+  cancel-in-progress: false
+
+jobs:
+  sns_next:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      UPDATE_KEY: ${{ secrets.UPDATE_KEY }}
+      TZ: Asia/Tokyo
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      # 日本語の字（Google Fonts が読めなかった時の控え）
+      - name: 日本語の字
+        run: sudo apt-get install -y -q fonts-noto-cjk > /dev/null
+
+      - name: 絵と投稿文を作って公開先へ送る
+        run: |
+          export CHROME=$(command -v google-chrome || command -v chromium)
+          python _道具/sns_next.py --out sns_out
+
+      - name: 作った物を残す（確かめ用・7 日）
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sns_next
+          path: sns_out/
+          retention-days: 7
