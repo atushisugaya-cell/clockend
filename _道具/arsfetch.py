@@ -715,6 +715,49 @@ def yt_feed(cid):
     return out
 
 
+YT_KEY = os.environ.get("YT_API_KEY") or ""
+
+
+def yt_api_items(cid):
+    """YouTube Data API で新しい 50 本を読む（11/10〜）。
+    11/2 に GitHub へ移してから、チャンネルのページも RSS も空になり、11/5・11/8 のハイライトを拾えなかった＝公式の口に替えた。
+    1 回＝playlistItems 1 単位＋videos 1 単位（アーセナルの物の再生数）。鍵が無い・断られた時は None＝元の読み方に戻る。
+    鍵は住所に入るので、失敗の記録には住所を書かない"""
+    if not YT_KEY:
+        return None
+
+    def call(path, **q):
+        q["key"] = YT_KEY
+        req = urllib.request.Request(f"https://www.googleapis.com/youtube/v3/{path}?" + urllib.parse.urlencode(q), headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    try:
+        d = call("playlistItems", part="snippet", playlistId="UU" + cid[2:], maxResults=50)
+    except urllib.error.HTTPError as ex:
+        log(f"YouTube の API が断った（{ex.code}）＝元の読み方に戻す", star=True)
+        return None
+    except Exception as ex:
+        log(f"YouTube の API に届かない（{type(ex).__name__}）＝元の読み方に戻す", star=True)
+        return None
+    out = []
+    for it in d.get("items", []):
+        sn = it.get("snippet") or {}
+        v = (sn.get("resourceId") or {}).get("videoId")
+        if v:
+            out.append({"v": v, "t": sn.get("title") or "", "p": iso(sn.get("publishedAt") or "") or None, "views": None})
+    ids = [x["v"] for x in out if "アーセナル" in x["t"]][:50]
+    if ids:
+        try:
+            s2 = call("videos", part="statistics", id=",".join(ids))
+            vw = {i["id"]: int(i["statistics"]["viewCount"]) for i in s2.get("items", []) if (i.get("statistics") or {}).get("viewCount")}
+            for x in out:
+                if x["v"] in vw:
+                    x["views"] = vw[x["v"]]
+        except Exception as ex:
+            log(f"再生数が取れない（{type(ex).__name__}）")
+    return out
+
+
 def yt_channel_scrape(cid):
     """RSS は新しい 15 本しか出ないので、チャンネルの動画一覧（約 30 本）も見る。壊れたら黙って空"""
     try:
@@ -871,24 +914,31 @@ def collect_videos(st):
     """3 社の動画を集めて state['videos'] に足す（初めて見た時刻つき）"""
     newly = []
     for ch, (nm, cid, _c) in CHANNELS.items():
-        items = []
-        try:
-            items = yt_feed(cid)
-        except Exception as ex:
-            if not SKIP_RSS:
-                log(f"{nm} の RSS が取れない: {ex}")
-        extra = yt_channel_scrape(cid)
-        seen = {x["v"] for x in items}
-        for x in extra:
-            if x["v"] and x["v"] not in seen:
-                seen.add(x["v"])
-                items.append(x)
+        items = yt_api_items(cid)
+        if items is None:
+            items = []
+            try:
+                items = yt_feed(cid)
+            except Exception as ex:
+                if not SKIP_RSS:
+                    log(f"{nm} の RSS が取れない: {ex}")
+            extra = yt_channel_scrape(cid)
+            seen = {x["v"] for x in items}
+            for x in extra:
+                if x["v"] and x["v"] not in seen:
+                    seen.add(x["v"])
+                    items.append(x)
+        if not items:
+            log(f"{nm} の動画が 1 本も読めない", star=True)
         for x in items:
             if not x.get("v"):
                 continue
             rec = st["videos"].get(x["v"]) or {}
             if not rec:
                 rec = {"ch": ch, "t": x["t"], "p": x.get("p") or (to_iso(rel_to_time(x.get("rel"))) if x.get("rel") else None), "views": x.get("views"), "fs": to_iso(now())}
+                # 公開から 6 時間以上たって初めて見た物（11/5・11/8 の拾い直しなど）は「届いた」の記録に出さない（何時間で届いたかが嘘になる）
+                if rec["p"] and (now() - parse_iso(rec["p"])) > dt.timedelta(hours=6):
+                    rec["late"] = True
                 st["videos"][x["v"]] = rec
                 st["first_seen"][x["v"]] = rec["fs"]
                 if "アーセナル" in x["t"]:
@@ -1282,7 +1332,7 @@ def run():
             v, rec = pv
             m["v"], m["ch"], m["vw"] = v, rec["ch"], fmt_views(rec.get("views"))
             fs = st["first_seen"].get(v)
-            if fs and st["runs"] > 0 and not rec.get("seed") and parse_iso(fs) > parse_iso(e["d"]) and not st.get("notes_done", {}).get(m["id"]):
+            if fs and st["runs"] > 0 and not rec.get("seed") and not rec.get("late") and parse_iso(fs) > parse_iso(e["d"]) and not st.get("notes_done", {}).get(m["id"]):
                 hours = (parse_iso(fs) - parse_iso(e["d"])).total_seconds() / 3600 - 1.9
                 log(f"{e['lab']} {e['hname']} vs {e['aname']} のハイライトが載った: {CHANNELS[rec['ch']][0]} {v}（試合終了から約 {hours:.1f} 時間）", star=True)
                 st.setdefault("notes_done", {})[m["id"]] = fs

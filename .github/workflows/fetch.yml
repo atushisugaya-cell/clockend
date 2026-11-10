@@ -21,6 +21,7 @@ jobs:
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       UPDATE_KEY: ${{ secrets.UPDATE_KEY }}
+      YT_API_KEY: ${{ secrets.YT_API_KEY }}  # 11/10〜 YouTube Data API（Google Cloud の clockend・YouTube Data API v3 だけに制限）
       ARS_SKIP_RSS: "1"
       ARS_MODEL: ${{ vars.ARS_MODEL }}  # 空なら claude-opus-5-5（Settings → Variables で替えられる）
       TZ: Asia/Tokyo
