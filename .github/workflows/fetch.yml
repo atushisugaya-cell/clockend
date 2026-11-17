@@ -89,6 +89,15 @@ jobs:
       - name: 公開先へ送る
         run: python _道具/upload.py
 
+      # 試合の日の SNS（11/14〜・決まり帳 v1.1 の 1〜5）＝出来事があった回だけ絵と文を作って公開先の /_sns へ。
+      # 公開先が社内ツール（sns-tool）に渡して Buffer に予約する。失敗しても取り込みは止めない（困った時は社内ツールがカレンダーに【要対応】）
+      - name: 試合の日の SNS
+        continue-on-error: true
+        timeout-minutes: 5
+        run: |
+          export CHROME=$(command -v google-chrome || command -v chromium || true)
+          python _道具/sns_match.py --data 見本_20261030/data.js
+
       - name: 控えを次の回へ
         if: always()
         uses: actions/cache/save@v4
